@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100062221607097",
+    "body": "",
+    "threadID": "4683533571674177",
+    "messageID": "mid.$gABCjpiLVUEGBhIg9LF7U0LyRBtLS",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "374669463451293",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/95414385_375064936745079_4673335605332017152_n.png?_nc_cat=1&ccb=1-5&_nc_sid=ac3552&_nc_ohc=zWIXQWzEq3kAX8j_JvK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=739ab1da0cf21ba39814b715abd16879&oe=612147F4",
+            "packID": "373003673617872",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/95376653_375061666745406_6129695428414799872_n.png?_nc_cat=106&ccb=1-5&_nc_sid=0572db&_nc_ohc=WRu831TGyl8AX_t2Gks&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=623c4a137e7384c6e92d08cfc044b991&oe=61207587"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/95376653_375061666745406_6129695428414799872_n.png?_nc_cat=106&ccb=1-5&_nc_sid=0572db&_nc_ohc=WRu831TGyl8AX_t2Gks&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0653d0d8d6ac7de4863f723ce1f9913f&oe=61200904"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "A cartoon bunny sits on the ground waving their arms and legs. They have tears coming out of their eyes and the tears turn into two big streams of water. They are also smiling.",
+            "description": "A cartoon bunny sits on the ground waving their arms and legs. They have tears coming out of their eyes and the tears turn into two big streams of water. They are also smiling.",
+            "frameCount": 19,
+            "frameRate": 55,
+            "framesPerRow": 5,
+            "framesPerCol": 4,
+            "stickerID": "374669463451293",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/95376653_375061666745406_6129695428414799872_n.png?_nc_cat=106&ccb=1-5&_nc_sid=0572db&_nc_ohc=WRu831TGyl8AX_t2Gks&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=623c4a137e7384c6e92d08cfc044b991&oe=61207587"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/95376653_375061666745406_6129695428414799872_n.png?_nc_cat=106&ccb=1-5&_nc_sid=0572db&_nc_ohc=WRu831TGyl8AX_t2Gks&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0653d0d8d6ac7de4863f723ce1f9913f&oe=61200904"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1629189502252",
+    "isGroup": true
+}

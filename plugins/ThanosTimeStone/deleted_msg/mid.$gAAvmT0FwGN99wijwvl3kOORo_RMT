@@ -1,0 +1,84 @@
+{
+    "type": "message_reply",
+    "threadID": "3349452818487519",
+    "messageID": "mid.$gAAvmT0FwGN99wijwvl3kOORo_RMT",
+    "senderID": "100058382866807",
+    "attachments": [
+        {
+            "id": "705758450122854",
+            "mimeType": "audio/mpeg",
+            "filename": "audioclip-1613043574000-2555.mp4",
+            "fbid": 705758450122854,
+            "fileSize": 21832,
+            "genericMetadata": {
+                "duration": "2555",
+                "isVoicemail": "1",
+                "type": "fb_voice_message",
+                "call_id": ""
+            },
+            "hash": "705758450122854",
+            "titanType": 6,
+            "otherUserFbIds": [
+                100050171202070,
+                100060298117444,
+                100063588453857,
+                100063293275211,
+                100063560941702,
+                100053774230237,
+                100050166390482,
+                100063573484620,
+                100027442403800,
+                100054110914002,
+                100051665183960,
+                100055868840983,
+                100063578250132,
+                100051785413890,
+                100063647672307,
+                100057845350386,
+                100054236632556,
+                100051446890404,
+                100062116338959,
+                100057451067834,
+                100058382866807,
+                100056553680765,
+                100048827706311,
+                100059469240626,
+                100030913693981,
+                100041869420127,
+                100055530481235,
+                100063541777511,
+                100058151724139,
+                100031221671848
+            ],
+            "mercuryJSON": "{\"blob_attachment\":null}",
+            "useRefCounting": true,
+            "blob_attachment": null,
+            "error": {},
+            "type": "unknown"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613043574974,
+    "messageReply": {
+        "threadID": "3349452818487519",
+        "messageID": "mid.$gAAvmT0FwGN99wihzvV3kOQRIM6PY",
+        "senderID": "100000190045028",
+        "attachments": [
+            {
+                "type": "audio",
+                "filename": "audioclip-1613043541000-1656.mp4",
+                "ID": "AT1u0Flhpmb_ZsT4qZ8vgnOgVS_Pj7j1_I874giJjwZ4WHuXB02T8KrnkV2J5X_0pgd2UeMc6vVTb1PP6P85XwgeE1PlfTiiQnbf4Ael55bHt3kqKELFeh4ehvRUixlz4uhoY3GiR4HsbRZkMTTtp3k-U1E",
+                "audioType": "VOICE_MESSAGE",
+                "duration": 1656,
+                "url": "https://cdn.fbsbx.com/v/t59.3654-21/134062089_1128066690962331_4981056034712201830_n.mp4/audioclip-1613043541000-1656.mp4?_nc_cat=107&ccb=3&_nc_sid=7272a8&_nc_ohc=-45KbPvmEsUAX9MJ-Vh&_nc_ht=cdn.fbsbx.com&oh=36939bec2f7dcd71c548faed81b063fc&oe=6026F90F&dl=1",
+                "isVoiceMail": false
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613043542973
+    }
+}

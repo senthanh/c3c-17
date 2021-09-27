@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100038944432591",
+    "body": "*yt2mp4 https://youtu.be/nuCIA31LfIU",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17gIU38l1Tz_tK8Wez",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzwqtZjSz17gIU38l1Tz_tK8Wez",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FnuCIA31LfIU&h=AT3wBoq1Lm6PPfbmp2MNyxexq3n_plFPE6UikPv6wBLI6aaqmUOv4DYjLL8YpZKATxj39UYg3gCprikiqrUfL_cGjPsEvFDERyoCH6y0CdAgl1roqXeHiORvqyKDXuWx4PDxF4ETE_YKrJw&s=1",
+            "title": "Moscow Moscow Missile Meme!",
+            "description": "Song name: moskau My Discord server: https://discord.gg/meYJWN",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQAl6pYe1rtq8Oqe&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnuCIA31LfIU%2Fhqdefault.jpg&sx=0&sy=0&sw=480&sh=360&_nc_cb=1&_nc_hash=AQCoNT1X8DbnJLQN",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/nuCIA31LfIU?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FnuCIA31LfIU&h=AT3wBoq1Lm6PPfbmp2MNyxexq3n_plFPE6UikPv6wBLI6aaqmUOv4DYjLL8YpZKATxj39UYg3gCprikiqrUfL_cGjPsEvFDERyoCH6y0CdAgl1roqXeHiORvqyKDXuWx4PDxF4ETE_YKrJw&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603352391666",
+    "isGroup": true
+}

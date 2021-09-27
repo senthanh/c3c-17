@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100037141996242",
+    "body": "https://drive.google.com/drive/folders/0B5Wdv-862gdZOTU4VjJiRC1fbTQ?usp=sharing",
+    "threadID": "4064076103617640",
+    "messageID": "mid.$gAA5wQXR_DGh7hJ3ERF1U1gU7CuOc",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA5wQXR_DGh7hJ3ERF1U1gU7CuOc",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B5Wdv-862gdZOTU4VjJiRC1fbTQ%3Fusp%3Dsharing&h=AT2aJHT8ePnRM2-6Gfm-4OUXVml4t8gKePWasPdz2wNSHhGUmBJ3rCc_7MiteIbCT0NKdD6baet-Z5pqIkxjbzlRoipdXXI44myu_b26JMtiEgfQZ2qMEKq4e-M_owS_lQ-kjfGfJBMzxEk&s=1",
+            "title": "The Principal's Files - Google Drive",
+            "description": "",
+            "source": "drive.google.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQCpnwR9dwcQrz95&w=48&h=48&url=https%3A%2F%2Fssl.gstatic.com%2Fimages%2Fbranding%2Fproduct%2F1x%2Fdrive_2020q4_48dp.png&_nc_cb=1&_nc_hash=AQACygTgnm1d4Qre",
+            "width": 48,
+            "height": 48,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "48",
+                "height": "48"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0B5Wdv-862gdZOTU4VjJiRC1fbTQ%3Fusp%3Dsharing&h=AT2aJHT8ePnRM2-6Gfm-4OUXVml4t8gKePWasPdz2wNSHhGUmBJ3rCc_7MiteIbCT0NKdD6baet-Z5pqIkxjbzlRoipdXXI44myu_b26JMtiEgfQZ2qMEKq4e-M_owS_lQ-kjfGfJBMzxEk&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603421109316",
+    "isGroup": true
+}

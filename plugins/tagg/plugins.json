@@ -1,0 +1,44 @@
+{
+	"plugin_name": "Tag mem",
+	"plugin_scope": "Tag mem",
+	"plugin_exec": "tagg.js",
+	"command_map": {
+		"tag": {
+			"hargs": {
+				"en_US": "",
+				"vi_VN": ""
+			},
+			"hdesc": {
+				"en_US": "",
+				"vi_VN": "Tag cno zô :>"
+			},
+			"fscope": "tag",
+			"compatibly": 1
+		},
+		"list": {
+			"hargs": {
+				"en_US": "",
+				"vi_VN": ""
+			},
+			"hdesc": {
+				"en_US": "",
+				"vi_VN": "danh sách"
+			},
+			"fscope": "list",
+			"compatibly": 1
+		}
+		
+	},
+	"author": "Dong",
+	"version": "1.0",
+	"node_depends": {
+		
+	},
+	"dependents": [
+		
+	],
+	"chatHook": "chathook",
+    "chatHookType": "everything",
+    "chatHookPlatform": 1,
+	"complied_for": "0.3.0"
+}

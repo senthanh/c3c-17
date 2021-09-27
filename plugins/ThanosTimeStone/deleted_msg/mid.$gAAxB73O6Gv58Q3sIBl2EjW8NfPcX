@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100057216024905",
+    "body": "Chào mừng Minh Tiến đến với C3C BOT - Member Create Group.\nBạn là thành viên thứ 70 của nhóm 🥳🥳🥳.",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58Q3sIBl2EjW8NfPcX",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "151584953374265",
+            "filename": "gif-151584953374265",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "previewWidth": 800,
+            "previewHeight": 722,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "width": 800,
+            "height": 722,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "name": "gif-151584953374265",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=igChsPtE8IcAX8ncf4L&_nc_ht=cdn.fbsbx.com&oh=650fbe109fc0cff419f81b485eac2852&oe=5FC4F125"
+        }
+    ],
+    "mentions": {
+        "100055918998935": "Minh Tiến"
+    },
+    "timestamp": "1606623281158",
+    "isGroup": true
+}

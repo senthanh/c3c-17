@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326580770724536",
+    "messageID": "mid.$gAAvRgfEn2rh8SqANal2GVq7qyBj9",
+    "senderID": "100053031879140",
+    "attachments": [],
+    "body": "!say bảo mất dạy ngu như chó ăn cặc ăn lồn của diễm quài",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606743147882,
+    "messageReply": {
+        "threadID": "3326580770724536",
+        "messageID": "mid.$gAAvRgfEn2rh8Sp8isl2GVnc_jSTN",
+        "senderID": "100025548459863",
+        "attachments": [],
+        "body": "!say thiên ngu mất dậy ăn cứt",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606743087794
+    }
+}

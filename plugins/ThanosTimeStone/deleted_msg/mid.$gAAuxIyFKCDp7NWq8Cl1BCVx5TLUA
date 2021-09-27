@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7NWq8Cl1BCVx5TLUA",
+    "senderID": "100010281856800",
+    "attachments": [],
+    "body": "Chối đi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602092364810,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7NWnskF1BCSi3eY0M",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Nguyễn Phương Thảo đã cố gắng xoá 1 tin nhắn. \r\nNội dung: Ừ 🥰",
+        "isGroup": true,
+        "mentions": {
+            "100028096432071": "Nguyễn Phương Thảo "
+        },
+        "timestamp": 1602092311696
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3734378459950365",
+    "messageID": "mid.$gAA1EZb2P7R197vRNMV3va8D6ltCb",
+    "senderID": "100056385265906",
+    "attachments": [],
+    "body": "Tagal nawala ng aso ko ah",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613795099953,
+    "messageReply": {
+        "threadID": "3734378459950365",
+        "messageID": "mid.$gAA1EZb2P7R197vOdt13va5VRXy7v",
+        "senderID": "100018505699990",
+        "attachments": [],
+        "body": "nasan si kaito?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613795055031
+    }
+}

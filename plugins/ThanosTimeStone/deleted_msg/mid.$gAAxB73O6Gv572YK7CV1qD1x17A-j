@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv572YK7CV1qD1x17A-j",
+    "senderID": "100034098077653",
+    "attachments": [],
+    "body": "qtv đâu:) ko sợ liu liu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604845400841,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv572YFUnV1qDwKezbXT",
+        "senderID": "100045858840086",
+        "attachments": [],
+        "body": "Ăn ban ko Lý :)",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604845309085
+    }
+}

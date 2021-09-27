@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7bV8jaV1PBnaaRWG0",
+    "senderID": "100013273811577",
+    "attachments": [],
+    "body": "Sao?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603031128937,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7bV7rUl1PBmibNf55",
+        "senderID": "100034440618905",
+        "attachments": [],
+        "body": "Băng trụ giết luôn :))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603031114578
+    }
+}

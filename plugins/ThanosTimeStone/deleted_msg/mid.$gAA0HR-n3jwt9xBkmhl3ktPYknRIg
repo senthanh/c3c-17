@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3667180146626315",
+    "messageID": "mid.$gAA0HR-n3jwt9xBkmhl3ktPYknRIg",
+    "senderID": "100057388061549",
+    "attachments": [],
+    "body": "Sino",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613076094598,
+    "messageReply": {
+        "threadID": "3667180146626315",
+        "messageID": "mid.$gAA0HR-n3jwt9xBkLdl3ktPA5tqpP",
+        "senderID": "100057571507135",
+        "attachments": [],
+        "body": "Nakalimutan ko name yung ex ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613076087670
+    }
+}

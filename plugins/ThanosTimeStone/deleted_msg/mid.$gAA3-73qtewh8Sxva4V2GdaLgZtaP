@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100019346322111",
+    "body": "",
+    "threadID": "3939479206066952",
+    "messageID": "mid.$gAA3-73qtewh8Sxva4V2GdaLgZtaP",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "237319140421079",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36867259_237319150421078_5176744835150774272_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=Fs5oJbY_0yAAX9-3q1t&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=97143f00c12d74a8f936cc020e2252b6&oe=5FEA6EB2",
+            "packID": "237317020421291",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=njatO_D7zCAAX-FlZng&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=20d939816b9e7fd55d3a7d3ed49d35e5&oe=5FEAB17F"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=njatO_D7zCAAX-FlZng&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=47c7e23f7bbe9088865e284d138feac1&oe=5FE99DA9"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "kissing, cat and bunny kissing",
+            "description": "kissing, cat and bunny kissing",
+            "frameCount": 12,
+            "frameRate": 125,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "237319140421079",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=njatO_D7zCAAX-FlZng&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=20d939816b9e7fd55d3a7d3ed49d35e5&oe=5FEAB17F"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=njatO_D7zCAAX-FlZng&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=47c7e23f7bbe9088865e284d138feac1&oe=5FE99DA9"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606751261409",
+    "isGroup": true
+}

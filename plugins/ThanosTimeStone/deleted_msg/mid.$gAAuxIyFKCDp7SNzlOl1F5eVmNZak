@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7SNzlOl1F5eVmNZak",
+    "senderID": "100010281856800",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "734606930456927",
+            "filename": "image-734606930456927",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/121081278_734606933790260_9115524377901013476_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=oUbLqzg7xZMAX8klVwl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=2832e21abfba444ebf9592f16f1533dd&oe=5FA69666",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121081278_734606933790260_9115524377901013476_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=oUbLqzg7xZMAX8klVwl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1a5495c49cadf2caf3a72317f2d8b63a&oe=5FA76176",
+            "previewWidth": 270,
+            "previewHeight": 600,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121081278_734606933790260_9115524377901013476_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=oUbLqzg7xZMAX8klVwl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1a5495c49cadf2caf3a72317f2d8b63a&oe=5FA76176",
+            "largePreviewWidth": 270,
+            "largePreviewHeight": 600,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121081278_734606933790260_9115524377901013476_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=oUbLqzg7xZMAX8klVwl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1a5495c49cadf2caf3a72317f2d8b63a&oe=5FA76176",
+            "width": 270,
+            "height": 600,
+            "name": "image-734606930456927"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602418613562,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7SNqK-l1F5U9zX_99",
+        "senderID": "100028096432071",
+        "attachments": [],
+        "body": "Thảo xinh mà 🥰",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602418459386
+    }
+}

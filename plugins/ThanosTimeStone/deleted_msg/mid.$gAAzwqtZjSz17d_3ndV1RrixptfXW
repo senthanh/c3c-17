@@ -1,0 +1,168 @@
+{
+    "type": "message",
+    "senderID": "100055918998935",
+    "body": ".fbget https://www.facebook.com/groups/LienQuanMobileThayGiaoX/permalink/1054813634979987/",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17d_3ndV1RrixptfXW",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzwqtZjSz17d_3ndV1RrixptfXW",
+            "url": "https://www.facebook.com/groups/LienQuanMobileThayGiaoX/permalink/1054813634979987/",
+            "title": "Trung Seven đã đăng trong Xã Đoàn Thầy Giáo X.",
+            "description": "Ơ thầy ẹc làm gì vậy mn??",
+            "source": "Trung Seven",
+            "image": "https://scontent.xx.fbcdn.net/v/t15.5256-10/121662596_1338035169868612_5670080774833345160_n.jpg?_nc_cat=100&_nc_sid=1055be&_nc_ohc=UIQAiurBit0AX_s_r3O&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb08d0fa36dbd3796d1a34a0a39779a5&oe=5FB55DBC",
+            "width": 540,
+            "height": 960,
+            "playable": true,
+            "duration": 15300,
+            "playableUrl": "https://video.xx.fbcdn.net/v/t42.9040-2/122180677_368827557794235_2271898695440877917_n.mp4?_nc_cat=111&_nc_sid=985c63&efg=eyJybHIiOjY0MiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoibGVnYWN5X3NkIn0%3D&_nc_ohc=75p-koQqqOsAX-aQgjv&rl=642&vabr=357&_nc_ht=video.xx&oh=3ce7f5a3bbfb659f084eff82757d776d&oe=5F8F2FA4",
+            "subattachments": [
+                {
+                    "description": null,
+                    "messenger_generic_xma_template_extra_info": null,
+                    "media": {
+                        "animated_image": null,
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t15.5256-10/121662596_1338035169868612_5670080774833345160_n.jpg?_nc_cat=100&_nc_sid=1055be&_nc_ohc=UIQAiurBit0AX_s_r3O&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb08d0fa36dbd3796d1a34a0a39779a5&oe=5FB55DBC",
+                            "height": 960,
+                            "width": 540
+                        },
+                        "playable_duration_in_ms": 15300,
+                        "is_playable": true,
+                        "playable_url": "https://video.xx.fbcdn.net/v/t42.9040-2/122180677_368827557794235_2271898695440877917_n.mp4?_nc_cat=111&_nc_sid=985c63&efg=eyJybHIiOjY0MiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoibGVnYWN5X3NkIn0%3D&_nc_ohc=75p-koQqqOsAX-aQgjv&rl=642&vabr=357&_nc_ht=video.xx&oh=3ce7f5a3bbfb659f084eff82757d776d&oe=5F8F2FA4"
+                    },
+                    "source": null,
+                    "style_list": [
+                        "video_inline",
+                        "video",
+                        "games_app",
+                        "fallback"
+                    ],
+                    "title_with_entities": {
+                        "text": ""
+                    },
+                    "properties": [
+                        {
+                            "key": "can_autoplay_result",
+                            "value": {
+                                "text": "gatekeeper"
+                            }
+                        }
+                    ],
+                    "url": "https://www.facebook.com/100009864257071/videos/1338034766535319/",
+                    "deduplication_key": "10be7bc92d982ec420af3483128d5843",
+                    "action_links": [],
+                    "messaging_attribution": null,
+                    "messenger_call_to_actions": [],
+                    "xma_layout_info": null,
+                    "target": {
+                        "__typename": "Video",
+                        "video_id": "1338034766535319"
+                    }
+                }
+            ],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/groups/LienQuanMobileThayGiaoX/permalink/1054813634979987/",
+            "target": {
+                "__typename": "Story",
+                "title": {
+                    "text": "Trung Seven đã đăng trong Xã Đoàn Thầy Giáo X.",
+                    "ranges": [
+                        {
+                            "length": 11,
+                            "offset": 0
+                        },
+                        {
+                            "length": 19,
+                            "offset": 26
+                        }
+                    ]
+                },
+                "message_richtext": [],
+                "feedback": {
+                    "comment_count_reduced": "295",
+                    "top_level_comments": {
+                        "total_count": 295
+                    },
+                    "reaction_count_reduced": "1,3K",
+                    "top_reactions": {
+                        "nodes": [
+                            {
+                                "reaction_type": "HAHA"
+                            },
+                            {
+                                "reaction_type": "LIKE"
+                            },
+                            {
+                                "reaction_type": "SORRY"
+                            }
+                        ]
+                    }
+                },
+                "post_id": "1054813634979987",
+                "creation_time": 1603194735,
+                "description": {
+                    "text": "Ơ thầy ẹc làm gì vậy mn??"
+                },
+                "actors": [
+                    {
+                        "__typename": "User",
+                        "name": "Trung Seven",
+                        "id": "100009864257071",
+                        "short_name": "Trung",
+                        "url": "https://www.facebook.com/profile.php?id=100009864257071",
+                        "profile_picture": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/84338945_1129449367393861_3181591157310226432_n.jpg?_nc_cat=102&_nc_sid=7206a8&_nc_ohc=IOsHpZ57jvYAX_505fU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=f0871d4cabf2a6340297c82a8b2a5788&oe=5FB69066",
+                            "height": 50,
+                            "width": 50
+                        }
+                    }
+                ],
+                "to": {
+                    "__typename": "Group",
+                    "name": "Xã Đoàn Thầy Giáo X",
+                    "url": "https://www.facebook.com/groups/LienQuanMobileThayGiaoX/"
+                },
+                "attachments": [
+                    {
+                        "style_list": [
+                            "video_inline",
+                            "video",
+                            "games_app",
+                            "fallback"
+                        ],
+                        "url": "https://www.facebook.com/100009864257071/videos/1338034766535319/",
+                        "source": null,
+                        "description": null,
+                        "media": {
+                            "is_playable": true,
+                            "image": {
+                                "uri": "https://scontent.xx.fbcdn.net/v/t15.5256-10/121662596_1338035169868612_5670080774833345160_n.jpg?_nc_cat=100&_nc_sid=1055be&_nc_ohc=UIQAiurBit0AX_s_r3O&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb08d0fa36dbd3796d1a34a0a39779a5&oe=5FB55DBC",
+                                "height": 960,
+                                "width": 540
+                            }
+                        },
+                        "title": {
+                            "text": ""
+                        },
+                        "all_subattachments": {
+                            "count": 0,
+                            "files": [],
+                            "images": []
+                        }
+                    }
+                ],
+                "attached_story": null
+            },
+            "styleList": [
+                "attached_story",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603209305973",
+    "isGroup": true
+}

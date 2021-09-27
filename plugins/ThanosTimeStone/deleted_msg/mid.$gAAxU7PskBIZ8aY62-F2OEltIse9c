@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3471076522984582",
+    "messageID": "mid.$gAAxU7PskBIZ8aY62-F2OEltIse9c",
+    "senderID": "100011755713155",
+    "attachments": [],
+    "body": "no thanks",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607262105336,
+    "messageReply": {
+        "threadID": "3471076522984582",
+        "messageID": "mid.$gAAxU7PskBIZ8aY5Vxl2OEkG0uL9y",
+        "senderID": "100049019530825",
+        "attachments": [],
+        "body": "Xúc xích đức ăn không",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607262080454
+    }
+}

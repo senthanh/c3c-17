@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7zvLqVF1na2h4JTir",
+    "senderID": "100056945994716",
+    "attachments": [],
+    "body": "OK! \r\nSay: chị mình\r\nAnswer: [\"xinh gái\"]",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604668203604,
+    "messageReply": {
+        "threadID": "4553246968081463",
+        "messageID": "mid.$gABAtJ2wbbDd7zvLo711na2cfHFYk",
+        "senderID": "100036743982200",
+        "attachments": [],
+        "body": "-chị mình=>xinh gái",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604668203247
+    }
+}

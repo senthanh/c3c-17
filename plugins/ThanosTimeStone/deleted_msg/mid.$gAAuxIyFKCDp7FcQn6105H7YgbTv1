@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7FcQn6105H7YgbTv1",
+    "senderID": "100041950734058",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "348840086324440",
+            "filename": "image-348840086324440",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/120593773_348840089657773_7334802024490827019_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=3MwiwfqiktMAX88n5Ov&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=32d908752bebdd7836471978f6f554fb&oe=5F99B2C5",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120593773_348840089657773_7334802024490827019_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=3MwiwfqiktMAX88n5Ov&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b85f2bd42c4fb42d41e6d80ae233640e&oe=5F9AFEA8",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120593773_348840089657773_7334802024490827019_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=3MwiwfqiktMAX88n5Ov&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5c81f6f2c5ebf65486fcb4c69bbfd1f5&oe=5F9CB3A1",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120593773_348840089657773_7334802024490827019_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=3MwiwfqiktMAX88n5Ov&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5c81f6f2c5ebf65486fcb4c69bbfd1f5&oe=5F9CB3A1",
+            "width": 750,
+            "height": 750,
+            "name": "image-348840086324440"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601561354219,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7FcI8mV05HztYDfY3",
+        "senderID": "100033435451269",
+        "attachments": [],
+        "body": "làm.sớm lát về đánh cus",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601561228441
+    }
+}

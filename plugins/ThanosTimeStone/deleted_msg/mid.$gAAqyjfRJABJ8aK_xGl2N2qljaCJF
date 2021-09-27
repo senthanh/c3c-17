@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3011072525664274",
+    "messageID": "mid.$gAAqyjfRJABJ8aK_xGl2N2qljaCJF",
+    "senderID": "100026284894199",
+    "attachments": [],
+    "body": "À. Chị ko nói chuyện với anh đó nên ko biết",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607247505690,
+    "messageReply": {
+        "threadID": "3011072525664274",
+        "messageID": "mid.$gAAqyjfRJABJ8aK9sUF2N2oh1yXSY",
+        "senderID": "100039626565736",
+        "attachments": [],
+        "body": "cái anh gạch đầu dòng :)",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607247471696
+    }
+}

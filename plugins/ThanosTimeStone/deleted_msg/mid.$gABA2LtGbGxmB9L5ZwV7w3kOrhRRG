@@ -1,0 +1,23 @@
+{
+    "type": "message",
+    "senderID": "100061274770284",
+    "body": "Vì fb cấm gửi file .js nên đã đổi các file có đuôi .js thành đuôi .txt",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9L5ZwV7w3kOrhRRG",
+    "attachments": [
+        {
+            "type": "file",
+            "filename": "tagadmin.txt",
+            "ID": "414078186804704",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcdn.fbsbx.com%2Fv%2Ft59.2708-21%2F241625320_414078190138037_5690038724020968080_n.txt%2Ftagadmin.txt%3F_nc_cat%3D109%26ccb%3D1-5%26_nc_sid%3D0cab14%26_nc_ohc%3DiyrVy6IRpaIAX9v3elL%26_nc_ht%3Dcdn.fbsbx.com%26oh%3D865b249f1a5ae2582d20d9705baf476f%26oe%3D6139D88A%26dl%3D1&h=AT3NPoVb-C9wKvM86yxIF4JuyU_LmqKuLllisiFFqZyEnynJZDC8qWdu9x152Kr2VRCbcNQI0YjJJYIXsUnywjF_YlajBDVHu_KthlhO8-MFRLzviDjAfdUsMkERCa_agYI_kUSLFp7IJR7Faa0ypIrX8OY&s=1",
+            "isMalicious": false,
+            "contentType": "attach:text",
+            "name": "tagadmin.txt",
+            "mimeType": "",
+            "fileSize": -1
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1631072096705",
+    "isGroup": true
+}

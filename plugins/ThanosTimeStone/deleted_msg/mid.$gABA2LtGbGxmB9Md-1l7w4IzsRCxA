@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100061274770284",
+    "body": "Suốt ngày dú dú😼\n» Số dư: -100 đô «",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9Md-1l7w4IzsRCxA",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "385254326560931",
+            "filename": "image-385254326560931",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/cp0/p50x50/240776375_395485122143906_1792178964424007524_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=2RPD1i3onmQAX8w0Pcq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=31fd3eb7ec180a7e74735a61222503f3&oe=615EF509",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p280x280/240776375_395485122143906_1792178964424007524_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=2RPD1i3onmQAX8w0Pcq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a941a44ee6c332c2094567ed16c6958e&oe=615DE568",
+            "previewWidth": 280,
+            "previewHeight": 281,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p480x480/240776375_395485122143906_1792178964424007524_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=2RPD1i3onmQAX8w0Pcq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=24c57357f7d31e43f8f8349ddde43894&oe=615E77E1",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 482,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p480x480/240776375_395485122143906_1792178964424007524_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=2RPD1i3onmQAX8w0Pcq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=24c57357f7d31e43f8f8349ddde43894&oe=615E77E1",
+            "width": 720,
+            "height": 723,
+            "name": "image-385254326560931"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1631072696022",
+    "isGroup": true
+}

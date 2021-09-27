@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NDhueV2AvMddilvr",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Đúng đúng kkk",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606367258233,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8NDhCMV2AvL3_Q8MO",
+        "senderID": "100014716171553",
+        "attachments": [],
+        "body": "M kiểu câu càng cấm càng làm hong",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606367246897
+    }
+}

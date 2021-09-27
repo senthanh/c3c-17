@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4780901961980885",
+    "messageID": "mid.$gABD8NHsmW9V8XiQ_212LN73ZvUSJ",
+    "senderID": "100052027781892",
+    "attachments": [],
+    "body": "Ý tao là như thế đấy",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607070578651,
+    "messageReply": {
+        "threadID": "4780901961980885",
+        "messageID": "mid.$gABD8NHsmW9V8XiOsal2LN5iQgNC6",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "Lệnh bạn đã nhập không tồn tại. Ý bạn là _osu!, phải không?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607070540906
+    }
+}

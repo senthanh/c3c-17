@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBgMVkBV7T4AbR1inY",
+    "senderID": "100070052890137",
+    "attachments": [],
+    "body": "Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\n\n- Bị cấm vào: 22:08:07 08/16/2021",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629126401029,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBgMVjBF7T4Aaexpcp",
+        "senderID": "100070052890137",
+        "attachments": [],
+        "body": "/hololive gura",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629126400772
+    }
+}

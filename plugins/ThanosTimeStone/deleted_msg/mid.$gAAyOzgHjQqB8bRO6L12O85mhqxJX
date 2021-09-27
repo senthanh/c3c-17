@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100048234966042",
+    "body": ";echo @Hoàng Quỳnh gà",
+    "threadID": "3534715166605984",
+    "messageID": "mid.$gAAyOzgHjQqB8bRO6L12O85mhqxJX",
+    "attachments": [],
+    "mentions": {
+        "100056957830417": "@Hoàng Quỳnh"
+    },
+    "timestamp": "1607321154095",
+    "isGroup": true
+}

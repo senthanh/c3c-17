@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J95YzUCV3tEeLw1ym3",
+    "senderID": "100052153322984",
+    "attachments": [],
+    "body": "Nhìn thich",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613637323785,
+    "messageReply": {
+        "threadID": "2999536510068626",
+        "messageID": "mid.$gAAqoEAQsZ5J95YyMHF3tEc-LTvmP",
+        "senderID": "100048750859477",
+        "attachments": [],
+        "body": "Dcmm cho tao nói xong đã mày",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613637305372
+    }
+}

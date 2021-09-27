@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100053149550964",
+    "body": "",
+    "threadID": "3245203125581894",
+    "messageID": "mid.$gAAuHfruGOEZ9xXdiil3lDIVPBgKS",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1458993894132387",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/17119756_1458993900799053_4580273104365813760_n.png?_nc_cat=1&ccb=3&_nc_sid=ac3552&_nc_ohc=aoL8EHjZHyoAX-jq1-8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0aeda98f8d98a2591165446a21a82b9b&oe=604CE040",
+            "packID": "1440530709312039",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 240,
+            "height": 240,
+            "caption": "Question, cat asking \"any problem?\"",
+            "description": "Question, cat asking \"any problem?\"",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "1458993894132387",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613099047562",
+    "isGroup": true
+}

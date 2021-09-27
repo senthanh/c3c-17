@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7FAC9tF04rtqwI_YU",
+    "senderID": "100013273811577",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "906172736576272",
+            "filename": "image-906172736576272",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/120397809_906172739909605_3685444864918104000_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=d3T8v8rAs2YAX9OzwSu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=9c7d5f8d99f01bfff386107c3cba3b24&oe=5F9B0A36",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120397809_906172739909605_3685444864918104000_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=d3T8v8rAs2YAX9OzwSu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=cf46722f3ba7463f86f5d44af5c3ff5f&oe=5F99D264",
+            "previewWidth": 286,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120397809_906172739909605_3685444864918104000_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=d3T8v8rAs2YAX9OzwSu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=313e5380e56eaab73eece0f9664d55e1&oe=5F9C95E5",
+            "largePreviewWidth": 491,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120397809_906172739909605_3685444864918104000_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=d3T8v8rAs2YAX9OzwSu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=313e5380e56eaab73eece0f9664d55e1&oe=5F9C95E5",
+            "width": 720,
+            "height": 704,
+            "name": "image-906172736576272"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601531770292,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7FAA8yF04rr0lWIin",
+        "senderID": "100055556060534",
+        "attachments": [],
+        "body": "Mik rự gt mik tên thắng k3 hà nội",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601531737288
+    }
+}

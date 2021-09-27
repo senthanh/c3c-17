@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3089511847819804",
+    "messageID": "mid.$gAAr55Qg3-hx94KQN8l3r16m2sfLe",
+    "senderID": "100022839800957",
+    "attachments": [],
+    "body": "Marunong kaba mag bilang?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613554959858,
+    "messageReply": {
+        "threadID": "3089511847819804",
+        "messageID": "mid.$gAAr55Qg3-hx94KLRiF3r12FKIZ9X",
+        "senderID": "100001980783844",
+        "attachments": [],
+        "body": "90?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613554878856
+    }
+}

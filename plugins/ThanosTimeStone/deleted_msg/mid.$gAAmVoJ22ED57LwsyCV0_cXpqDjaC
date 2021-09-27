@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2697791863656510",
+    "messageID": "mid.$gAAmVoJ22ED57LwsyCV0_cXpqDjaC",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "plerr: SyntaxError: Unexpected token R in JSON at position 2\r\n    at parse (<anonymous>)\r\n    at clonedFunction (C:\\Users\\ducphi\\Desktop\\c3c\\ClassModifier.js:82:17)\r\n    at JSON.parseWithBigInt (C:\\Users\\ducphi\\Desktop\\c3c\\ClassModifier.js:132:10)\r\n    at Object.scope (C:\\Users\\ducphi\\Desktop\\c3c\\main.js:806:29)",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601985440265,
+    "messageReply": {
+        "threadID": "2697791863656510",
+        "messageID": "mid.$gAAmVoJ22ED57Lwsv3F0_cXlNMBTU",
+        "senderID": "100049806951494",
+        "attachments": [],
+        "body": ".version @Phi Phạm Đức",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phi Phạm Đức"
+        },
+        "timestamp": 1601985439708
+    }
+}

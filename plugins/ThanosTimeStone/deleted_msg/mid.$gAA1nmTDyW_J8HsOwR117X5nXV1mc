@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3773082346085362",
+    "messageID": "mid.$gAA1nmTDyW_J8HsOwR117X5nXV1mc",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Reloaded",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606007285831,
+    "messageReply": {
+        "threadID": "3773082346085362",
+        "messageID": "mid.$gAA1nmTDyW_J8HsOIel17X4x6g5iw",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!reload",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606007275642
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3550560575033614",
+    "messageID": "mid.$gAAydN03UEQ598ZJARl3wEzx2N597",
+    "senderID": "100054304732632",
+    "attachments": [],
+    "body": "When.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613839005766,
+    "messageReply": {
+        "threadID": "3550560575033614",
+        "messageID": "mid.$gAAydN03UEQ598ZIdFV3wEzTy_NM_",
+        "senderID": "100053926515872",
+        "attachments": [],
+        "body": "Sana kayo din ni DEVO",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613838996757
+    }
+}

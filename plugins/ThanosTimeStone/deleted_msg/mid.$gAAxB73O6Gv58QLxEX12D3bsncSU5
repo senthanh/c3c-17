@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100057216024905",
+    "body": "Chào mừng Phạm Đức Phi đến với C3C BOT - Member Create Group.\nBạn là thành viên thứ 69 của nhóm 🥳🥳🥳.",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58QLxEX12D3bsncSU5",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "167803171704736",
+            "filename": "gif-167803171704736",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "previewWidth": 579,
+            "previewHeight": 434,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "width": 579,
+            "height": 434,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "name": "gif-167803171704736",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/126415651_1170869476662724_2820112135108520052_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=wFA2FkwUNEgAX8bY-0v&_nc_ht=cdn.fbsbx.com&oh=368acebb5d7eac7dbeff893543671ca2&oe=5FC444B9"
+        }
+    ],
+    "mentions": {
+        "100008884452271": "Phạm Đức Phi"
+    },
+    "timestamp": "1606577224799",
+    "isGroup": true
+}

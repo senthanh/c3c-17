@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3495675403851275",
+    "messageID": "mid.$gAAxrTFqyVgt8ci6tG12QOlevPOCD",
+    "senderID": "100052220049952",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1607406805000-1393.mp4",
+            "ID": "AT0LhWq4REVuBb_tDWhWmItPeWkFxAnC_MyldootX4Y6NJkX26m5o86Fc58CFyPeNI08OzkxKrdxnvLYWtIOn9vMSfVV6mnkeKL61hsHh3WJkRWz3NtVfs7T9hGU7L0npHd4I6RuR8Ughn_UyK5idXgMXpI",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 1393,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/129954206_441084956883200_2347619039628022261_n.mp4/audioclip-1607406805000-1393.mp4?_nc_cat=101&ccb=2&_nc_sid=7272a8&_nc_ohc=vmKIDRWKHdMAX8LU18e&_nc_ht=cdn.fbsbx.com&oh=b02e797782cb2ceb70e6671c6ce1f5db&oe=5FD07691&dl=1",
+            "isVoiceMail": false
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607406806299,
+    "messageReply": {
+        "threadID": "3495675403851275",
+        "messageID": "mid.$gAAxrTFqyVgt8ci5fpV2QOkXDtWoc",
+        "senderID": "100040416767836",
+        "attachments": [],
+        "body": "C nhớ ko nhầm e k2 mà ta",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607406786469
+    }
+}

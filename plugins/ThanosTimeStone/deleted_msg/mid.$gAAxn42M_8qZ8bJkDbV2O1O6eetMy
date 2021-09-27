@@ -1,0 +1,36 @@
+{
+    "type": "message_reply",
+    "threadID": "3491926040900262",
+    "messageID": "mid.$gAAxn42M_8qZ8bJkDbV2O1O6eetMy",
+    "senderID": "100052361603608",
+    "attachments": [],
+    "body": "Lêu lêu đồ k có ngừoi yêu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607313111917,
+    "messageReply": {
+        "threadID": "3491926040900262",
+        "messageID": "mid.$gAAxn42M_8qZ8bJT8mV2O0-MnL70c",
+        "senderID": "100004661136766",
+        "attachments": [
+            {
+                "type": "video",
+                "filename": "video-1607312847.mp4",
+                "ID": "708764976696571",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/121911561_2897597870343048_8139238963707389749_n.jpg?_nc_cat=108&ccb=2&_nc_sid=f8ae41&_nc_ohc=Ma5_0GfZcl8AX9ploRQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1eb2272069251bcb34e75df65614c649&oe=5FCEB923",
+                "previewWidth": 320,
+                "previewHeight": 576,
+                "url": "https://video.xx.fbcdn.net/v/t42.3356-2/129096065_3959631817402305_3284620691498011358_n.mp4/video-1607312847.mp4?_nc_cat=105&ccb=2&_nc_sid=060d78&_nc_ohc=xBrez1HNGMEAX_gfsqf&vabr=520930&_nc_ht=video.xx&oh=12328f8fb7de457f704b11f4fc96bfdd&oe=5FCEB692&dl=1",
+                "width": 320,
+                "height": 576,
+                "duration": 7000,
+                "videoType": "file_attachment",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/121911561_2897597870343048_8139238963707389749_n.jpg?_nc_cat=108&ccb=2&_nc_sid=f8ae41&_nc_ohc=Ma5_0GfZcl8AX9ploRQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1eb2272069251bcb34e75df65614c649&oe=5FCEB923"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607312848025
+    }
+}

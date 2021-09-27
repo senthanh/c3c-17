@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7hP5SWl1U7kHKM3-V",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1223894114677409",
+            "filename": "image-1223894114677409",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/122475311_1223894118010742_4428853779253769225_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=cVpoQkspCGgAX-isU0E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=33a8ff7c6d37699aa47613b86dcf00c8&oe=5FB73E55",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122475311_1223894118010742_4428853779253769225_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=cVpoQkspCGgAX-isU0E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f1cb91b99bb42426a97cd882fb4a4c20&oe=5FB83950",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122475311_1223894118010742_4428853779253769225_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=cVpoQkspCGgAX-isU0E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=61ec0f57415ecc52c2e9df8442167d2f&oe=5FB8B55D",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122475311_1223894118010742_4428853779253769225_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=cVpoQkspCGgAX-isU0E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=61ec0f57415ecc52c2e9df8442167d2f&oe=5FB8B55D",
+            "width": 720,
+            "height": 720,
+            "name": "image-1223894114677409"
+        }
+    ],
+    "body": "💔💔  Bảo Ngân không yêu thì thôi! Chia tay sớm bớt đau khổ 💔💔",
+    "isGroup": true,
+    "mentions": {
+        "100013273811577": "💔💔  B"
+    },
+    "timestamp": 1603427437146,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7hP5EzV1U7j75kyla",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".nolove @Bảo Ngân",
+        "isGroup": true,
+        "mentions": {
+            "100013273811577": "@Bảo Ngân"
+        },
+        "timestamp": 1603427433677
+    }
+}

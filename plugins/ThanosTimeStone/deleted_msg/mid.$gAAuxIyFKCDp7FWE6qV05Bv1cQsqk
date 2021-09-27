@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7FWE6qV05Bv1cQsqk",
+    "senderID": "100034218734598",
+    "attachments": [],
+    "body": "Con c*c",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601554870953,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7FWETql05BvG4Eq3h",
+        "senderID": "100034701352357",
+        "attachments": [],
+        "body": "@Viết Mạnh m chs con j",
+        "isGroup": true,
+        "mentions": {
+            "100014917003207": "@Viết Mạnh"
+        },
+        "timestamp": 1601554860970
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "message",
+    "senderID": "100061102219395",
+    "body": "/echo hi Roxanne",
+    "threadID": "2684150365021613",
+    "messageID": "mid.$gAAmJOHUH5a19xTllpV3k_QdESpvn",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1613094985125",
+    "isGroup": true
+}

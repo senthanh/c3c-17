@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "/adduser https://www.facebook.com/profile.php?id=100055864783877",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97NETkqV1Av-a93npD",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97NETkqV1Av-a93npD",
+            "url": "https://www.facebook.com/profile.php?id=100055864783877",
+            "title": "Thế Phong Tình",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/120538571_106133071258852_1786788396771348485_n.jpg?_nc_cat=108&_nc_sid=dbb9e7&_nc_ohc=Z8SfFUu3NbYAX-QI0L2&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d36bfae912c1f05d3d811100f0cfcbdf&oe=5FA178C0",
+            "width": 540,
+            "height": 540,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/profile.php?id=100055864783877",
+            "target": {
+                "__typename": "User",
+                "id": "100055864783877",
+                "name": "Thế Phong Tình",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/120538571_106133071258852_1786788396771348485_n.jpg?_nc_cat=108&_nc_sid=7206a8&_nc_ohc=Z8SfFUu3NbYAX-QI0L2&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=456aee4fcc0ee7cc2f4a6d6bd35c077a&oe=5FA46B67"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/p960x960/120541446_106587901213369_2966429126935016127_o.jpg?_nc_cat=100&_nc_sid=e3f864&_nc_ohc=8V54whiBCckAX-GHkRa&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b4d41a8defd97cc891d7face16f65a00&oe=5FA22AD2"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602073107625",
+    "isGroup": true
+}

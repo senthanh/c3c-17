@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4390333244373387",
+    "messageID": "mid.$gAA-Y_B15-Yt8dGsBXl2QyWhD6amS",
+    "senderID": "100029924315517",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "2914819082070928",
+            "filename": "image-2914819082070928",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/130459386_2914819085404261_5042140610406417880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=G5e847oGcbcAX_yR7ho&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=9cd0cf8d8a362d1ecb9d4e5ce049b91b&oe=5FF36E8E",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/130459386_2914819085404261_5042140610406417880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=G5e847oGcbcAX_yR7ho&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=63a0aabbcf31cfc1f858778da933a737&oe=5FF3F806",
+            "previewWidth": 280,
+            "previewHeight": 600,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130459386_2914819085404261_5042140610406417880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=G5e847oGcbcAX_yR7ho&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=42895395a61aadd9f96a21d3dab27ca4&oe=5FF67717",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 1029,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130459386_2914819085404261_5042140610406417880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=G5e847oGcbcAX_yR7ho&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=42895395a61aadd9f96a21d3dab27ca4&oe=5FF67717",
+            "width": 720,
+            "height": 1544,
+            "name": "image-2914819082070928"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607444314462,
+    "messageReply": {
+        "threadID": "4390333244373387",
+        "messageID": "mid.$gAA-Y_B15-Yt8dGjdfF2QyOUA_skg",
+        "senderID": "100033282431446",
+        "attachments": [],
+        "body": "Nãy vẫn thấy chơi game mà",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607444174204
+    }
+}

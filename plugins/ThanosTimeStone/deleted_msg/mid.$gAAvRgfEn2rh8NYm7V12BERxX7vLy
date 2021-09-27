@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3326580770724536",
+    "messageID": "mid.$gAAvRgfEn2rh8NYm7V12BERxX7vLy",
+    "senderID": "100054596022379",
+    "attachments": [],
+    "body": "Cc",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606389363543,
+    "messageReply": {
+        "threadID": "3326580770724536",
+        "messageID": "mid.$gAAvRgfEn2rh8NYls4V2BEQixOEnG",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Bé Gấu Do đã cố gắng xoá 1 tin nhắn. \r\nNội dung: 🎃",
+        "isGroup": true,
+        "mentions": {
+            "100054596022379": "Bé Gấu Do "
+        },
+        "timestamp": 1606389343457
+    }
+}

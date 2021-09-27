@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97ukduD11iQIgZ_2_1",
+    "senderID": "100023954226046",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "2325479847598365",
+            "filename": "image-2325479847598365",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/123326984_2325479850931698_1804263376167274305_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=1M3b6thuf2UAX-VMdc3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=e4e44905705b80ba877705bf3f0216a9&oe=5FC4016D",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/123326984_2325479850931698_1804263376167274305_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=1M3b6thuf2UAX-VMdc3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=9d7a7477b73394a81306add3d552fafe&oe=5FC3E778",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/123326984_2325479850931698_1804263376167274305_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=1M3b6thuf2UAX-VMdc3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1f1f5db633d4daab6a36c11654bfc5ca&oe=5FC70265",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/123326984_2325479850931698_1804263376167274305_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=1M3b6thuf2UAX-VMdc3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1f1f5db633d4daab6a36c11654bfc5ca&oe=5FC70265",
+            "width": 960,
+            "height": 960,
+            "name": "image-2325479847598365"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604321420815,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97ukb02V1iQGoisg7c",
+        "senderID": "100033057340306",
+        "attachments": [],
+        "body": "Hợp lí vl",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604321389785
+    }
+}

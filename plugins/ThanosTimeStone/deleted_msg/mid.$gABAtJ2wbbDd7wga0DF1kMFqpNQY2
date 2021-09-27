@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100056832115203",
+    "body": "Lê Thị Trà My vừa gỡ một tin nhắn:\nHay í",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7wga0DF1kMFqpNQY2",
+    "attachments": [],
+    "mentions": {
+        "100036743982200": "Lê Thị Trà My"
+    },
+    "timestamp": "1604451396620",
+    "isGroup": true
+}

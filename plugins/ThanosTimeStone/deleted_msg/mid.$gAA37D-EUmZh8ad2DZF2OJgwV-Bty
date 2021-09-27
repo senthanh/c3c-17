@@ -1,0 +1,47 @@
+{
+    "type": "message",
+    "senderID": "100040348013517",
+    "body": "",
+    "threadID": "3935220316543384",
+    "messageID": "mid.$gAA37D-EUmZh8ad2DZF2OJgwV-Bty",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "2576830169280898",
+            "filename": "image-2576830169280898",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/129142444_2716947305287263_6634821308216010569_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=YLRC_9yHDYQAX-oxmq4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=1bc1e5cfec1152071ce9548f2fc1c385&oe=5FF137D9",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/129142444_2716947305287263_6634821308216010569_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=YLRC_9yHDYQAX-oxmq4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1cf557ce9e7adf8e66e97fecbbe55bee&oe=5FF3161E",
+            "previewWidth": 448,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/129142444_2716947305287263_6634821308216010569_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=YLRC_9yHDYQAX-oxmq4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=95273b4fe45be8bce5929ca1e7b2641e&oe=5FF19052",
+            "largePreviewWidth": 552,
+            "largePreviewHeight": 345,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/129142444_2716947305287263_6634821308216010569_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=YLRC_9yHDYQAX-oxmq4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=95273b4fe45be8bce5929ca1e7b2641e&oe=5FF19052",
+            "width": 552,
+            "height": 345,
+            "name": "image-2576830169280898"
+        },
+        {
+            "type": "animated_image",
+            "ID": "2831266350474937",
+            "filename": "gif-2831266350474937",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "previewWidth": 1920,
+            "previewHeight": 1080,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "width": 1920,
+            "height": 1080,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "name": "gif-2831266350474937",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128212610_554129988897902_4792764512667682482_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=XZhLlkm0ly8AX_MKbYu&_nc_ht=cdn.fbsbx.com&oh=67f616e72429cf2bfb34ed2d7b7a2895&oe=5FCEED97"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607267269476",
+    "isGroup": true
+}

@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100059872954139",
+    "body": "FORCE CHANGE\n\nhttps://free.facebook.com/help/contact/1417759018475333?_rdc=2&_rdr",
+    "threadID": "3740458572704740",
+    "messageID": "mid.$gAA1J7WCF6-R9vWqDpl3jCU39X437",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA1J7WCF6-R9vWqDpl3jCU39X437",
+            "url": "https://free.facebook.com/help/contact/1417759018475333?_rdc=2&_rdr",
+            "title": "free.facebook.com",
+            "description": "",
+            "source": "free.facebook.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://free.facebook.com/help/contact/1417759018475333?_rdc=2&_rdr",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612963986342",
+    "isGroup": true
+}

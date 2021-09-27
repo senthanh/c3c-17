@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3734378459950365",
+    "messageID": "mid.$gAA1EZb2P7R197wZaBV3vcERR1yfD",
+    "senderID": "100054285474588",
+    "attachments": [],
+    "body": "Wag na anooo",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613796282885,
+    "messageReply": {
+        "threadID": "3734378459950365",
+        "messageID": "mid.$gAA1EZb2P7R197wWgOl3vcBUXqmfV",
+        "senderID": "100055517764603",
+        "attachments": [],
+        "body": "Asking?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613796235322
+    }
+}

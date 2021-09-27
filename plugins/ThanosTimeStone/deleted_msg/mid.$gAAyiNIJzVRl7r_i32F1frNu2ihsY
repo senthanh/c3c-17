@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7r_i32F1frNu2ihsY",
+    "senderID": "100056747575972",
+    "attachments": [],
+    "body": "🛠 | Bạn đã bật mode afk với lý do: phi đã đi đá phò tag không đc đâu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604148490200,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7r_i2Cl1frNtMsv65",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "!afk phi đã đi đá phò tag không đc đâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604148489738
+    }
+}

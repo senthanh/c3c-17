@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7TJzqE11G1eWan7iZ",
+    "senderID": "100011386010616",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "673104706916456",
+            "filename": "image-673104706916456",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/116975639_2983815285230523_6994703756804927687_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=oz-6WJBOBWMAX_iFfg4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=370f51fc1a9d283212f9c449f35a40b6&oe=5FA8E7BB",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/116975639_2983815285230523_6994703756804927687_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=oz-6WJBOBWMAX_iFfg4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=f310f9a00c3e603a682620faa676d252&oe=5FA7C233",
+            "previewWidth": 280,
+            "previewHeight": 420,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/116975639_2983815285230523_6994703756804927687_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=oz-6WJBOBWMAX_iFfg4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bf183ddb43bd0692d1b007a128a646a9&oe=5FAA77FF",
+            "largePreviewWidth": 477,
+            "largePreviewHeight": 716,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/116975639_2983815285230523_6994703756804927687_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=oz-6WJBOBWMAX_iFfg4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bf183ddb43bd0692d1b007a128a646a9&oe=5FAA77FF",
+            "width": 477,
+            "height": 716,
+            "name": "image-673104706916456"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602481529363,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7TJxAnF1G1bz6YDaH",
+        "senderID": "100013273811577",
+        "attachments": [],
+        "body": "Gửi ảnh làm video nào mn😞",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602481485980
+    }
+}

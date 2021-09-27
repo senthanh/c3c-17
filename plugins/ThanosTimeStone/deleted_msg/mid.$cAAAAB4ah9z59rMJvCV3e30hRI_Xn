@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100022547652883",
+    "body": "www.facebook.com/ 100000190045028",
+    "threadID": "100054866974253",
+    "messageID": "mid.$cAAAAB4ah9z59rMJvCV3e30hRI_Xn",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$cAAAAB4ah9z59rMJvCV3e30hRI_Xn",
+            "url": "http://www.facebook.com/",
+            "title": "Facebook - Log In or Sign Up",
+            "description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+            "source": "facebook.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQHV8bIwinL2zSGB&w=325&h=325&url=https%3A%2F%2Fwww.facebook.com%2Fimages%2Ffb_icon_325x325.png&_nc_cb=1&_nc_hash=AQEiuN2Ho_NE_UeW",
+            "width": 325,
+            "height": 325,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "325",
+                "height": "325"
+            },
+            "facebookUrl": "http://www.facebook.com/",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612684535561",
+    "isGroup": false
+}

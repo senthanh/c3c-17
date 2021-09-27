@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3939479206066952",
+    "messageID": "mid.$gAA3-73qtewh8bqhwrl2PWaM0QPUa",
+    "senderID": "100058257410470",
+    "attachments": [],
+    "body": "người đâu đẹp lạ đẹp lùng\nđẹp từ mặt nước tung ngay lên bờ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607347677358,
+    "messageReply": {
+        "threadID": "3939479206066952",
+        "messageID": "mid.$gAA3-73qtewh8bqXMhF2PWCC6OU22",
+        "senderID": "100010044911485",
+        "attachments": [],
+        "body": "Hưng",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607347504260
+    }
+}

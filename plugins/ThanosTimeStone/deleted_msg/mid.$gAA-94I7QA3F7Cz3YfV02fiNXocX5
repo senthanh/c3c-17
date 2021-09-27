@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7Cz3YfV02fiNXocX5",
+    "senderID": "100018343921309",
+    "attachments": [],
+    "body": "Đây là box hả",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601384779901,
+    "messageReply": {
+        "threadID": "4430896816980849",
+        "messageID": "mid.$gAA-94I7QA3F7Cz1tF102fgi9riDK",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Lee Anh Tiến đã cố gắng xoá 1 tin nhắn. \r\n\r\nAttachments:\r\nhttps://tinyurl.com/yxoy2ytf\r\n\r\nNội dung:",
+        "isGroup": true,
+        "mentions": {
+            "100052103414438": "Lee Anh Tiến "
+        },
+        "timestamp": 1601384752407
+    }
+}

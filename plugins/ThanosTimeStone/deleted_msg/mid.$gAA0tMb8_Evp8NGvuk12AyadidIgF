@@ -1,0 +1,70 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NGvuk12AyadidIgF",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Ok chặp mà bắt t chờ đi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606370633363,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 3708866382467834
+                    },
+                    "messageId": "mid.$gAA0tMb8_Evp8NGvuk12AyadidIgF",
+                    "offlineThreadingId": "6737606763294787589",
+                    "actorFbId": 100014507767327,
+                    "timestamp": 1606370633363,
+                    "tags": [
+                        "source:chat:orca",
+                        "app_id:256002347743983",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 3708866382467834
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    }
+                },
+                "body": "Ok chặp mà bắt t chờ đi",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 1789246,
+                "tqSeqId": 4448,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAA0tMb8_Evp8NGuFx12AyY7jfGIl"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&????t8\u000e288.0.0.15.118\b\n$3acff430-069d-4ab3-a46f-ca64fe3020219\u001b\u0004?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopathIXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/t_sm\u0007www_rev\n1003023513\u0018\u0011messenger_android\u0012\u0000"
+                },
+                "participants": [
+                    100034462133001,
+                    100055093862912,
+                    100036335540867,
+                    100014716171553,
+                    100048944291189,
+                    100038322465994,
+                    100014507767327,
+                    100057203146217,
+                    100006073202497
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+     "sounds": [
+          {
+               "filepath": "khabanh_oibanoi",
+               "message": "Sức đề kháng yếu à? Nghe lời tư vấn của bác sĩ Bảnh"
+          },
+          {
+               "filepath": "huanrose_colamthimoicoan",
+               "message": ""
+          },
+          {
+               "filepath": "duckbatman_oibanoi",
+               "message": ""
+          },
+          {
+               "filepath": "duckbatman_trietlycuocsong",
+               "message": ""
+          }
+     ]
+}

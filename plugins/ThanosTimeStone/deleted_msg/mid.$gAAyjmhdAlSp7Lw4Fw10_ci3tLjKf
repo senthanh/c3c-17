@@ -1,0 +1,11 @@
+{
+    "type": "message",
+    "senderID": "100009285954354",
+    "body": "abc xyz",
+    "threadID": "3557581930927402",
+    "messageID": "mid.$gAAyjmhdAlSp7Lw4Fw10_ci3tLjKf",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1601985625539",
+    "isGroup": true
+}

@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100028357282870",
+    "body": ".kill @Nguyễn Phương Thảo",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97aIBueF1Nzsi7I4oB",
+    "attachments": [],
+    "mentions": {
+        "100041672135015": "@Nguyễn Phương Thảo"
+    },
+    "timestamp": "1602949424760",
+    "isGroup": true
+}

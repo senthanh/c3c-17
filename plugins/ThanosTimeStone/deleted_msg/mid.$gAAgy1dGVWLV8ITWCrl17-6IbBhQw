@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100040747478777",
+    "body": "https://www.facebook.com/groups/739622302902697/permalink/1487380511460202/",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8ITWCrl17-6IbBhQw",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAgy1dGVWLV8ITWCrl17-6IbBhQw",
+            "url": null,
+            "title": "Nhóm cùng nhau học hỏi",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-9/90235944_152006079607714_3032341602119974912_n.jpg?_nc_cat=1&ccb=2&_nc_sid=ca434c&_nc_ohc=OIBu5_IVXx0AX_kt6Jy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=4b37b8f1d940f8c65321fb76ea978a03&oe=5FDEBBCA",
+            "width": 500,
+            "height": 313,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606048299694",
+    "isGroup": true
+}

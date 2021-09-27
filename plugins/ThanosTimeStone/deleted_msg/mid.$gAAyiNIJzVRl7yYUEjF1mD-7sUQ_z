@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100048434647335",
+    "body": "",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7yYUEjF1mD-7sUQ_z",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1398251640393019",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48896031_2170707409814101_582599360081035264_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=M41GMrs52BcAX88dRk9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=4eb91e0792b7a8cdac6338e62bb5e47d&oe=5FC95AA0",
+            "packID": "1398214440396739",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 240,
+            "height": 240,
+            "caption": "Hi, girl waving",
+            "description": "Hi, girl waving",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "1398251640393019",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1604577115276",
+    "isGroup": true
+}

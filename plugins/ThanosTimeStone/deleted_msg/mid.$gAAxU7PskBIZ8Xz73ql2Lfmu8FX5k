@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3471076522984582",
+    "messageID": "mid.$gAAxU7PskBIZ8Xz73ql2Lfmu8FX5k",
+    "senderID": "100037086758480",
+    "attachments": [],
+    "body": "Eo ôi mấy người này kiểu pro vãi luon á",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607089106858,
+    "messageReply": {
+        "threadID": "3471076522984582",
+        "messageID": "mid.$gAAxU7PskBIZ8Xz2Xrl2LfhNUv0qL",
+        "senderID": "100049928382215",
+        "attachments": [],
+        "body": "Thaonguyen vừa gỡ một tin nhắn:\nKhông...",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607089016750
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "github.com/lequanglam/c3c-0x",
+    "threadID": "3495675403851275",
+    "messageID": "mid.$gAAxrTFqyVgt8c5FlWl2QkwXHYiTU",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxrTFqyVgt8c5FlWl2QkwXHYiTU",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Flequanglam%2Fc3c-0x&h=AT1Xy94I4sbGVFjSc36_yXyW-pE_Mzwm5pMOpfrItnz_LQfG98Gk6cRLhQa05pesLNhhC50Nsz5gu2aWes4kX28ujSmaalsUSwNycU2oFe_q9LA1MVtyG04FvoZjHFr4edT27AZkzNPhjd4&s=1",
+            "title": "Build software better, together",
+            "description": "GitHub is where people build software. More than 50 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+            "source": "github.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQC5bJ8is1hdavzx&w=960&h=960&url=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Fopen_graph%2Fgithub-logo.png&_nc_cb=1&_nc_hash=AQDV36KIBhMmFCau",
+            "width": 960,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1200",
+                "height": "1200"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Flequanglam%2Fc3c-0x&h=AT1Xy94I4sbGVFjSc36_yXyW-pE_Mzwm5pMOpfrItnz_LQfG98Gk6cRLhQa05pesLNhhC50Nsz5gu2aWes4kX28ujSmaalsUSwNycU2oFe_q9LA1MVtyG04FvoZjHFr4edT27AZkzNPhjd4&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607430053210",
+    "isGroup": true
+}

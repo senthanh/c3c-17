@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97KlcS-V0-RHKdJAcE",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai cú pháp, sử dụng: .pls sound || neko [hug/kiss] || meme || slap <@mention>",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601906526969,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97KlcRiV0-RHInfo5H",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".pls eron",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601906526601
+    }
+}

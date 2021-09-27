@@ -1,0 +1,43 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58Rhxr1V2FNcdLLMMJ",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "181854653612493",
+            "filename": "gif-181854653612493",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "previewWidth": 540,
+            "previewHeight": 304,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "width": 540,
+            "height": 304,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "name": "gif-181854653612493",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/51335029_2199555143641335_6715313755367931904_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=6HCuJtpuVZAAX-ydX5K&_nc_ht=cdn.fbsbx.com&oh=98ca3955e0b0820c7863368ddc4abccb&oe=5FC5BE04"
+        }
+    ],
+    "body": "Công Thế Nguyễn, bạn đang được chịch rất hạnh phúc",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606667412437,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58RhxgF12FNcXQ-y-G",
+        "senderID": "100048959375523",
+        "attachments": [],
+        "body": "!fuck @Công Thế Nguyễn",
+        "isGroup": true,
+        "mentions": {
+            "100034831938176": "@Công Thế Nguyễn"
+        },
+        "timestamp": 1606667409431
+    }
+}

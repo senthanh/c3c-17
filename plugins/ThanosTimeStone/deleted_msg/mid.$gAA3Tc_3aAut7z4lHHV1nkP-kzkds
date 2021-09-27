@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3891669830861547",
+    "messageID": "mid.$gAA3Tc_3aAut7z4lHHV1nkP-kzkds",
+    "senderID": "100056945994716",
+    "attachments": [],
+    "body": "banUser, banThread, banCmd, unbanUser, unbanThread, unbanCmd, resend, nsfw, restart, setnsfw, setmoney, admin settings",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604678057757,
+    "messageReply": {
+        "threadID": "3891669830861547",
+        "messageID": "mid.$gAA3Tc_3aAut7z4lGUV1nkP9eW_zz",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "!admin all",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604678057553
+    }
+}

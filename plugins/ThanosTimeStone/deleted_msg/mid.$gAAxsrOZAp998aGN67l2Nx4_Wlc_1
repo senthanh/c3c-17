@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3497189573699551",
+    "messageID": "mid.$gAAxsrOZAp998aGN67l2Nx4_Wlc_1",
+    "senderID": "100052593739610",
+    "attachments": [],
+    "body": "yes cái cmnr like ảnh tao",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607242494702,
+    "messageReply": {
+        "threadID": "3497189573699551",
+        "messageID": "mid.$gAAxsrOZAp998aGNQn12Nx4Gqp30d",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "yes",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607242483871
+    }
+}

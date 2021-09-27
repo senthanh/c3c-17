@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "5076510365756313",
+    "messageID": "mid.$gABIJDy0Mq5l9wljiH13kROZuvFUs",
+    "senderID": "100058997514316",
+    "attachments": [],
+    "body": "Câm miệng",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613046716959,
+    "messageReply": {
+        "threadID": "5076510365756313",
+        "messageID": "mid.$gABIJDy0Mq5l9wlfdX13kROAAfRc4",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "bạn vi phạm lần 2 nên trừ 100% số tiền. Vi phạm 1 lần nữa bạn sẽ bị kick mà không cần báo trước!\r\n Từ vi phạm là (HAHAHA).",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613046650207
+    }
+}

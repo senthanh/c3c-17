@@ -1,0 +1,48 @@
+{
+     "settings": {
+          "enableSounds": true,
+          "enableVideos": false,
+          "enableImages": false
+     },
+     "sounds": {
+          "1": {
+               "filepath": "khabanh_oibanoi",
+               "message": "Sức đề kháng yếu à? Nghe lời tư vấn của bác sĩ Bảnh"
+          },
+          "2": {
+               "filepath": "huanrose_colamthimoicoan",
+               "message": ""
+          },
+          "3": {
+               "filepath": "duckbatman_oibanoi",
+               "message": ""
+          },
+          "4": {
+               "filepath": "duckbatman_trietlycuocsong",
+               "message": ""
+          }
+     },
+     "images": {
+          "1": {
+               "filepath": "",
+               "message": ""
+          }
+     },
+     "videos": {
+          "1": {
+               "filepath": "",
+               "message": ""
+          }
+     },
+     "message": {
+          "noSubCommand": "?",
+          "wrongSubCommand": "Available subcommands: sounds(or s), videos(or v), images(or i)"
+     },
+     "help": {
+          "HELP1": [
+               "Image type must be .jpg",
+               "Sound type must be .mp3",
+               "Video type must be .mp4"
+          ]
+     }
+}

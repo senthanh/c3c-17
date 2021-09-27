@@ -1,0 +1,56 @@
+{
+    "type": "message_reply",
+    "threadID": "5004310269640901",
+    "messageID": "mid.$gABHHZMf3wMV9w2ZI4l3kiD2ac8Kv",
+    "senderID": "100055302229279",
+    "attachments": [
+        {
+            "id": "1798433610329997",
+            "mimeType": "image/jpeg",
+            "filename": "149263504_1798433613663330_1850061388381379372_n.jpg",
+            "fbid": 1798433610329997,
+            "fileSize": 22133,
+            "imageMetadata": {
+                "width": 1170,
+                "height": 1560
+            },
+            "haystackHandle": "02SAQBBkef7QgEAQQBB1hKDC5NjvNbgW4HqmMGADep5HQGs2glYA::",
+            "genericMetadata": {
+                "fbtype": "1586"
+            },
+            "hash": "1798433610329997",
+            "titanType": 4,
+            "otherUserFbIds": [
+                100063573483872,
+                100055403170157,
+                100054859376196,
+                100050358330203,
+                100062681709308,
+                100049091723064,
+                100062329451969,
+                100053313292753,
+                100062539695342,
+                100055302229279
+            ],
+            "mercuryJSON": "{\"blob_attachment\":null}",
+            "useRefCounting": true,
+            "blob_attachment": null,
+            "error": {},
+            "type": "unknown"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613064372450,
+    "messageReply": {
+        "threadID": "5004310269640901",
+        "messageID": "mid.$gABHHZMf3wMV9w2WNK13kiEuT9IIf",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "​​​​​send nudes pawn​​​",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613064324395
+    }
+}

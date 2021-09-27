@@ -1,0 +1,49 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7a8RUll1On8L3NLBS",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "This video does not exist, or not accessible.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603004206230,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7a8RSpF1On8Hq6k6q",
+        "senderID": "100008884452271",
+        "attachments": [
+            {
+                "type": "share",
+                "ID": "ee.mid.$gAAyiNIJzVRl7a8RSpF1On8Hq6k6q",
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FV8Lvp-SXf5E&h=AT0kYcts_Go_v7IPGS9t3FhUNSlsGxA4TuYsBz3HNU3wJDjATrUY3-w0VC5h5y1UYJyWV1WWPYr4o_wjBxyijsdbUnm_2NjFC9ROnGiQyxeeeupEtQR7m9THPRWYl3WJqMdf0Z0SB21d0I8&s=1",
+                "title": "Tuý Hồng Nhan Lời Việt",
+                "description": "Tuý Hồng Nhan Lời Việt Vó ngựa đạp ánh trăng phồn hoa Mười năm sinh tử này chóng qua Khắc tên người dưới mưa hồng đậu tiễn đưa Máu tươi lại vấy lên đàn xưa N...",
+                "source": "youtube.com",
+                "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQAk0ZnHx_xpSBHa&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV8Lvp-SXf5E%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQAxMxNsmUTgKKKz",
+                "width": 960,
+                "height": 540,
+                "playable": true,
+                "duration": 0,
+                "playableUrl": "https://www.youtube.com/embed/V8Lvp-SXf5E?autoplay=1",
+                "subattachments": [],
+                "properties": {
+                    "width": "1280",
+                    "height": "720"
+                },
+                "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FV8Lvp-SXf5E&h=AT0kYcts_Go_v7IPGS9t3FhUNSlsGxA4TuYsBz3HNU3wJDjATrUY3-w0VC5h5y1UYJyWV1WWPYr4o_wjBxyijsdbUnm_2NjFC9ROnGiQyxeeeupEtQR7m9THPRWYl3WJqMdf0Z0SB21d0I8&s=1",
+                "target": {
+                    "__typename": "ExternalUrl"
+                },
+                "styleList": [
+                    "share",
+                    "fallback"
+                ]
+            }
+        ],
+        "body": ".yt2mp3 https://youtu.be/V8Lvp-SXf5E",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603004205732
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "message",
+    "senderID": "100011775211938",
+    "body": "",
+    "threadID": "3385995948148061",
+    "messageID": "mid.$gAAwHi52zRV17W3e9dF1KjJ0kKrZU",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "1119616581774172",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.535864775892%252C%2B105.70232601605%26FORM%3DFBKPL1%26mkt%3Den-US&h=AT0epG-qZwc835iWwva7L8ohNlWXRyc87BfQZea8izglq8ElGD6Q6TKqlz5dXmcEiDc_GWzq7PpQmnbYMAAqju8gukXgYoPWxPGfZQVqG-zZksVkLB0q2SlQeT3FeM0IjgSYjzo1VJ_QwAw&s=1",
+            "title": "Thanh Khê",
+            "description": "Chia sẻ trong 60 phút.",
+            "source": null,
+            "image": "https://external.xx.fbcdn.net/static_map.php?v=2005&osm_provider=2&size=545x280&zoom=15&markers=18.53586478%2C105.70232602&language=en",
+            "width": 545,
+            "height": 280,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.535864775892%252C%2B105.70232601605%26FORM%3DFBKPL1%26mkt%3Den-US&h=AT0epG-qZwc835iWwva7L8ohNlWXRyc87BfQZea8izglq8ElGD6Q6TKqlz5dXmcEiDc_GWzq7PpQmnbYMAAqju8gukXgYoPWxPGfZQVqG-zZksVkLB0q2SlQeT3FeM0IjgSYjzo1VJ_QwAw&s=1",
+            "target": {
+                "__typename": "MessageLiveLocation",
+                "live_location_id": "1119616575107506",
+                "is_expired": false,
+                "expiration_time": 1602734349,
+                "sender": {
+                    "id": "100011775211938"
+                },
+                "coordinate": {
+                    "latitude": 18.535864775892,
+                    "longitude": 105.70232601605
+                },
+                "location_title": "Thanh Khê",
+                "sender_destination": null,
+                "stop_reason": null
+            },
+            "styleList": [
+                "message_live_location",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602730751348",
+    "isGroup": true
+}

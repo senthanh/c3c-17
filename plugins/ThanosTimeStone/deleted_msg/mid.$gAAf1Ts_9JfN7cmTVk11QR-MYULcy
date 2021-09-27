@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100019261366640",
+    "body": ".kill @Nguyễn Sơn",
+    "threadID": "2240043682702835",
+    "messageID": "mid.$gAAf1Ts_9JfN7cmTVk11QR-MYULcy",
+    "attachments": [],
+    "mentions": {
+        "100025069281790": "@Nguyễn Sơn"
+    },
+    "timestamp": "1603115388307",
+    "isGroup": true
+}

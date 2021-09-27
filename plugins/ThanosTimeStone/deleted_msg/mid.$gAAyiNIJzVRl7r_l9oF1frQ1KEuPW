@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7r_l9oF1frQ1KEuPW",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "( _/)\n( •_•)\n// >🧠  nè lắp vào mà dùng cho bớt ngu rồi hãy sài bot nha.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604148540832,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7r_l6011frQx7f91x",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".phideptrai",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604148540115
+    }
+}

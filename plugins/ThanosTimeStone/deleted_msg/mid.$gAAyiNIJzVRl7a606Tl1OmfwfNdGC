@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".yt2mp3 https://youtu.be/uXVCNLJ37Ak",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7a606Tl1OmfwfNdGC",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyiNIJzVRl7a606Tl1OmfwfNdGC",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FuXVCNLJ37Ak&h=AT3Ld_uOFd4xIOhlb8aBeaI247sUtrLds6qtfumtJSeEZSp9UfAuYm4zeJ5KqleQDDKuuebUijLHcXh4BW8HQ6uVDexZinYXytS-Vv8uJCAU2WA8rIH0E_rgta9VGrKeHfoywMtxWoNkm04&s=1",
+            "title": "Túy Hồng Nhan (Remix) ll OST Thủy Hử, China Mix",
+            "description": "----------------- ★ Chào Bạn Đến Với LTH Music ★ -------------- ☆ Song: Túy Hồng Nhan (Remix) ☆image: We use wallpapers from Google \"Free to use\". If you are...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDQK275ZzLZgEPF&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuXVCNLJ37Ak%2Fmaxresdefault.jpg&sx=0&sy=0&sw=1280&sh=720&_nc_cb=1&_nc_hash=AQAx6vZzAOiyhqwA",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/uXVCNLJ37Ak?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FuXVCNLJ37Ak&h=AT3Ld_uOFd4xIOhlb8aBeaI247sUtrLds6qtfumtJSeEZSp9UfAuYm4zeJ5KqleQDDKuuebUijLHcXh4BW8HQ6uVDexZinYXytS-Vv8uJCAU2WA8rIH0E_rgta9VGrKeHfoywMtxWoNkm04&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603002692174",
+    "isGroup": true
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3551004078283810",
+    "messageID": "mid.$gAAydnpCunCJ7Ktqlt10-ZVXSyhIQ",
+    "senderID": "100010497398517",
+    "attachments": [],
+    "body": "Ê",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601915149751,
+    "messageReply": {
+        "threadID": "3551004078283810",
+        "messageID": "mid.$gAAydnpCunCJ7Kq9r_10-WojFB_W4",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "Tạm biệt @Tâm Sino vừa bị QTV Đá hoặc đã rời khỏi nhóm 🏨 My Home 🏨 giờ chỉ còn 28 ! Hẹn em kiếp sau 😊💔",
+        "isGroup": true,
+        "mentions": {
+            "100041542967018": "Tâm Sino "
+        },
+        "timestamp": 1601912316927
+    }
+}

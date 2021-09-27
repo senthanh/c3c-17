@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".adduser https://www.facebook.com/profile.php?id=100051328335180",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97KhQDK10-M654GKSK",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97KhQDK10-M654GKSK",
+            "url": "https://www.facebook.com/profile.php?id=100051328335180",
+            "title": "Thư Thư",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/120615947_173730737681203_652494419427700829_n.jpg?_nc_cat=107&_nc_sid=dbb9e7&_nc_ohc=6LQToaeTggkAX8bKXwN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=357939bcc45b4bb1dc84421e53bbff4c&oe=5FA07430",
+            "width": 960,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/profile.php?id=100051328335180",
+            "target": {
+                "__typename": "User",
+                "id": "100051328335180",
+                "name": "Thư Thư",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/120615947_173730737681203_652494419427700829_n.jpg?_nc_cat=107&_nc_sid=7206a8&_nc_ohc=6LQToaeTggkAX8bKXwN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=30474ee8ea161237aa06e28cb214b71c&oe=5FA193C0"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/117431043_155435436177400_1984414301085749342_n.jpg?_nc_cat=110&_nc_sid=e3f864&_nc_ohc=ZKa7BeUGbIcAX-m8MAy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1b944fe1eed9e6b52defcb4e16c2249b&oe=5FA0D28B"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "IS_SUBSCRIBED"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1601902132011",
+    "isGroup": true
+}

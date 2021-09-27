@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58U1kbg12IhPYudW11",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "132742871748154",
+            "filename": "image-132742871748154",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/125785704_416240822713318_7185261468057523479_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=VqusrTeWCugAX_lJ_te&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=7cd28e1495f7e146f86c0bdfb2a4d491&oe=5FEDCE22",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/125785704_416240822713318_7185261468057523479_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=VqusrTeWCugAX_lJ_te&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=0de945193b973d8e28c173a52516bb9b&oe=5FECEDB8",
+            "previewWidth": 280,
+            "previewHeight": 420,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125785704_416240822713318_7185261468057523479_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=VqusrTeWCugAX_lJ_te&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=d7e265504a01ca06bf408ff517f81665&oe=5FEB6BB1",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 720,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125785704_416240822713318_7185261468057523479_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=VqusrTeWCugAX_lJ_te&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=d7e265504a01ca06bf408ff517f81665&oe=5FEB6BB1",
+            "width": 1080,
+            "height": 1621,
+            "name": "image-132742871748154"
+        }
+    ],
+    "body": "Người dùng Facebook thật là biến thái 😳",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606889493379,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58U1kWG12IhPNY6DcG",
+        "senderID": "100034831938176",
+        "attachments": [],
+        "body": "!sexy",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606889491995
+    }
+}

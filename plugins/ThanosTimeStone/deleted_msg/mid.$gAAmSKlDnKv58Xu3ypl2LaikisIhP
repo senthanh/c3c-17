@@ -1,0 +1,41 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58Xu3ypl2LaikisIhP",
+    "senderID": "100014121699694",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "387545501371334",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851556_387545504704667_1898637142_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=MDTA8rsfUR8AX8reQJ8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ab5c6ec255308bbc4c37c976689e8f6a&oe=5FEEFD17",
+            "packID": "379426362183248",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 240,
+            "height": 240,
+            "caption": "",
+            "description": "",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "387545501371334",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607083797158,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58Xu2tN12LahjFXyJV",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "Có vẻ bạn chưa có cần câu để câu cá, bạn hãy mua trong shop!",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607083779383
+    }
+}

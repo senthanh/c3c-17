@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3534715166605984",
+    "messageID": "mid.$gAAyOzgHjQqB8bm8rDF2PSntmRgMR",
+    "senderID": "100056957830417",
+    "attachments": [],
+    "body": ";sim lồn đầu buồi ngu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607343923980,
+    "messageReply": {
+        "threadID": "3534715166605984",
+        "messageID": "mid.$gAAyOzgHjQqB8bm7Tnl2PSmJpwYmJ",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "dạ a iu nhe wtf lồn to vll",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607343901598
+    }
+}

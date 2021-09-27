@@ -1,0 +1,60 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97NoiQjF1BUNHQdMf3",
+    "senderID": "100056179566584",
+    "attachments": [],
+    "body": "Đã thêm user 100050995007884 vào danh sách phê duyệt thành viên.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602111096972,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97NoiIHV1BUM-giqz7",
+        "senderID": "100008884452271",
+        "attachments": [
+            {
+                "type": "share",
+                "ID": "ee.mid.$gAAvDXVIz7v97NoiIHV1BUM-giqz7",
+                "url": "https://www.facebook.com/profile.php?id=100050995007884",
+                "title": "Bề Bề Mẫn Nhi",
+                "description": null,
+                "source": null,
+                "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/120893433_175463297496836_8583002744952325869_n.jpg?_nc_cat=101&_nc_sid=dbb9e7&_nc_ohc=sn4P3RGq_aIAX8ASP3G&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=481776cff5bc77dc7737d4c0c12181ae&oe=5FA39336",
+                "width": 844,
+                "height": 844,
+                "playable": false,
+                "duration": 0,
+                "playableUrl": null,
+                "subattachments": [],
+                "properties": {},
+                "facebookUrl": "https://www.facebook.com/profile.php?id=100050995007884",
+                "target": {
+                    "__typename": "User",
+                    "id": "100050995007884",
+                    "name": "Bề Bề Mẫn Nhi",
+                    "profile_picture": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/120893433_175463297496836_8583002744952325869_n.jpg?_nc_cat=101&_nc_sid=7206a8&_nc_ohc=sn4P3RGq_aIAX8ASP3G&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=915c36a1c253c3d25ec1329bd708dfc7&oe=5FA2F4ED"
+                    },
+                    "cover_photo": {
+                        "photo": {
+                            "image": {
+                                "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/s960x960/120551207_174510530925446_8560220112443603345_o.jpg?_nc_cat=102&_nc_sid=e3f864&_nc_ohc=v07aQTda8vkAX8gejrK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=8e9fc6b5c3f6eef2c0ffedf8d488780a&oe=5FA451D4"
+                            }
+                        }
+                    },
+                    "work_info": null,
+                    "subscribe_status": "IS_SUBSCRIBED"
+                },
+                "styleList": [
+                    "avatar",
+                    "fallback"
+                ]
+            }
+        ],
+        "body": "/adduser https://www.facebook.com/profile.php?id=100050995007884",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602111094813
+    }
+}

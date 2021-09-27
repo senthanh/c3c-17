@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58bExPqF2OwcFMKpx9",
+    "senderID": "100039090123396",
+    "attachments": [],
+    "body": "👍",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607308085160,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58bEs9FF2OwXzhJ6w9",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "Để sửa chữa chiếc cần câu này, bạn cần 149 Đô la, bạn có đồng ý không?\nReaction 👍 để đồng ý hoặc chọn bất kỳ phản ứng nào để hủy.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607308014868
+    }
+}

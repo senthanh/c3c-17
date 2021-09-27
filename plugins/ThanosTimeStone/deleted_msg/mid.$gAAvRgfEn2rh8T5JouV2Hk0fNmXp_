@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100043311936592",
+    "body": "",
+    "threadID": "3326580770724536",
+    "messageID": "mid.$gAAvRgfEn2rh8T5JouV2Hk0fNmXp_",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1775284809378890",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14129667_1775284816045556_1588821643_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=qBP2mMCq42MAX9J8Xk3&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c4a415ebc28f3ec1e3d95b35fca29377&oe=5FEB6A7B",
+            "packID": "1775273559380015",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/14146891_1775284826045555_695465285_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=vQZUYsthI54AX-zvVGH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c926b8890db65d22c6adb4af2de5a295&oe=5FED9C96"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14146891_1775284826045555_695465285_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=vQZUYsthI54AX-zvVGH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c6ad4b6082a3d50ee0c4ca38975d6e68&oe=5FEA9440"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Hi, dog waving hi",
+            "description": "Hi, dog waving hi",
+            "frameCount": 6,
+            "frameRate": 83,
+            "framesPerRow": 3,
+            "framesPerCol": 2,
+            "stickerID": "1775284809378890",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/14146891_1775284826045555_695465285_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=vQZUYsthI54AX-zvVGH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c926b8890db65d22c6adb4af2de5a295&oe=5FED9C96"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14146891_1775284826045555_695465285_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=vQZUYsthI54AX-zvVGH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c6ad4b6082a3d50ee0c4ca38975d6e68&oe=5FEA9440"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606826139833",
+    "isGroup": true
+}

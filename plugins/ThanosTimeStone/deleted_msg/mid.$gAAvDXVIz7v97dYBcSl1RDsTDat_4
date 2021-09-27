@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97dYBcSl1RDsTDat_4",
+    "senderID": "100005432250518",
+    "attachments": [],
+    "body": "Ai đổi tên e dạ. ;))))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603167523914,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97dYAUWl1RDrK7iFZu",
+        "senderID": "100056343245728",
+        "attachments": [],
+        "body": "Chào mừng Quân Minh đã vào group.",
+        "isGroup": true,
+        "mentions": {
+            "100055425464148": "Quân Minh"
+        },
+        "timestamp": 1603167505498
+    }
+}

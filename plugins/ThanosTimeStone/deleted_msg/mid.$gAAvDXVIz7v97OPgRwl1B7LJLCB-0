@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97OPgRwl1B7LJLCB-0",
+    "senderID": "100055953258099",
+    "attachments": [],
+    "body": "Lệnh bạn nhập không tồn tại.\nÝ bạn là lệnh \"!iss\" phải không?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602151958978,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97OPgQ7l1B7LIGv_fa",
+        "senderID": "100051328335180",
+        "attachments": [],
+        "body": "!Kiss @Phạm Đức Phi",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phạm Đức Phi"
+        },
+        "timestamp": 1602151958766
+    }
+}

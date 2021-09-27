@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8Q44qOl2EkjgLwhqd",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Hồi tối sau chuẩn bị sleep Trân với Tú rắc cầu lương 1 đống",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606624535098,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8Q41hSF2EkgVFJ0w_",
+        "senderID": "100014716171553",
+        "attachments": [],
+        "body": "T mới ăn câu lương ngập mặt@Tâm Tôn",
+        "isGroup": true,
+        "mentions": {
+            "100014507767327": "@Tâm Tôn"
+        },
+        "timestamp": 1606624483656
+    }
+}

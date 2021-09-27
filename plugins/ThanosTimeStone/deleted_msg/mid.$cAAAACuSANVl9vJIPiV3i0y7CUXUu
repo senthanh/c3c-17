@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100029776670269",
+    "body": "Ademola Balogun, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 6!",
+    "threadID": "100029776670269",
+    "messageID": "mid.$cAAAACuSANVl9vJIPiV3i0y7CUXUu",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "625253011604512",
+            "filename": "gif-625253011604512",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "previewWidth": 538,
+            "previewHeight": 302,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "width": 538,
+            "height": 302,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "name": "gif-625253011604512",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=055ab5f9ba96d3b74b8b5400e2920c84&oe=6025132C"
+        }
+    ],
+    "mentions": {
+        "100000190045028": "Ademola Balogun"
+    },
+    "timestamp": "1612949800841",
+    "isGroup": false
+}

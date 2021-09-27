@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".kill @Lalisa Manoban",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7a6DLLV1OluBnF_79",
+    "attachments": [],
+    "mentions": {
+        "100018087085661": "@Lalisa Manoban"
+    },
+    "timestamp": "1603001877293",
+    "isGroup": true
+}

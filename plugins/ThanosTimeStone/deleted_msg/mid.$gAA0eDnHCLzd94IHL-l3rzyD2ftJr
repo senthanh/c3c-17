@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3692222084165431",
+    "messageID": "mid.$gAA0eDnHCLzd94IHL-l3rzyD2ftJr",
+    "senderID": "100060751981487",
+    "attachments": [],
+    "body": "Ediwow sayo",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613552714746,
+    "messageReply": {
+        "threadID": "3692222084165431",
+        "messageID": "mid.$gAA0eDnHCLzd94IG-m13rzxvVp4xn",
+        "senderID": "100060751981487",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "791483598449739",
+                "filename": "image-791483598449739",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/150590884_791483605116405_818592048900272548_n.jpg?_nc_cat=108&ccb=3&_nc_sid=ae9488&_nc_ohc=pcECeRvt_ZsAX-G27eB&_nc_oc=AQn6hv5aHwVFDstfkBcfeKxTPMLVNM7PkwHk2-uC6hwJMAv7FhpyhjiUBLy6qpEHbqY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=8706f3a1ce546c0250cec676a46d1ff3&oe=60512C3E",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/150590884_791483605116405_818592048900272548_n.jpg?_nc_cat=108&ccb=3&_nc_sid=ae9488&_nc_ohc=pcECeRvt_ZsAX-G27eB&_nc_oc=AQn6hv5aHwVFDstfkBcfeKxTPMLVNM7PkwHk2-uC6hwJMAv7FhpyhjiUBLy6qpEHbqY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=c43d331cb255e28ceb8e835019ee3d5b&oe=6054599E",
+                "previewWidth": 280,
+                "previewHeight": 622,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/150590884_791483605116405_818592048900272548_n.jpg?_nc_cat=108&ccb=3&_nc_sid=ae9488&_nc_ohc=pcECeRvt_ZsAX-G27eB&_nc_oc=AQn6hv5aHwVFDstfkBcfeKxTPMLVNM7PkwHk2-uC6hwJMAv7FhpyhjiUBLy6qpEHbqY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=17db5561750414d51bd74f1c911120be&oe=6053338C",
+                "largePreviewWidth": 360,
+                "largePreviewHeight": 800,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/150590884_791483605116405_818592048900272548_n.jpg?_nc_cat=108&ccb=3&_nc_sid=ae9488&_nc_ohc=pcECeRvt_ZsAX-G27eB&_nc_oc=AQn6hv5aHwVFDstfkBcfeKxTPMLVNM7PkwHk2-uC6hwJMAv7FhpyhjiUBLy6qpEHbqY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=17db5561750414d51bd74f1c911120be&oe=6053338C",
+                "width": 360,
+                "height": 800,
+                "name": "image-791483598449739"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613552711323
+    }
+}

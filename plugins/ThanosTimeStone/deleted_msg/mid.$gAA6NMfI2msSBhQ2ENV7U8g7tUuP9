@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBhQ2ENV7U8g7tUuP9",
+    "senderID": "100070496502932",
+    "attachments": [],
+    "body": "[ Ban User ] Hiện tại bạn đang yêu cầu cấm người dùng:\n- ID và tên người dùng cần cấm: 100046304086954 - Nguyễn Đạt\n- Lý do: 😏😏\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629198236725,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBhQ2DkF7U8gtZKbNP",
+        "senderID": "100070496502932",
+        "attachments": [],
+        "body": "&user ban 100046304086954 😏😏",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629198236560
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100005682975069",
+    "body": "",
+    "threadID": "2903857283059278",
+    "messageID": "mid.$gAApRCvXVzk57Xg4X311LMjMa-rSP",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAApRCvXVzk57Xg4X311LMjMa-rSP",
+            "url": null,
+            "title": "Cũng đành thôi ☺️\n#Chillwitheme",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-9/121552839_392604355478020_8297899182583592888_n.jpg?_nc_cat=108&_nc_sid=ca434c&_nc_ohc=EX5wt8oPEBgAX_WG_XN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=61e2af5817d668cd28f79a34632d77b8&oe=5FADC757",
+            "width": 720,
+            "height": 306,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602774159327",
+    "isGroup": true
+}

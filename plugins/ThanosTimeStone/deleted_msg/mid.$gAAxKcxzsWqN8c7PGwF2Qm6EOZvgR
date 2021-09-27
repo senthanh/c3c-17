@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100048754672337",
+    "body": "!count @Vũ Cao Minh",
+    "threadID": "3459557987474083",
+    "messageID": "mid.$gAAxKcxzsWqN8c7PGwF2Qm6EOZvgR",
+    "attachments": [],
+    "mentions": {
+        "100010847023221": "@Vũ Cao Minh"
+    },
+    "timestamp": "1607432306368",
+    "isGroup": true
+}

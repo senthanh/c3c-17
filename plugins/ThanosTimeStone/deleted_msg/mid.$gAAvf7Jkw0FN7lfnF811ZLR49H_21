@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3342432019206227",
+    "messageID": "mid.$gAAvf7Jkw0FN7lfnF811ZLR49H_21",
+    "senderID": "100045277973740",
+    "attachments": [],
+    "body": "?help con cẹt",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603712351731,
+    "messageReply": {
+        "threadID": "3342432019206227",
+        "messageID": "mid.$gAAvf7Jkw0FN7lfl6A11ZLQvsxl4H",
+        "senderID": "100056672960885",
+        "attachments": [],
+        "body": "BerBot | Connected. \r\nSử dụng `?help [trang số]` để xem toàn bộ lệnh.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603712332291
+    }
+}

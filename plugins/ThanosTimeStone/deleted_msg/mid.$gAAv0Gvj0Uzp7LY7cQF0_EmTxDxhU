@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3364621426905914",
+    "messageID": "mid.$gAAv0Gvj0Uzp7LY7cQF0_EmTxDxhU",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Danh sách lệnh:\n1. .help [trang]\n2. .systeminfo\n4. .version\n7. .plugins [trang]\n9. .toggleeveryone\n10. .lang\n11. .adduser <Facebook profile link>\n12. .sysinfo [thành phố]\n13. .listarrow\n14. .delarrow <chat>\n(Trang 1/6)\nGõ `.help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601960514624,
+    "messageReply": {
+        "threadID": "3364621426905914",
+        "messageID": "mid.$gAAv0Gvj0Uzp7LY7a2l0_EmJOmNvG",
+        "senderID": "100010383579096",
+        "attachments": [],
+        "body": ".help",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601960514266
+    }
+}

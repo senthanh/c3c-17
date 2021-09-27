@@ -1,0 +1,115 @@
+{
+    "type": "message_reply",
+    "threadID": "4683533571674177",
+    "messageID": "mid.$gABCjpiLVUEGBhTJ-a17U-01haOvu",
+    "senderID": "100041510503590",
+    "attachments": [],
+    "body": "=))?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629200660075,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4683533571674177
+                    },
+                    "messageId": "mid.$gABCjpiLVUEGBhTJ-a17U-01haOvu",
+                    "offlineThreadingId": "6833362844393204718",
+                    "actorFbId": 100041510503590,
+                    "timestamp": 1629200660075,
+                    "tags": [
+                        "source:chat:light_speed",
+                        "app_id:437626316973788",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 4683533571674177
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "=))?",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 116982,
+                "tqSeqId": 309296,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gABCjpiLVUEGBhTJN2l7U-0CcpbWL"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&??ג???\u00018\u000e325.1.0.39.117\b\n$ee02f46f-0bcd-4e17-bca1-9090997e84529\u001b\u0005?\u0005layer\u0003www\npush_phase\u0003C3e\tbuenopathhXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/ls_req:TASK_LABEL=SEND_MESSAGE_V{N}\u0007www_rev\n1004264076\u0012webserver_hostname\"twshared23642.08.ash9.facebook.com\u0018\u0013messenger_ls_iphone\u0012\u0000"
+                },
+                "participants": [
+                    100063708733296,
+                    100051188236922,
+                    100042432693123,
+                    100056310750884,
+                    100061952722973,
+                    100062221607097,
+                    100018514053827,
+                    100069937789232,
+                    100038530042997,
+                    100056966815753,
+                    100049057300073,
+                    100056305042724,
+                    100033271876723,
+                    100048412304783,
+                    100014498744320,
+                    100054553754239,
+                    100032764058056,
+                    100066814219813,
+                    100057157173640,
+                    100041486904295,
+                    100043706650067,
+                    100041510503590,
+                    100061942092255,
+                    100049012174879,
+                    100065424851692,
+                    100056983747848,
+                    100060921881195,
+                    100054102912857,
+                    100063734162464,
+                    100050939780717,
+                    100071202013134,
+                    100035670272812,
+                    100071726762846,
+                    100024800912604,
+                    100057052590005,
+                    100063517645583,
+                    100061543436517,
+                    100066882330797,
+                    100066756156961,
+                    100067536444185,
+                    100055698097790,
+                    100065123650331,
+                    100043981640757,
+                    100055040374494,
+                    100048776404526,
+                    100027339231589,
+                    100030101711767,
+                    100048688538277,
+                    100068417072486,
+                    100027637965081,
+                    100069782953472,
+                    100070092588154,
+                    100024990605687
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

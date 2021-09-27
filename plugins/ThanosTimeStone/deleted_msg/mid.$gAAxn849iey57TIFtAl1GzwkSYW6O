@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100056343245728",
+    "body": "Phạm Đức Phi vừa gỡ một tin nhắn:\nSai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.toggleeveryone`?",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57TIFtAl1GzwkSYW6O",
+    "attachments": [],
+    "mentions": {
+        "100008884452271": "Phạm Đức Phi"
+    },
+    "timestamp": "1602479727874",
+    "isGroup": true
+}

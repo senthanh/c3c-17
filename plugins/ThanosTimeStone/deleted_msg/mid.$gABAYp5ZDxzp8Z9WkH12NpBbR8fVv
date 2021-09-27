@@ -1,0 +1,112 @@
+{
+    "type": "message",
+    "senderID": "100043439079957",
+    "body": "",
+    "threadID": "4530707686999866",
+    "messageID": "mid.$gABAYp5ZDxzp8Z9WkH12NpBbR8fVv",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gABAYp5ZDxzp8Z9WkH12NpBbR8fVv",
+            "url": null,
+            "title": "Sunny's vừa chơi. Giờ đến lượt bạn!",
+            "description": null,
+            "source": "Facebook for Android",
+            "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s720x720/128838190_246331750158126_2756579592097809005_n.jpg?_nc_cat=110&ccb=2&_nc_sid=f35378&_nc_ohc=JNV4d8yuiZ8AX_bRF98&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fhan2-4.fna&tp=9&_nc_rmd=260&oh=5aef25d2ac16505178f3bc611b2461ea&oe=5FF076F1",
+            "width": 0,
+            "height": 0,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": {
+                "__typename": "MessengerBusinessMessage",
+                "message": "Tiến lên miền nam: Sunny's vừa chơi. Giờ đến lượt bạn!",
+                "call_to_actions": [
+                    {
+                        "action_link": "fb-messenger://instant_games/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=%7B%22friendMode%22%3Atrue%2C%22roomId%22%3A9032643%2C%22bet%22%3A5000%7D&source=messenger%7Echat_thread%7Ecustom_update",
+                        "action_open_type": "OPEN_NATIVE",
+                        "action_objects": [],
+                        "title": "Chơi",
+                        "user_confirmation": null,
+                        "id": "bW5jdGE6Y3RhMV9FbnRCdXNpbmVzc01lc3NhZ2VXaXRoSXRlbXNfMjAzMTMzOTY3OTQ1MjY3XzA=",
+                        "is_disabled": false,
+                        "is_mutable_by_server": false,
+                        "logging_token": "{\"action_open_type\":1,\"action_title\":\"Ch\\u01a1i\",\"action_url\":\"fb-messenger:\\/\\/instant_games\\/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=\\u00257B\\u002522friendMode\\u002522\\u00253Atrue\\u00252C\\u002522roomId\\u002522\\u00253A9032643\\u00252C\\u002522bet\\u002522\\u00253A5000\\u00257D&source=messenger\\u00257Echat_thread\\u00257Ecustom_update\",\"click_source\":\"UNKNOWN\",\"id\":\"cta1_EntBusinessMessageWithItems_203133967945267_0\",\"kind\":\"instant_games_play\",\"link_target_ids\":[],\"native_url\":\"fb-messenger:\\/\\/instant_games\\/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=\\u00257B\\u002522friendMode\\u002522\\u00253Atrue\\u00252C\\u002522roomId\\u002522\\u00253A9032643\\u00252C\\u002522bet\\u002522\\u00253A5000\\u00257D&source=messenger\\u00257Echat_thread\\u00257Ecustom_update\",\"oi\":100043439079957,\"oai\":350685531728}",
+                        "payment_metadata": null,
+                        "render_style": "NORMAL",
+                        "webview_metadata": {
+                            "fallback_url": null,
+                            "messenger_extensions": false,
+                            "webview_height_ratio": null,
+                            "webview_share_button": false
+                        },
+                        "page_id": "100043439079957",
+                        "cta_data": null
+                    }
+                ],
+                "business_items": {
+                    "nodes": [
+                        {
+                            "id": "194522729007473",
+                            "description": "",
+                            "image_aspect_ratio": null,
+                            "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/128838190_246331750158126_2756579592097809005_n.jpg?ccb=2&_nc_ohc=JNV4d8yuiZ8AX_snpgv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=e1562ce57473f21eeadfe6cd09aa4e16&oe=5FF228AE",
+                            "first_metaline": null,
+                            "name": "Sunny's vừa chơi. Giờ đến lượt bạn!",
+                            "source_name": null,
+                            "target_url": null,
+                            "default_action": null,
+                            "call_to_actions": [
+                                {
+                                    "action_link": "fb-messenger://instant_games/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=%7B%22friendMode%22%3Atrue%2C%22roomId%22%3A9032643%2C%22bet%22%3A5000%7D&source=messenger%7Echat_thread%7Ecustom_update",
+                                    "action_open_type": "OPEN_NATIVE",
+                                    "action_objects": [
+                                        {}
+                                    ],
+                                    "title": "Chơi",
+                                    "user_confirmation": null,
+                                    "id": "bW5jdGE6Y3RhMV9FbnRNZXNzZW5nZXJDb21tZXJjZUl0ZW1fMTk0NTIyNzI5MDA3NDczXzA=",
+                                    "is_disabled": false,
+                                    "is_mutable_by_server": false,
+                                    "logging_token": "{\"action_open_type\":1,\"action_title\":\"Ch\\u01a1i\",\"action_url\":\"fb-messenger:\\/\\/instant_games\\/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=\\u00257B\\u002522friendMode\\u002522\\u00253Atrue\\u00252C\\u002522roomId\\u002522\\u00253A9032643\\u00252C\\u002522bet\\u002522\\u00253A5000\\u00257D&source=messenger\\u00257Echat_thread\\u00257Ecustom_update\",\"click_source\":\"PLATFORM_MEDIA_ATTACHMENT\",\"id\":\"cta1_EntMessengerCommerceItem_194522729007473_0\",\"kind\":\"instant_games_play\",\"link_target_ids\":[194522729007473],\"native_url\":\"fb-messenger:\\/\\/instant_games\\/play?game_id=2001381133500545&context_type=THREAD&context_id=4530707686999866&payload=\\u00257B\\u002522friendMode\\u002522\\u00253Atrue\\u00252C\\u002522roomId\\u002522\\u00253A9032643\\u00252C\\u002522bet\\u002522\\u00253A5000\\u00257D&source=messenger\\u00257Echat_thread\\u00257Ecustom_update\",\"oi\":100043439079957,\"oai\":2001381133500545}",
+                                    "payment_metadata": null,
+                                    "render_style": "NORMAL",
+                                    "webview_metadata": {
+                                        "fallback_url": null,
+                                        "messenger_extensions": false,
+                                        "webview_height_ratio": null,
+                                        "webview_share_button": false
+                                    },
+                                    "page_id": "100043439079957",
+                                    "cta_data": null
+                                }
+                            ],
+                            "media_blob_attachments": [
+                                {
+                                    "__typename": "Photo",
+                                    "id": "246331746824793",
+                                    "large_preview": {
+                                        "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/128838190_246331750158126_2756579592097809005_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9f329b&_nc_ohc=JNV4d8yuiZ8AX_snpgv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2a77860a2faadd0120f1e1e1a4ab9f48&oe=5FF30154",
+                                        "height": 436,
+                                        "width": 800
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "styleList": [
+                "instant_games_custom_update",
+                "business_message_items",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607233199135",
+    "isGroup": true
+}

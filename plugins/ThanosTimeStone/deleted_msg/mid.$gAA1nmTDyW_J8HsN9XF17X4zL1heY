@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3773082346085362",
+    "messageID": "mid.$gAA1nmTDyW_J8HsN9XF17X4zL1heY",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "( _/)\n ( •_•)\n / >🧠 nè lắp vào mà dùng cho bớt ngu rồi hãy sài bot nha,!help đi bro.\n\n Có phải bạn muốn nhập lệnh `!turnoff`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606007272796,
+    "messageReply": {
+        "threadID": "3773082346085362",
+        "messageID": "mid.$gAA1nmTDyW_J8HsN5Rl17X4iso3Mu",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!turnon",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606007271750
+    }
+}

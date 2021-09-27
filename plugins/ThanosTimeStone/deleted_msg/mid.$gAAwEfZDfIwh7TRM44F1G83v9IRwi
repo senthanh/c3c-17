@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3382637068493576",
+    "messageID": "mid.$gAAwEfZDfIwh7TRM44F1G83v9IRwi",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Thanos Time Stone: Đã tắt",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602489282784,
+    "messageReply": {
+        "threadID": "3382637068493576",
+        "messageID": "mid.$gAAwEfZDfIwh7TRM1dl1G83oNKXtG",
+        "senderID": "100012665588155",
+        "attachments": [],
+        "body": ".thanos off",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602489281910
+    }
+}

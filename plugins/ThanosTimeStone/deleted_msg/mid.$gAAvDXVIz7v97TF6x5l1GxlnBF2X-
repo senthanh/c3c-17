@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "!video https://youtu.be/RHzapN_aJaE",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97TF6x5l1GxlnBF2X-",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97TF6x5l1GxlnBF2X-",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FRHzapN_aJaE&h=AT2T7dHTGckhqTuja7K-AIomFdIs_iaw4ZJ4NsvyKDITOwwhyaJTwbId6b_rvWXEc22rOmflft2PmcTTvNAiO4dl5Mi5pqxtM7b337WODEvO2mkp0lfc4s0XfWllY-L6vahhs1sUoXc6YWM&s=1",
+            "title": "[ YTP ] Việt Nam !! Hoạt Hình Huấn Hoa Hồng | Hoạt Hình Việt Nam Chế #7",
+            "description": "Nguồn phim hoạt hình được lấy tại https://www.youtube.com/channel/UCbgQWkzUwoFmZUaQ-Jjnwjw Và đc được edit bởi Lao FV Xin chào đến với Lao FV:)) #Ytp #Ytpvie...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRWx3Kb5z9qnwF&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRHzapN_aJaE%2Fhqdefault.jpg&sx=0&sy=0&sw=480&sh=360&_nc_cb=1&_nc_hash=AQAS9RFupd9cemng",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/RHzapN_aJaE?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FRHzapN_aJaE&h=AT2T7dHTGckhqTuja7K-AIomFdIs_iaw4ZJ4NsvyKDITOwwhyaJTwbId6b_rvWXEc22rOmflft2PmcTTvNAiO4dl5Mi5pqxtM7b337WODEvO2mkp0lfc4s0XfWllY-L6vahhs1sUoXc6YWM&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602477451750",
+    "isGroup": true
+}

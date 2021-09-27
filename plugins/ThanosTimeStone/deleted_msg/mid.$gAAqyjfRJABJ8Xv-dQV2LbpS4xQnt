@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3011072525664274",
+    "messageID": "mid.$gAAqyjfRJABJ8Xv-dQV2LbpS4xQnt",
+    "senderID": "100022362143417",
+    "attachments": [],
+    "body": "Ngủ đi rồi mơ (gửi với hiệu ứng gói quà)",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607084954945,
+    "messageReply": {
+        "threadID": "3011072525664274",
+        "messageID": "mid.$gAAqyjfRJABJ8Xvzccl2LbeN83kVg",
+        "senderID": "100051979022017",
+        "attachments": [],
+        "body": "ƯỚc có ny",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607084774514
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4530707686999866",
+    "messageID": "mid.$gABAYp5ZDxzp8ZEFuXF2MvweItcdZ",
+    "senderID": "100042093002523",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "291782548896606",
+            "filename": "image-291782548896606",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/128333719_1057240288130422_4482653195020474129_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=HKZmqdPZuTIAX-qkjTT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=526b641cc481e4b79ce5cc0345e600d7&oe=5FF2045E",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128333719_1057240288130422_4482653195020474129_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=HKZmqdPZuTIAX-qkjTT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f348c3e7fdbeec588ba89c620ffca74a&oe=5FEFFC8B",
+            "previewWidth": 240,
+            "previewHeight": 240,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128333719_1057240288130422_4482653195020474129_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=HKZmqdPZuTIAX-qkjTT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f348c3e7fdbeec588ba89c620ffca74a&oe=5FEFFC8B",
+            "largePreviewWidth": 240,
+            "largePreviewHeight": 240,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128333719_1057240288130422_4482653195020474129_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=HKZmqdPZuTIAX-qkjTT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f348c3e7fdbeec588ba89c620ffca74a&oe=5FEFFC8B",
+            "width": 240,
+            "height": 240,
+            "name": "image-291782548896606"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607173154396,
+    "messageReply": {
+        "threadID": "4530707686999866",
+        "messageID": "mid.$gABAYp5ZDxzp8ZD8KIF2MvnBtzf4M",
+        "senderID": "100055232867140",
+        "attachments": [],
+        "body": "Gửi ảnh đj mn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607172997664
+    }
+}

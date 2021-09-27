@@ -1,0 +1,36 @@
+{
+    "type": "message_reply",
+    "threadID": "3196637410445594",
+    "messageID": "mid.$gAAtbUyVTSRp9w2kuJl3kiPet7XgK",
+    "senderID": "100045203137155",
+    "attachments": [],
+    "body": "Panahong uso pa light shot😔😔😔😔",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613064562214,
+    "messageReply": {
+        "threadID": "3196637410445594",
+        "messageID": "mid.$gAAtbUyVTSRp9w2iXz13kiNF7kC4B",
+        "senderID": "100045203137155",
+        "attachments": [
+            {
+                "type": "video",
+                "filename": "video-1613064523.mp4",
+                "ID": "255556412691038",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/p640x640/94058633_2578677105744715_8673439051270848512_n.jpg?_nc_cat=102&ccb=3&_nc_sid=f8ae41&_nc_ohc=SNwxo154ISsAX9lAeEr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b9ebfbd46fe8b56c190d8a5913930b47&oe=60499EA6",
+                "previewWidth": 640,
+                "previewHeight": 640,
+                "url": "https://video.xx.fbcdn.net/v/t42.3356-2/94789379_2929912030387665_8591024963937370112_n.mp4/video-1613064523.mp4?_nc_cat=100&ccb=3&_nc_sid=060d78&_nc_ohc=m3oVk1jAv7kAX-PjDIh&vabr=1304392&_nc_ht=video.xx&oh=4462269b9b61928b4a18756890c685fe&oe=6026A852&dl=1",
+                "width": 720,
+                "height": 720,
+                "duration": 45000,
+                "videoType": "file_attachment",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/p640x640/94058633_2578677105744715_8673439051270848512_n.jpg?_nc_cat=102&ccb=3&_nc_sid=f8ae41&_nc_ohc=SNwxo154ISsAX9lAeEr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b9ebfbd46fe8b56c190d8a5913930b47&oe=60499EA6"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613064523727
+    }
+}

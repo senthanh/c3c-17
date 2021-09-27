@@ -1,0 +1,54 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8aOVZIl2N6AEwtfa9",
+    "senderID": "100014507767327",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "373135003918892",
+            "filename": "image-373135003918892",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/129508071_373135010585558_3725905180475324416_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aWfFUCS31qsAX_nXW54&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=04751f228644b8420934eb0279d3aa6d&oe=5FF399D9",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/129508071_373135010585558_3725905180475324416_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aWfFUCS31qsAX_nXW54&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=e88eb49575a35362b9f584d96f0a60da&oe=5FF15B4F",
+            "previewWidth": 280,
+            "previewHeight": 382,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129508071_373135010585558_3725905180475324416_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aWfFUCS31qsAX_nXW54&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=3adb56debb6a6bbc902efef216de47e1&oe=5FF21C4A",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 655,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129508071_373135010585558_3725905180475324416_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aWfFUCS31qsAX_nXW54&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=3adb56debb6a6bbc902efef216de47e1&oe=5FF21C4A",
+            "width": 528,
+            "height": 720,
+            "name": "image-373135003918892"
+        },
+        {
+            "type": "photo",
+            "ID": "3539716469447254",
+            "filename": "image-3539716469447254",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/130002046_3539716472780587_8838595204921441934_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=650XutWi8GEAX8DY-Ui&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=4c3364790ab9d10ef857b9c697584be6&oe=5FF1634F",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/130002046_3539716472780587_8838595204921441934_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=650XutWi8GEAX8DY-Ui&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=924e80850d2fe5922fdf641138038f50&oe=5FF36A57",
+            "previewWidth": 280,
+            "previewHeight": 382,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130002046_3539716472780587_8838595204921441934_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=650XutWi8GEAX8DY-Ui&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=aaffaf1a0e8b0904def428fc73ee9cb8&oe=5FF1E346",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 655,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130002046_3539716472780587_8838595204921441934_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=650XutWi8GEAX8DY-Ui&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=aaffaf1a0e8b0904def428fc73ee9cb8&oe=5FF1E346",
+            "width": 528,
+            "height": 720,
+            "name": "image-3539716469447254"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607251005730,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV8aOUobF2N5_dWzuBf",
+        "senderID": "100041309885020",
+        "attachments": [],
+        "body": "Hơi. Đá có trái banh. Phồng cả chân",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607250993260
+    }
+}

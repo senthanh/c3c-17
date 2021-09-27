@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100021627450410",
+    "body": "",
+    "threadID": "3471076522984582",
+    "messageID": "mid.$gAAxU7PskBIZ8YuJral2MZ0hZ3iYE",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "607946306317636",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/51702135_607946309650969_1633768901852528640_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=EanHEMRo2RIAX_ZLKOl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c7e3074430aaf857d36b8bd6140ed33b&oe=5FEF104E",
+            "packID": "603225566789710",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/51707347_607946316317635_371956657598496768_n.png?_nc_cat=105&ccb=2&_nc_sid=0572db&_nc_ohc=-fDvAJXXOFsAX99JOkE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=dad6cde4a8703269ae1c03c6ae594f2a&oe=5FEFD2B8"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/51707347_607946316317635_371956657598496768_n.png?_nc_cat=105&ccb=2&_nc_sid=0572db&_nc_ohc=-fDvAJXXOFsAX99JOkE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=78a0924d2785a636defe105402f59425&oe=5FF06FBF"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "waving, pig waving ",
+            "description": "waving, pig waving ",
+            "frameCount": 20,
+            "frameRate": 41,
+            "framesPerRow": 5,
+            "framesPerCol": 4,
+            "stickerID": "607946306317636",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/51707347_607946316317635_371956657598496768_n.png?_nc_cat=105&ccb=2&_nc_sid=0572db&_nc_ohc=-fDvAJXXOFsAX99JOkE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=dad6cde4a8703269ae1c03c6ae594f2a&oe=5FEFD2B8"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/51707347_607946316317635_371956657598496768_n.png?_nc_cat=105&ccb=2&_nc_sid=0572db&_nc_ohc=-fDvAJXXOFsAX99JOkE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=78a0924d2785a636defe105402f59425&oe=5FF06FBF"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607150150506",
+    "isGroup": true
+}

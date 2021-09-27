@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008663070813",
+    "body": "!yt2mp3 https://www.youtube.com/watch?v=Sd4ZKcOpM88&feature=share",
+    "threadID": "2465359353578123",
+    "messageID": "mid.$gAAjCOzSDgot7xO_OGV1k6p9JLdrv",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAjCOzSDgot7xO_OGV1k6p9JLdrv",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSd4ZKcOpM88%26feature%3Dshare&h=AT2xL6md4VvcoHX3xKihMdKhnRkJXPUWS6ymCMwGh5UPlBfY2rdRF89FG0kuJh9vIlcqHKA1N8H1lHeys5gW77pUCdSsu-ligqy21ysuuCChLl7-xzzIeRLVgPpXhQriI1IVMc94fqoJO6w&s=1",
+            "title": "Shadow Fight 3 OST (13/23) - China Blacksmith | Extended +Download",
+            "description": "MP3 Download: http://www.mediafire.com/folder/ft9pmp5cmapw9/Shadow_Fight_3_OST Playlist: https://www.youtube.com/playlist?list=PLVmKddMnqntsUVxw51NscYads8RGM...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQC7Q_sUv6D0cart&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSd4ZKcOpM88%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQAHVSZuArZflNIJ",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/Sd4ZKcOpM88?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSd4ZKcOpM88%26feature%3Dshare&h=AT2xL6md4VvcoHX3xKihMdKhnRkJXPUWS6ymCMwGh5UPlBfY2rdRF89FG0kuJh9vIlcqHKA1N8H1lHeys5gW77pUCdSsu-ligqy21ysuuCChLl7-xzzIeRLVgPpXhQriI1IVMc94fqoJO6w&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1604500227609",
+    "isGroup": true
+}

@@ -1,0 +1,45 @@
+{
+    "type": "message_reply",
+    "threadID": "4707944482610238",
+    "messageID": "mid.$gABC52b6CHD57N6tJpl1BmX4oBlgq",
+    "senderID": "100055953258099",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "336156364142927",
+            "filename": "gif-336156364142927",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "previewWidth": 500,
+            "previewHeight": 280,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "width": 500,
+            "height": 280,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "name": "gif-336156364142927",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50177942_1976566792460033_3173656531648380928_n.gif?_nc_cat=102&_nc_sid=041f46&_nc_ohc=rU9tgf-KYq8AX9FfYlb&_nc_ht=cdn.fbsbx.com&oh=8692c6304baebc1ac3064ecadd280081&oe=5F806240"
+        }
+    ],
+    "body": "Cơm Ship, I wanna kiss you ❤️",
+    "isGroup": true,
+    "mentions": {
+        "100055953258099": "Cơm Ship"
+    },
+    "timestamp": 1602130149798,
+    "messageReply": {
+        "threadID": "4707944482610238",
+        "messageID": "mid.$gABC52b6CHD57N6s_fl1BmXyCf1ot",
+        "senderID": "100055832783280",
+        "attachments": [],
+        "body": "!kiss @Cơm Ship",
+        "isGroup": true,
+        "mentions": {
+            "100055953258099": "@Cơm Ship"
+        },
+        "timestamp": 1602130147198
+    }
+}

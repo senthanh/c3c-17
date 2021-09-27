@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4871657662908849",
+    "messageID": "mid.$gABFOvzB3CbF93GLA5V3qx1xnOykm",
+    "senderID": "100059839927763",
+    "attachments": [],
+    "body": "Wala.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613483571429,
+    "messageReply": {
+        "threadID": "4871657662908849",
+        "messageID": "mid.$gABFOvzB3CbF93GKcmF3qx1UOLbxd",
+        "senderID": "100052097418646",
+        "attachments": [],
+        "body": "Anyari sayo ache?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613483562136
+    }
+}

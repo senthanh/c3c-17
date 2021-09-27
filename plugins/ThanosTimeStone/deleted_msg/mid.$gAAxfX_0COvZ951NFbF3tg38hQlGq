@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3482565591841526",
+    "messageID": "mid.$gAAxfX_0COvZ951NFbF3tg38hQlGq",
+    "senderID": "100062109501552",
+    "attachments": [],
+    "body": "Hafi na siya sa iba",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613667106156,
+    "messageReply": {
+        "threadID": "3482565591841526",
+        "messageID": "mid.$gAAxfX_0COvZ951LaI13tg3MSzoPe",
+        "senderID": "100045993796877",
+        "attachments": [],
+        "body": "Hafi ka?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613667078691
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3011072525664274",
+    "messageID": "mid.$gAAqyjfRJABJ8aK8gE12N2nUnoQsl",
+    "senderID": "100026284894199",
+    "attachments": [],
+    "body": "Anh nào? Clan có mấy anh 01 mà",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607247452179,
+    "messageReply": {
+        "threadID": "3011072525664274",
+        "messageID": "mid.$gAAqyjfRJABJ8aK6ONF2N2lDzPmMQ",
+        "senderID": "100039626565736",
+        "attachments": [],
+        "body": "kh phải nói xấu nhưng mà em kh có thiện cảm với cái anh 2001",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607247414836
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58aQvLhV2N8Z-nRL-4",
+    "senderID": "100009452017523",
+    "attachments": [],
+    "body": "Iu e",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607253525381,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58aQrAzF2N8V3GBwAt",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "Bạn đã trả 500 Đô la cho Trần Như.",
+        "isGroup": true,
+        "mentions": {
+            "100009452017523": "Trần Như"
+        },
+        "timestamp": 1607253457100
+    }
+}

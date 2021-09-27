@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100022089572931",
+    "body": "",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58YpUx512MVAFfsjrM",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "144885242352409",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/47269231_1134368863404037_4744862809563594752_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=7mF0dDEfJiUAX-LgmDx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3d3240ddd5c8e02d92ad833f82ede300&oe=5FF105A3",
+            "packID": "350357561732812",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s240x240/47192265_1134368856737371_7465305531620524032_n.png?_nc_cat=106&ccb=2&_nc_sid=0572db&_nc_ohc=sM4hJL_THbAAX8TBmDG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=5e1980b31e07ff3f30b3a0c6d6ca28b5&oe=5FF1A143"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/47192265_1134368856737371_7465305531620524032_n.png?_nc_cat=106&ccb=2&_nc_sid=0572db&_nc_ohc=sM4hJL_THbAAX8TBmDG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=62f223e7f0ce9d3996810c41db22f190&oe=5FF0FAFC"
+            },
+            "width": 307,
+            "height": 240,
+            "caption": "Winking cat",
+            "description": "Winking cat",
+            "frameCount": 4,
+            "frameRate": 142,
+            "framesPerRow": 2,
+            "framesPerCol": 2,
+            "stickerID": "144885242352409",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s240x240/47192265_1134368856737371_7465305531620524032_n.png?_nc_cat=106&ccb=2&_nc_sid=0572db&_nc_ohc=sM4hJL_THbAAX8TBmDG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=5e1980b31e07ff3f30b3a0c6d6ca28b5&oe=5FF1A143"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/47192265_1134368856737371_7465305531620524032_n.png?_nc_cat=106&ccb=2&_nc_sid=0572db&_nc_ohc=sM4hJL_THbAAX8TBmDG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=62f223e7f0ce9d3996810c41db22f190&oe=5FF0FAFC"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607145089511",
+    "isGroup": true
+}

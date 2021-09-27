@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "!adduser https://facebook.com/zuck",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8G-L16l16p2iYH5cC",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAgy1dGVWLV8G-L16l16p2iYH5cC",
+            "url": "https://www.facebook.com/zuck",
+            "title": "Mark Zuckerberg",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/p960x960/79515135_10111007623880301_5111576226921709568_o.jpg?_nc_cat=1&ccb=2&_nc_sid=dbb9e7&_nc_ohc=BjDa10S0b3kAX-fosLz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7217f9ccd02d24ee0539a7c89843f12b&oe=5FDE71DD",
+            "width": 967,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/zuck",
+            "target": {
+                "__typename": "User",
+                "id": "4",
+                "name": "Mark Zuckerberg",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/79515135_10111007623880301_5111576226921709568_o.jpg?_nc_cat=1&ccb=2&_nc_sid=7206a8&_nc_ohc=BjDa10S0b3kAX-fosLz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=776ae03563e9e5df2a174d3b6e858950&oe=5FDDFE76"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/19575079_10103832396388711_8894816584589808440_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=xdRTY-Tz4_4AX_Gos20&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=e802a735ff842cb45de369e391be4aab&oe=5FDF782B"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "IS_SUBSCRIBED"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1605959003626",
+    "isGroup": true
+}

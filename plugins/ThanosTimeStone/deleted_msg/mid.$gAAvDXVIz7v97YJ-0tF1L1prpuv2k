@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".kill @Cơm Ship",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97YJ-0tF1L1prpuv2k",
+    "attachments": [],
+    "mentions": {
+        "100055953258099": "@Cơm Ship"
+    },
+    "timestamp": "1602817256628",
+    "isGroup": true
+}

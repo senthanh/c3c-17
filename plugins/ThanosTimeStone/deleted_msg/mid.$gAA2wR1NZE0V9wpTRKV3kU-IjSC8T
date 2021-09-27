@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3852995084751685",
+    "messageID": "mid.$gAA2wR1NZE0V9wpTRKV3kU-IjSC8T",
+    "senderID": "100041845140363",
+    "attachments": [],
+    "body": "Hindi ate, Slapsoilvlang meh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613050644777,
+    "messageReply": {
+        "threadID": "3852995084751685",
+        "messageID": "mid.$gAA2wR1NZE0V9wpSAJV3kU82qTdn5",
+        "senderID": "100060441486635",
+        "attachments": [],
+        "body": "@Cali want mo ba maging host?",
+        "isGroup": true,
+        "mentions": {
+            "100041845140363": "@Cali"
+        },
+        "timestamp": 1613050624037
+    }
+}

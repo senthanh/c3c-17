@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3382421031887402",
+    "messageID": "mid.$gAAwES0QWIip8r-myP12fqRvvidRt",
+    "senderID": "100034831938176",
+    "attachments": [],
+    "body": "Wrong command. Use .help to display all commands available.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1608442473023,
+    "messageReply": {
+        "threadID": "3382421031887402",
+        "messageID": "mid.$gAAwES0QWIip8r-ms1V2fqRmTxzWx",
+        "senderID": "100034098077653",
+        "attachments": [],
+        "body": ".",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1608442471637
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3606372986151836",
+    "messageID": "mid.$gAAzP-iTEY5x98F3JKl3vxiAvbATB",
+    "senderID": "100055970694603",
+    "attachments": [],
+    "body": "Kain lang ako lapag mo yung I'd mo.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613818790186,
+    "messageReply": {
+        "threadID": "3606372986151836",
+        "messageID": "mid.$gAAzP-iTEY5x98FtFnF3vxX2lQpW8",
+        "senderID": "100057477030893",
+        "attachments": [],
+        "body": "Korni mo lue",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613818625436
+    }
+}

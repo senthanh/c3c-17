@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4530707686999866",
+    "messageID": "mid.$gABAYp5ZDxzp8YtYWjF2MZDLRmDv2",
+    "senderID": "100057089185591",
+    "attachments": [],
+    "body": "Cái bà kia đâu🤣sao h thành you",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607149342348,
+    "messageReply": {
+        "threadID": "4530707686999866",
+        "messageID": "mid.$gABAYp5ZDxzp8YtWX-l2MZBLeLqr7",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Facebook User đã cố gắng xoá 1 tin nhắn. \r\nNội dung: Gi (sent with gift wrap effect)",
+        "isGroup": true,
+        "mentions": {
+            "100057089185591": "Facebook User "
+        },
+        "timestamp": 1607149309946
+    }
+}

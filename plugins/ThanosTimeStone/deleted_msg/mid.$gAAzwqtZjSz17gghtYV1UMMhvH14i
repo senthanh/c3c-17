@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17gghtYV1UMMhvH14i",
+    "senderID": "100037910915086",
+    "attachments": [],
+    "body": "undefined removed a message: Thắng thực sự là do có thích Uyên nên mới sợ :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603377767777,
+    "messageReply": {
+        "threadID": "3642316252465981",
+        "messageID": "mid.$gAAzwqtZjSz17gghQF11UMMFzb-pp",
+        "senderID": "100052901131792",
+        "attachments": [],
+        "body": "Chưa đọc được",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603377760279
+    }
+}

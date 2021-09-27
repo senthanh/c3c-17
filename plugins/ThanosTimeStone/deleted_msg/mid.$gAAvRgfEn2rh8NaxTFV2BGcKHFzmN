@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326580770724536",
+    "messageID": "mid.$gAAvRgfEn2rh8NaxTFV2BGcKHFzmN",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Danh sách lệnh:\n16. !showbadword\n17. !badwordwhitelist <add/del> <@mention>\n18. !broadcast <nội dung>\n19. !fbroadcast <nội dung>\n20. !rbc\n21. !propose <@mention>\n22. !chefind <tên/CTHH> -> chemical's info\n23. !nolove <@mention>\n24. !phcmt\n25. !trumptweet\n26. !s Talk with Sim\n27. !st\n28. !corona\n29. !news\n30. !togglecount\n(Trang 2/6)\nGõ `!help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606391630613,
+    "messageReply": {
+        "threadID": "3326580770724536",
+        "messageID": "mid.$gAAvRgfEn2rh8NaxQS12BGcDJAm9d",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!help 2",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606391629899
+    }
+}

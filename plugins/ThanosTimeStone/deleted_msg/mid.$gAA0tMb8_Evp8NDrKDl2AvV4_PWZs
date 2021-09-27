@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NDrKDl2AvV4_PWZs",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Tối nay t ko đi đâu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606367412750,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8NDqSOV2AvVKgbEP9",
+        "senderID": "100038322465994",
+        "attachments": [],
+        "body": "Duma tối nay mà đi học tao mà thấy mày vs Tấn đi ha tao tán á",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606367398457
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3089511847819804",
+    "messageID": "mid.$gAAr55Qg3-hx957Oqq13tm5e5JO_f",
+    "senderID": "100022839800957",
+    "attachments": [],
+    "body": "o",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613673423531,
+    "messageReply": {
+        "threadID": "3089511847819804",
+        "messageID": "mid.$gAAr55Qg3-hx957JsUV3tm0cOrJtU",
+        "senderID": "100027393902916",
+        "attachments": [],
+        "body": "Sando Or Shirt?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613673342033
+    }
+}

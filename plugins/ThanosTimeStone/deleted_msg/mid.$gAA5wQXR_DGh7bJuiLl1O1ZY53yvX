@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4064076103617640",
+    "messageID": "mid.$gAA5wQXR_DGh7bJuiLl1O1ZY53yvX",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "tag cái đầu buồi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603018316334,
+    "messageReply": {
+        "threadID": "4064076103617640",
+        "messageID": "mid.$gAA5wQXR_DGh7bJqlqV1O1VaNDEaD",
+        "senderID": "100019176079503",
+        "attachments": [],
+        "body": ".punch @Chỉ Một Mà Thôi",
+        "isGroup": true,
+        "mentions": {
+            "100037141996242": "@Chỉ Một Mà Thôi"
+        },
+        "timestamp": 1603018251689
+    }
+}

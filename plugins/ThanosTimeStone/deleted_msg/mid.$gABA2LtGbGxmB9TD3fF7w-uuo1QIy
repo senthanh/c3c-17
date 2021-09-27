@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9TD3fF7w-uuo1QIy",
+    "senderID": "100072189057130",
+    "attachments": [],
+    "body": "[ banCommand Thread ] Hiện tại bạn đang yêu cầu cấm sử dụng lệnh đối với nhóm:\n - ID nhóm cần cấm: 4563174340369177\n- Các lệnh cần cấm: goibot\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631079608188,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9TD2Ql7w-uGb-z5e",
+        "senderID": "100025536690946",
+        "attachments": [],
+        "body": "/thread -bc goibot",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631079607874
+    }
+}

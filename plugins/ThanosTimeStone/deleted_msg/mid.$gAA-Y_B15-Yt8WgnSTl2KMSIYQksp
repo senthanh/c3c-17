@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "4390333244373387",
+    "messageID": "mid.$gAA-Y_B15-Yt8WgnSTl2KMSIYQksp",
+    "senderID": "100032309192180",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1607001737000-1208.mp4",
+            "ID": "AT386rMK48DdACTVigeOzDq64PNmawrk3s9ZH3oLHuXm1X4go2ofz_ZQKlUjDMdD3MAhoVzjFXNVK228KoQmygjrFrZZ6s8XgADcDzND8e0CGu56qk3Tjj7POygVkaG1eiymoTwFd7dyuyRVm6uFaetqpmU",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 1208,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/128505047_130039492057983_289654750454762969_n.mp4/audioclip-1607001737000-1208.mp4?_nc_cat=111&ccb=2&_nc_sid=7272a8&_nc_ohc=1Aq3KcmzMdMAX9MqH_H&_nc_ht=cdn.fbsbx.com&oh=c3dcff201a7055214e25c91e14e1f806&oe=5FCA3CFA&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607001737806,
+    "messageReply": {
+        "threadID": "4390333244373387",
+        "messageID": "mid.$gAA-Y_B15-Yt8WggcUl2KMLP01qyk",
+        "senderID": "100024436724653",
+        "attachments": [],
+        "body": "Cần 1 người cưa giúp mình cặp sừng.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607001625682
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "https://www.google.com.vn/amp/s/www.thegioididong.com/tin-tuc/amp/viettel-tang-moi-thue-bao-100-luot-1-5gb-data-4g-mien-phi-trong-30-ngay-nhan-ngay-nao-moi-nguoi-oi-1297999",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97TsmL511HYRBVb1Fy",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97TsmL511HYRBVb1Fy",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com.vn%2Famp%2Fs%2Fwww.thegioididong.com%2Ftin-tuc%2Famp%2Fviettel-tang-moi-thue-bao-100-luot-1-5gb-data-4g-mien-phi-trong-30-ngay-nhan-ngay-nao-moi-nguoi-oi-1297999&h=AT1S2dyBzu5tZwBssYj2DgU5xxqhscRQC0zhrPoFo9ZbhMTpK5LRTCqhWyRre8mNLwhztxAT7xwDW7v4mpJc57bKUtaKC1AUglh5uNK8Z56NdyX6lLyVinWee_cRnp0OGDYlC72QMcbOvN0&s=1",
+            "title": "Cách nhận 100 lượt 1.5GB Data 4G Viettel miễn phí dùng trong 30 ngày",
+            "description": "Hiện tại, Tập Đoàn Viễn Thông Quân Đội Viettel đang tặng mỗi thuê bao miễn phí 100 lượt 1.5GB Data trong 30 ngày. Với ưu đãi khổng lồ như thế này, bạn có thể tha hồ tặng Data 4G cho bạn bè và người thân truy cập Internet miễn phí...",
+            "source": "thegioididong.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDRu92g4x0gsMpD&w=640&h=360&url=https%3A%2F%2Fcdn.tgdd.vn%2FFiles%2F2020%2F10%2F11%2F1297999%2Fcach-nhan-data-4g-viettel-mien-phi_800x450-600x400.jpg&sx=0&sy=0&sw=640&sh=360&_nc_cb=1&_nc_hash=AQC3P49hzOasIgi6",
+            "width": 640,
+            "height": 360,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "640",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com.vn%2Famp%2Fs%2Fwww.thegioididong.com%2Ftin-tuc%2Famp%2Fviettel-tang-moi-thue-bao-100-luot-1-5gb-data-4g-mien-phi-trong-30-ngay-nhan-ngay-nao-moi-nguoi-oi-1297999&h=AT1S2dyBzu5tZwBssYj2DgU5xxqhscRQC0zhrPoFo9ZbhMTpK5LRTCqhWyRre8mNLwhztxAT7xwDW7v4mpJc57bKUtaKC1AUglh5uNK8Z56NdyX6lLyVinWee_cRnp0OGDYlC72QMcbOvN0&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602518008807",
+    "isGroup": true
+}

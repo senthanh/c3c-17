@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3408365299281814",
+    "messageID": "mid.$gAAwb4-Ltr5Z8bKzbWF2O2eGj8a3P",
+    "senderID": "100043211734870",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1359588397718107",
+            "filename": "image-1359588397718107",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/129546957_1359588404384773_3896686688885292128_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=20OeKn8OpkoAX_fYFAt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=35d90b40478058a281e9492308db2233&oe=5FF39883",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/129546957_1359588404384773_3896686688885292128_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=20OeKn8OpkoAX_fYFAt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5d8a36a8ce0517f05a8732e52f504e7e&oe=5FF49A0B",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129546957_1359588404384773_3896686688885292128_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=20OeKn8OpkoAX_fYFAt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ea25accb0273b66d2bf2653ca6a343ea&oe=5FF3631A",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 854,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129546957_1359588404384773_3896686688885292128_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=20OeKn8OpkoAX_fYFAt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ea25accb0273b66d2bf2653ca6a343ea&oe=5FF3631A",
+            "width": 540,
+            "height": 961,
+            "name": "image-1359588397718107"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607314412376,
+    "messageReply": {
+        "threadID": "3408365299281814",
+        "messageID": "mid.$gAAwb4-Ltr5Z8bKyBll2O2c5LNRL4",
+        "senderID": "100008698659285",
+        "attachments": [],
+        "body": "Ny chú đâu dẫn về ra mắt cháu nào",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607314389398
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9L8su17w3nXl9D9l",
+    "senderID": "100034707340200",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-1631072150.mp4",
+            "ID": "561414164903327",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/178033827_5610630462312755_3732903396498192134_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=9nOL1S9ndBAAX_V-41X&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=659d15ed0f40905353b3d8b8772154df&oe=61393654",
+            "previewWidth": 640,
+            "previewHeight": 368,
+            "url": "https://video.xx.fbcdn.net/v/t42.3356-2/185462170_4450373248330832_7645280392681988888_n.mp4/video-1631072150.mp4?_nc_cat=111&ccb=1-5&_nc_sid=060d78&_nc_ohc=MeNOuGEX13wAX_S0wrs&vabr=480944&_nc_ht=video.xx&oh=1fa986deceabf49d6fa73a281e93eeae&oe=613929D8&dl=1",
+            "width": 640,
+            "height": 368,
+            "duration": 1000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/178033827_5610630462312755_3732903396498192134_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=9nOL1S9ndBAAX_V-41X&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=659d15ed0f40905353b3d8b8772154df&oe=61393654"
+        }
+    ],
+    "body": "Đúng! thằng này ngu lắm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631072150715,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9L8ewl7w3nT3dGqw",
+        "senderID": "100024821781850",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "3115328402020938",
+                "filename": "image-3115328402020938",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/cp0/s64x64/171551074_643225006511881_9176369983204292203_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Blfd514YWU4AX_OoPhU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=32ce735fd143641c77a66e7d4c6d1e3a&oe=615C9877",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p280x280/171551074_643225006511881_9176369983204292203_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Blfd514YWU4AX_OoPhU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8686bd28f0713173a7d10ad97c586273&oe=615CB2C4",
+                "previewWidth": 421,
+                "previewHeight": 280,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/171551074_643225006511881_9176369983204292203_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Blfd514YWU4AX_OoPhU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5c94644929eac4457cb0d4563a0ad6b8&oe=615E36B3",
+                "largePreviewWidth": 600,
+                "largePreviewHeight": 399,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/171551074_643225006511881_9176369983204292203_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Blfd514YWU4AX_OoPhU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5c94644929eac4457cb0d4563a0ad6b8&oe=615E36B3",
+                "width": 600,
+                "height": 399,
+                "name": "image-3115328402020938"
+            }
+        ],
+        "body": "Nguyễn Hải Đăng Bạn đã chửi bot vào 10:35:46 8/09/2021.\n- Tin nhắn này đã được gửi về cho admin.\n- Thêm lần nữa ăn ban bạn nhé :)",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631072147138
+    }
+}

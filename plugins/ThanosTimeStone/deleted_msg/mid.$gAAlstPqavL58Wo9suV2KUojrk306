@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2652799344753854",
+    "messageID": "mid.$gAAlstPqavL58Wo9suV2KUojrk306",
+    "senderID": "100004521995224",
+    "attachments": [],
+    "body": "Call đọ cu ko",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607010493625,
+    "messageReply": {
+        "threadID": "2652799344753854",
+        "messageID": "mid.$gAAlstPqavL58Wo8CDl2KUm5G_038",
+        "senderID": "100013814083903",
+        "attachments": [],
+        "body": "Call tí k anh chị",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607010466318
+    }
+}

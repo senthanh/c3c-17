@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100014712121544",
+    "body": "/play https://www.youtube.com/watch?v=56lkofpjOAs",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17YuiYtV1MaNPGZgdE",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzwqtZjSz17YuiYtV1MaNPGZgdE",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D56lkofpjOAs&h=AT2ItiL03W5SdmouuUo5NfY5oA18h2FmbEP1SAbOpHHo9WVPxBv-S4tXgvInYKl7neLO7ri7xg8AtzNuxah8QTZWfa9AdebcO3SYkgKWJpwCEMZBFWjUEgUGT2ujzKJDn1dkgUq5wu9bZM4&s=1",
+            "title": "100 Hour Timer Countdown – 100 Hrs Video - 100h Video Countdown - 100 Stunden Timer",
+            "description": "100 Hour Timer Countdown Video on Youtube. Turns your Screen into a 100 Hrs. Countdown Meine Youtube Ausrüstung: Meine Kamera: http://amzn.to/2o02UFQ Mein St...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDGD5Tj7kVVc1Vy&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F56lkofpjOAs%2Fhqdefault.jpg&_nc_cb=1&_nc_hash=AQD9H-rpM8Zg6WFs",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/56lkofpjOAs?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D56lkofpjOAs&h=AT2ItiL03W5SdmouuUo5NfY5oA18h2FmbEP1SAbOpHHo9WVPxBv-S4tXgvInYKl7neLO7ri7xg8AtzNuxah8QTZWfa9AdebcO3SYkgKWJpwCEMZBFWjUEgUGT2ujzKJDn1dkgUq5wu9bZM4&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602855588021",
+    "isGroup": true
+}

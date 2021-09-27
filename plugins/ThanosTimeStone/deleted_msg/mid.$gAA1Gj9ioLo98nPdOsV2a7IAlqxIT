@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3736758326406799",
+    "messageID": "mid.$gAA1Gj9ioLo98nPdOsV2a7IAlqxIT",
+    "senderID": "100013526591168",
+    "attachments": [],
+    "body": ".help",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1608124597937,
+    "messageReply": {
+        "threadID": "3736758326406799",
+        "messageID": "mid.$gAA1Gj9ioLo98nPWU0F2a7BbCyDFm",
+        "senderID": "100030204460576",
+        "attachments": [],
+        "body": "ai hướng dẫn mik cách xài với",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1608124484816
+    }
+}

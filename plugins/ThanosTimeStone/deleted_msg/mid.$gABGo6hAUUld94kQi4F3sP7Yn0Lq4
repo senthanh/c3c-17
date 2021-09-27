@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4970797849662039",
+    "messageID": "mid.$gABGo6hAUUld94kQi4F3sP7Yn0Lq4",
+    "senderID": "100043889281421",
+    "attachments": [],
+    "body": "gising na matutulog kapa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613582228192,
+    "messageReply": {
+        "threadID": "4970797849662039",
+        "messageID": "mid.$gABGo6hAUUld94kOeZ13sP5WJvtYM",
+        "senderID": "100044572622855",
+        "attachments": [],
+        "body": "Natutulog ako",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613582194279
+    }
+}

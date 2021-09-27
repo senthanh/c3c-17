@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4780901961980885",
+    "messageID": "mid.$gABD8NHsmW9V8Ysmz1F2MYRqlx2MM",
+    "senderID": "100027413328245",
+    "attachments": [],
+    "body": "rồiiii =)))))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607148530644,
+    "messageReply": {
+        "threadID": "4780901961980885",
+        "messageID": "mid.$gABD8NHsmW9V8YshDIl2MYLrulpN6",
+        "senderID": "100054237349814",
+        "attachments": [],
+        "body": "Các ông đã được bố mua thuốc cho hút chưa =))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607148436258
+    }
+}

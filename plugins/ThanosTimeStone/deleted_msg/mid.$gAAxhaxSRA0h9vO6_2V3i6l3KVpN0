@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100050671635384",
+    "body": "https://www.facebook.com/groups/clashofletters/permalink/1586348311753679/?app=fbl",
+    "threadID": "3484812254970696",
+    "messageID": "mid.$gAAxhaxSRA0h9vO6_2V3i6l3KVpN0",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxhaxSRA0h9vO6_2V3i6l3KVpN0",
+            "url": null,
+            "title": "1v1\n\nBabea Foundress vs Sin Axarant\n\nRules\n-Bawal boomerang.\n-Bawal kudaan ang OP.\n-Bawal sawsaw.\n-Bawal kudang aso, dog food at iba pang related diyan.\n\n7:10-8:10",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612955875289",
+    "isGroup": true
+}

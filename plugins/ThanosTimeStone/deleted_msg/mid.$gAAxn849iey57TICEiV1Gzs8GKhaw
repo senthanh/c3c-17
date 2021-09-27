@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57TICEiV1Gzs8GKhaw",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.toggleeveryone`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602479668361,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57TICCtV1GzqzlBaZB",
+        "senderID": "100016981157701",
+        "attachments": [],
+        "body": ".everyone",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602479667893
+    }
+}

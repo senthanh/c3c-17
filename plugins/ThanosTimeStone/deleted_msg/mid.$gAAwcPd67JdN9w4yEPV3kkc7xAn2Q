@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3408751775917523",
+    "messageID": "mid.$gAAwcPd67JdN9w4yEPV3kkc7xAn2Q",
+    "senderID": "100057663751076",
+    "attachments": [],
+    "body": "kiehl ; ikaw aking gusto, pero si mas ginusto~",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613066878013,
+    "messageReply": {
+        "threadID": "3408751775917523",
+        "messageID": "mid.$gAAwcPd67JdN9w4u4dF3kkZsycYpG",
+        "senderID": "100055432222812",
+        "attachments": [],
+        "body": "magkabila man ang ating mundo...",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613066825844
+    }
+}

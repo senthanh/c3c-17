@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9us_2F7xaX28j7OJ",
+    "senderID": "100061274770284",
+    "attachments": [],
+    "body": "[ Unban User ] Hiện tại bạn đang yêu cầu gỡ cấm người dùng:\n- ID và tên người dùng cần gỡ cấm: 100048524510645 - Nguyễn Mạnh Khoa\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631108593624,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9us-qF7xaX2uG31v",
+        "senderID": "100048524510645",
+        "attachments": [],
+        "body": ">user unban 100048524510645",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631108593320
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100004963726180",
+    "body": ".punch <@Phạm Đức Phi >",
+    "threadID": "2992104427514304",
+    "messageID": "mid.$gAAqhTZmIacB7L70JIF0_nfARCylN",
+    "attachments": [],
+    "mentions": {
+        "100008884452271": "@Phạm Đức Phi"
+    },
+    "timestamp": "1601997095200",
+    "isGroup": true
+}

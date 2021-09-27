@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100055953258099",
+    "body": "Phạm Đức Phi vừa gỡ một tin nhắn:\n.kick <@mentions> [Fuck 1 ai đó :3]",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57PuJcgl1DZ0TuDbDl",
+    "attachments": [],
+    "mentions": {
+        "100008884452271": "Phạm Đức Phi"
+    },
+    "timestamp": "1602251199618",
+    "isGroup": true
+}

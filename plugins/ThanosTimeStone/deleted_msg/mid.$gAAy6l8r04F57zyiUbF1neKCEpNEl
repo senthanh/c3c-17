@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3582860828401758",
+    "messageID": "mid.$gAAy6l8r04F57zyiUbF1neKCEpNEl",
+    "senderID": "100043875810510",
+    "attachments": [],
+    "body": "Cua ko đc ngta tương tư chứ j",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604671720556,
+    "messageReply": {
+        "threadID": "3582860828401758",
+        "messageID": "mid.$gAAy6l8r04F57zyghw11neLPFgSWp",
+        "senderID": "100034462133001",
+        "attachments": [],
+        "body": "Hc sinh gương mẫu là em",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604671691203
+    }
+}

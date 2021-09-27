@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100040179921699",
+    "body": "",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7bdlaW11PJQRlv17w",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "335332674032574",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/65101713_335332684032573_4309475940339023872_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=RyA-svSqbfYAX9z_By5&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=68b914917a2395fa4b9d209a628551e6&oe=5FB2448D",
+            "packID": "325514741681034",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p370x247/65105599_335332680699240_2222240427120001024_n.png?_nc_cat=108&_nc_sid=0572db&_nc_ohc=xS6bgQY68rEAX9zryPy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=86564bd7073ac3395b69a4c12118dc3b&oe=5FB3D339"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/65105599_335332680699240_2222240427120001024_n.png?_nc_cat=108&_nc_sid=0572db&_nc_ohc=xS6bgQY68rEAX9zryPy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=782149374cc34a583ba861471aa470b8&oe=5FB05AC1"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "",
+            "description": "",
+            "frameCount": 8,
+            "frameRate": 125,
+            "framesPerRow": 3,
+            "framesPerCol": 3,
+            "stickerID": "335332674032574",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p370x247/65105599_335332680699240_2222240427120001024_n.png?_nc_cat=108&_nc_sid=0572db&_nc_ohc=xS6bgQY68rEAX9zryPy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=86564bd7073ac3395b69a4c12118dc3b&oe=5FB3D339"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/65105599_335332680699240_2222240427120001024_n.png?_nc_cat=108&_nc_sid=0572db&_nc_ohc=xS6bgQY68rEAX9zryPy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=782149374cc34a583ba861471aa470b8&oe=5FB05AC1"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603039138395",
+    "isGroup": true
+}

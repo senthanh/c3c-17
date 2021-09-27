@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "!adduser https://www.facebook.com/profile.php?id=100040747478777",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8HvsibF17bXZiPgbS",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAgy1dGVWLV8HvsibF17bXZiPgbS",
+            "url": "https://www.facebook.com/profile.php?id=100040747478777",
+            "title": "Lê Hiền",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/121600504_293537325347848_5776436309136151622_n.jpg?_nc_cat=100&ccb=2&_nc_sid=dbb9e7&_nc_ohc=f4_vE20l3nkAX_AMvTz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=29aea8266718c6f3d8e3d22c24bdd761&oe=5FE05D9F",
+            "width": 256,
+            "height": 256,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/profile.php?id=100040747478777",
+            "target": {
+                "__typename": "User",
+                "id": "100040747478777",
+                "name": "Lê Hiền",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/121600504_293537325347848_5776436309136151622_n.jpg?_nc_cat=100&ccb=2&_nc_sid=7206a8&_nc_ohc=f4_vE20l3nkAX_AMvTz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=0f857c076b2465e2d16f691552e4f3c8&oe=5FE08F48"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/s960x960/121639590_293537962014451_3704497284135631036_o.jpg?_nc_cat=107&ccb=2&_nc_sid=e3f864&_nc_ohc=oWIi6TB_o0YAX_V0mPf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=5aef1ebef1037ee8011dc231a9626adf&oe=5FDE72F5"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "IS_SUBSCRIBED"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606010919532",
+    "isGroup": true
+}

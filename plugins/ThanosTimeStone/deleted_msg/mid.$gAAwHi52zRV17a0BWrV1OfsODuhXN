@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3385995948148061",
+    "messageID": "mid.$gAAwHi52zRV17a0BWrV1OfsODuhXN",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "*CONFIGURATION*:\r\n  -Manufacturer: Microsoft Corporation\r\n  -Model: Virtual Machine\r\n*OS*:\r\n  -Platform: win32\r\n  -Distro: Microsoft Windows 10 Pro\r\n  -Build: 18363\r\n  -arch: x64\r\n  -UEFI: false\r\n*CPU*:\r\n  -Manufacturer: Intel®\r\n  -Brand: Xeon® E5-2673 v4\r\n  -Vendor: GenuineIntel\r\n  -Basespeed: 2.30GHz\r\n  -Maxspeed: 2.30GHz\r\n  -Core: 1\r\n  -Thread: 2\r\n  -Socket: None\r\n  -Realtime cpu data:\r\n    +Speed:\r\n      -Avarage: 2.3GHz\r\n      -Thread#0: 2.3GHz\r\n      -Thread#1: 2.3GHz\r\n    +Temperature:\r\n      -Avarage: -1°C\r\n      -Core#0: undefined°C\r\n*RAM*:\r\n  -Total: 16.00GB\r\n  -Free: 12.54GB\r\n  -Used: 3.46GB\r\n  -Ram:\r\n    +Ram#0:\r\n      -Manufacturer: Microsoft\r\n      -Size: 1.00GB\r\n      -Slot: Slot#\r\n      -Type: Other\r\n      -Clockspeed: 0\r\n    +Ram#1:\r\n      -Manufacturer: Microsoft\r\n      -Size: 15.00GB\r\n      -Slot: Slot#\r\n      -Type: Other\r\n      -Clockspeed: 0\r\n*GPU*:\r\n  -Vendor: Microsoft\r\n  -Model: Microsoft Hyper-V Video\r\n  -Vram: NaN",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602995556013,
+    "messageReply": {
+        "threadID": "3385995948148061",
+        "messageID": "mid.$gAAwHi52zRV17a0A65V1Ofro0OCC1",
+        "senderID": "100013801064165",
+        "attachments": [],
+        "body": ".sysinfo",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602995548901
+    }
+}

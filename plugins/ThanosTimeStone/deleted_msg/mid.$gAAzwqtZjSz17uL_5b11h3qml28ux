@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100047464831708",
+    "body": ",ytmp3 https://youtu.be/RW6S43tMk5g",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17uL_5b11h3qml28ux",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzwqtZjSz17uL_5b11h3qml28ux",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FRW6S43tMk5g&h=AT0mkQ2nlwoor1cbPoj7iPK_GxUAlZl0WTzt0hmsNydEc6srtu-XNDzUtYVJZKbMo4GCBVt5gOh-tH7Iv22q38yEEC16H2xRKBqt1maBia9wgjL2TkPwA83-G7QrPQnonk5ImQfLyKzHykY&s=1",
+            "title": "AI MANG CÔ ĐƠN ĐI | K-ICM FT. APJ (DINO REMIX) | ONEONE RECORDS",
+            "description": "▶ CLICK TO SUBSCRIBE: http://popsww.com/KICMOfficial Official: https://youtu.be/ilKg0DZrOwY Audio: https://zingmp3.vn/bai-hat/Ai-Mang-Co-Don-Di-K-ICM-APJ/ZWC...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQCvh2F-06v-seGD&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRW6S43tMk5g%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQBGT0W4nXUk88zQ",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/RW6S43tMk5g?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FRW6S43tMk5g&h=AT0mkQ2nlwoor1cbPoj7iPK_GxUAlZl0WTzt0hmsNydEc6srtu-XNDzUtYVJZKbMo4GCBVt5gOh-tH7Iv22q38yEEC16H2xRKBqt1maBia9wgjL2TkPwA83-G7QrPQnonk5ImQfLyKzHykY&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1604295766383",
+    "isGroup": true
+}

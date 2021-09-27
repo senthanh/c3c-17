@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100036259351373",
+    "body": "Gawa nyo?Here's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 f͜o͜n͜t͜s͜ - https://fonts.easylife.studio",
+    "threadID": "3659307627496471",
+    "messageID": "mid.$gAA0AHvNCxBd9700JBl3vge7ZYV6f",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA0AHvNCxBd9700JBl3vge7ZYV6f",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ffonts.easylife.studio%2F&h=AT3K6spzx_JCXizeJ7xg5feLLSs6XQdSn-Fab6Eb5BxN0GUcoCVokZBr690SAfD3rTpb6cpA18CGhoUBIP4tS1xqzcmoj8fTl6-YYsHm2w-T9MEsZGRdP9O99qztNtP27y5XkqiIfhADuUE&s=1",
+            "title": "Fonts - The best Font Keyboard app",
+            "description": "make your Instagram stories more attractive, get more likes for Facebook posts, and make Snapchat stories stand out with stylish and creative fonts",
+            "source": "fonts.easylife.studio",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQGuTRUwdTTXqLBJ&w=960&h=504&url=https%3A%2F%2Ffonts.easylife.studio%2Fimages%2Fmetabanner.jpg&_nc_cb=1&_nc_hash=AQFFbckO4HrDxcIo",
+            "width": 960,
+            "height": 504,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1200",
+                "height": "630"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Ffonts.easylife.studio%2F&h=AT3K6spzx_JCXizeJ7xg5feLLSs6XQdSn-Fab6Eb5BxN0GUcoCVokZBr690SAfD3rTpb6cpA18CGhoUBIP4tS1xqzcmoj8fTl6-YYsHm2w-T9MEsZGRdP9O99qztNtP27y5XkqiIfhADuUE&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613800915206",
+    "isGroup": true
+}

@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4276982545705666",
+    "messageID": "mid.$gAA8x5JlY6sJ7Cw3zdV02cil_sf7t",
+    "senderID": "100053236156629",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "3623597214366636",
+            "filename": "image-3623597214366636",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/s64x64/120339673_634512873763583_1415794056582374807_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=a8pnlnWIH8EAX9Bw1h6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=3ca036cec4ab2930a3e8d0fb84d9775e&oe=5F99F859",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120339673_634512873763583_1415794056582374807_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=a8pnlnWIH8EAX9Bw1h6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=46103038009b5f16b5b2d58c8feba4b1&oe=5F9A130F",
+            "previewWidth": 607,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/120339673_634512873763583_1415794056582374807_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=a8pnlnWIH8EAX9Bw1h6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0b88b52dcff2cb0e358b6d9d9144ffc0&oe=5F97C549",
+            "largePreviewWidth": 878,
+            "largePreviewHeight": 405,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/120339673_634512873763583_1415794056582374807_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=a8pnlnWIH8EAX9Bw1h6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0b88b52dcff2cb0e358b6d9d9144ffc0&oe=5F97C549",
+            "width": 878,
+            "height": 405,
+            "name": "image-3623597214366636"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601381641077,
+    "messageReply": {
+        "threadID": "4276982545705666",
+        "messageID": "mid.$gAA8x5JlY6sJ7Cw0aFl02cfRMpWfQ",
+        "senderID": "100049861159172",
+        "attachments": [],
+        "body": "Lên 2x nhanh v",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601381585430
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBiNP0_l7V46sV0lCG",
+    "senderID": "100070052890137",
+    "attachments": [],
+    "body": "Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\n\n- Bị cấm vào: 11:08:04 08/18/2021",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629261573374,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBiNP0DV7V46rLsUcV",
+        "senderID": "100038270171136",
+        "attachments": [],
+        "body": "/ping",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629261573133
+    }
+}

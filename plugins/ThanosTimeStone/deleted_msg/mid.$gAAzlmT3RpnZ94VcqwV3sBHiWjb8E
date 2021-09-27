@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100038501418778",
+    "body": "",
+    "threadID": "3630146050434678",
+    "messageID": "mid.$gAAzlmT3RpnZ94VcqwV3sBHiWjb8E",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "369239263222822",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/cp0/39178562_1505197616293642_5411344281094848512_n.png?_nc_cat=1&ccb=3&_nc_sid=ac3552&_nc_ohc=aHdvWOQqJsAAX8aDfF0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=a30b0f14c8e8e4d48c81ea013358d762&oe=6053B6C9",
+            "packID": "227877430692340",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 72,
+            "height": 72,
+            "caption": "Like, thumbs up",
+            "description": "Like, thumbs up",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "369239263222822",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613566698177",
+    "isGroup": true
+}

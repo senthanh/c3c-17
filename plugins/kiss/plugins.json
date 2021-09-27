@@ -1,0 +1,33 @@
+{
+	"plugin_name": "Kiss",
+	"plugin_scope": "kiss",
+	"plugin_exec": "kiss.js",
+	"command_map": {
+		"kiss": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "<@mention> [Hôn ai đó]",
+				"en_US": ""
+			},
+			"fscope": "kiss",
+			"compatibly": 0
+		}
+	},
+	"author": "Kaysil",
+	"version": "0.1.0",
+	"node_depends": {
+		"node-fetch": "*",
+		"wait-for-stuff": "*",
+		"fs": "*",
+		"path": "*",
+		"stream-buffers": "*",
+		"merge-images": "*",
+		"wait-on": "*",
+		"jimp": "*"
+	},
+	"file_map": {},
+	"complied_for": "0.5.0"
+}

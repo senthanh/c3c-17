@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7ddGojF1RIxiyLS7w",
+    "senderID": "100040103508915",
+    "attachments": [],
+    "body": "A cũng dị mà.. nhưg cố ăn j đi cho khoẻ chứ nhịn sao khoẻ e",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603172851852,
+    "messageReply": {
+        "threadID": "3118243618301205",
+        "messageID": "mid.$gAAsUBqsxJRV7dc_JD11RIp_3j2f6",
+        "senderID": "100040179921699",
+        "attachments": [],
+        "body": "Nằm ly bò",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603172729103
+    }
+}

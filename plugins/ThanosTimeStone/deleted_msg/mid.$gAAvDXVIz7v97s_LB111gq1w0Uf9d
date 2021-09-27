@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97s_LB111gq1w0Uf9d",
+    "senderID": "100032297747977",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1689499611248931",
+            "filename": "image-1689499611248931",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/123107713_1689499614582264_8096976959301598201_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=pu0Ik0MQuCAAX8RwLaL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=c66fbafaa23d76c6175c9a249e5385fb&oe=5FC20C9D",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/123107713_1689499614582264_8096976959301598201_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=pu0Ik0MQuCAAX8RwLaL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=d6099a05a1e217c4c2d8d235d4820aea&oe=5FC4DB95",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/123107713_1689499614582264_8096976959301598201_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=pu0Ik0MQuCAAX8RwLaL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=bcc6dd30a6c9260c8a61b3db07fda473&oe=5FC57008",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/123107713_1689499614582264_8096976959301598201_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=pu0Ik0MQuCAAX8RwLaL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=bcc6dd30a6c9260c8a61b3db07fda473&oe=5FC57008",
+            "width": 540,
+            "height": 960,
+            "name": "image-1689499611248931"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604215208407,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97s_JqT11gq0hb_vqm",
+        "senderID": "100055907296140",
+        "attachments": [],
+        "body": "Cân cả thế giới ok ok",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604215185999
+    }
+}

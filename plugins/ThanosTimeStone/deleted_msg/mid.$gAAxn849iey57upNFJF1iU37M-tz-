@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57upNFJF1iU37M-tz-",
+    "senderID": "100014423018402",
+    "attachments": [],
+    "body": "Em nghĩa gần 2 tháng rồi nè",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604326391076,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57uoVJc11iUAAtfa_y",
+        "senderID": "100054380797826",
+        "attachments": [],
+        "body": "T nghỉ gần tháng r",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604325474675
+    }
+}

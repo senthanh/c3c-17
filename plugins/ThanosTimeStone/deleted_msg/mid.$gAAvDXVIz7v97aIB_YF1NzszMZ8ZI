@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97aIB_YF1NzszMZ8ZI",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "648556456051163",
+            "filename": "image-648556456051163",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/121374492_648556459384496_7029989035111084910_n.png?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=2gfOJNe1d9MAX_J7xWY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=705bf12b7de67a720d0e27636e61b62c&oe=5FAF81E9",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121374492_648556459384496_7029989035111084910_n.png?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=2gfOJNe1d9MAX_J7xWY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=09fff5187e602b5e9e4aec199913f440&oe=5FB294D2",
+            "previewWidth": 396,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121374492_648556459384496_7029989035111084910_n.png?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=2gfOJNe1d9MAX_J7xWY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=87bdbf94e003aa6e4be12f40b3804f36&oe=5FB01198",
+            "largePreviewWidth": 640,
+            "largePreviewHeight": 452,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121374492_648556459384496_7029989035111084910_n.png?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=2gfOJNe1d9MAX_J7xWY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=87bdbf94e003aa6e4be12f40b3804f36&oe=5FB01198",
+            "width": 640,
+            "height": 452,
+            "name": "image-648556456051163"
+        }
+    ],
+    "body": "@Nguyễn Phương Thảo, Đã bị giết 😈",
+    "isGroup": true,
+    "mentions": {
+        "100041672135015": "@Nguyễn Phương Thả"
+    },
+    "timestamp": 1602949429088,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97aIBueF1Nzsi7I4oB",
+        "senderID": "100028357282870",
+        "attachments": [],
+        "body": ".kill @Nguyễn Phương Thảo",
+        "isGroup": true,
+        "mentions": {
+            "100041672135015": "@Nguyễn Phương Thảo"
+        },
+        "timestamp": 1602949424760
+    }
+}

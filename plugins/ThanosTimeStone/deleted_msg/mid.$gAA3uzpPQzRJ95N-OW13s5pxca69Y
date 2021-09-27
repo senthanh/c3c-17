@@ -1,0 +1,21 @@
+{
+    "type": "message",
+    "senderID": "100014237970005",
+    "body": "para sa crush ko kahit 'di ako nag abroad nyahaha",
+    "threadID": "3921745707846930",
+    "messageID": "mid.$gAA3uzpPQzRJ95N-OW13s5pxca69Y",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "Recording (3).m4a",
+            "ID": "AT1DoV2UvaPl-Qrp4e_-GwI2-U5Cjary3iZMTGhW5MUb-5XMo68GWEM3DCJey7HG3h3oFKUReU12baigiiD1sbxbDf2Iffc7Act6Y09iQA1jHN0oF0oqM6LiS7PvoQe_ANxSQlQo067hJajUDiDZ37rlnpc",
+            "audioType": "FILE_ATTACHMENT",
+            "duration": 78059,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/150201301_698540357484403_4027765532000995733_n.m4a/Recording-3.m4a?_nc_cat=106&ccb=3&_nc_sid=7272a8&_nc_ohc=WIL4x4u__LgAX8PB1PF&_nc_ht=cdn.fbsbx.com&oh=da384b4597deed2430417a87e40805f4&oe=602FCAD1&dl=1",
+            "isVoiceMail": false
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613625968219",
+    "isGroup": true
+}

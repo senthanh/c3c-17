@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100027886626477",
+    "body": "https://sinhnhat.lienquan.garena.vn/moi-ban?code=35223abfa85e0300",
+    "threadID": "3237054323068008",
+    "messageID": "mid.$gAAuAFXELjGh7dzQ18l1Re7iVnOmv",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAuAFXELjGh7dzQ18l1Re7iVnOmv",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsinhnhat.lienquan.garena.vn%2Fmoi-ban%3Fcode%3D35223abfa85e0300&h=AT2KUZnG8iPZ-BZ1VYdmoqnBMl0zcC8UEz9TTZZcW_5ROCvPvBLhyfj9fKj7M05tMnGezW9jfUNRbZNdp9yLfX9SuciCa9kqZm-SHiW0eCAAF8zAQfRAXq7uAYRhusLvLf5P5AIB-zzn9uE&s=1",
+            "title": "FREE skin Hữu hạn cho bạn cũ trở lại - Mừng Liên Quân 4 Tuổi",
+            "description": "Hãy giúp bạn để nhận Rương skin chọn 1 nhé!",
+            "source": "sinhnhat.lienquan.garena.vn",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDIjZ_fGC3-XKF_&w=960&h=502&url=https%3A%2F%2Fsinhnhat.lienquan.garena.vn%2Fimg%2Fpreview.jpg&sx=0&sy=0&sw=1200&sh=628&_nc_cb=1&_nc_hash=AQBUzeb1-GY7luyt",
+            "width": 959,
+            "height": 502,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1200",
+                "height": "628"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsinhnhat.lienquan.garena.vn%2Fmoi-ban%3Fcode%3D35223abfa85e0300&h=AT2KUZnG8iPZ-BZ1VYdmoqnBMl0zcC8UEz9TTZZcW_5ROCvPvBLhyfj9fKj7M05tMnGezW9jfUNRbZNdp9yLfX9SuciCa9kqZm-SHiW0eCAAF8zAQfRAXq7uAYRhusLvLf5P5AIB-zzn9uE&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603196087794",
+    "isGroup": true
+}

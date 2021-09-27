@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4683533571674177",
+    "messageID": "mid.$gABCjpiLVUEGBhIY__F7U0D1Na0b2",
+    "senderID": "100062221607097",
+    "attachments": [],
+    "body": ".help 2",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629189371900,
+    "messageReply": {
+        "threadID": "4683533571674177",
+        "messageID": "mid.$gABCjpiLVUEGBhISu7l7Uz9cHmsTk",
+        "senderID": "100070092588154",
+        "attachments": [],
+        "body": "Danh sách lệnh:\n1. /help [trang]\n2. /adduser <Facebook profile link>\n3. /adminbot  Chủ của BerBot \n4. /sysinfo [thành phố]\n5. /listarrow\n6. /delarrow <chat>\n7. /!! <chữ muốn cấm>\n8. /showbadword\n9. /badwordwhitelist <add/del> <@mention>\n12. /rbc\n13. /chebal <phương trình cần cân bằng>\n14. /cc < Phân tích nghĩa từ cc >\n15. /phcmt\n(Trang 1/8)\nGõ `/help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629189269230
+    }
+}

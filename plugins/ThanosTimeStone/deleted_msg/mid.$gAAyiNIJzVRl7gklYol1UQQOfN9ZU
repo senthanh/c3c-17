@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100040221291304",
+    "body": "",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7gklYol1UQQOfN9ZU",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "488541141259331",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851585_490565371056908_1157825914_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=UDx8zf9v6CMAX-JPq2c&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=7415ff0bad312f8252a1184320aa7647&oe=5FB56DA0",
+            "packID": "456205387826240",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/851592_490565377723574_924545120_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=Ex841fWIPXQAX8dnoye&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e0ede9be5e1defeae8b90dd9e25924f9&oe=5FB740EF"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851592_490565377723574_924545120_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=Ex841fWIPXQAX8dnoye&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d6e02a9c5988279992b7ae09404ac463&oe=5FB65BD8"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Love, dog with a big heart",
+            "description": "Love, dog with a big heart",
+            "frameCount": 6,
+            "frameRate": 83,
+            "framesPerRow": 3,
+            "framesPerCol": 2,
+            "stickerID": "488541141259331",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/851592_490565377723574_924545120_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=Ex841fWIPXQAX8dnoye&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e0ede9be5e1defeae8b90dd9e25924f9&oe=5FB740EF"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851592_490565377723574_924545120_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=Ex841fWIPXQAX8dnoye&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d6e02a9c5988279992b7ae09404ac463&oe=5FB65BD8"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603382022306",
+    "isGroup": true
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100032307085325",
+    "body": "",
+    "threadID": "3157359614353791",
+    "messageID": "mid.$gAAs3mhI94X99712VKl3vhhMyho3H",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "529233794205649",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/104819191_953856618410029_3316433698557360435_n.png?_nc_cat=1&ccb=3&_nc_sid=ac3552&_nc_ohc=4sLySl44AbsAX9VsBPv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ec2316a5dcd4a72f8ad67e95799adc3e&oe=60546E20",
+            "packID": "516558918806470",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/106596279_953856521743372_5660584279452470764_n.png?_nc_cat=1&ccb=3&_nc_sid=0572db&_nc_ohc=pydy_jOQRnQAX-Rr7vP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=fc7e845dd5f47680d67b6de91e3e1c2c&oe=60545250"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/106596279_953856521743372_5660584279452470764_n.png?_nc_cat=1&ccb=3&_nc_sid=0572db&_nc_ohc=pydy_jOQRnQAX-Rr7vP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c655a1c1f351e64dca2c517c526198f&oe=60556985"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "",
+            "description": "",
+            "frameCount": 17,
+            "frameRate": 83,
+            "framesPerRow": 5,
+            "framesPerCol": 4,
+            "stickerID": "529233794205649",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/106596279_953856521743372_5660584279452470764_n.png?_nc_cat=1&ccb=3&_nc_sid=0572db&_nc_ohc=pydy_jOQRnQAX-Rr7vP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=fc7e845dd5f47680d67b6de91e3e1c2c&oe=60545250"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/106596279_953856521743372_5660584279452470764_n.png?_nc_cat=1&ccb=3&_nc_sid=0572db&_nc_ohc=pydy_jOQRnQAX-Rr7vP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c655a1c1f351e64dca2c517c526198f&oe=60556985"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613801999658",
+    "isGroup": true
+}

@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7CzwDTF02fasAtJ6c",
+    "senderID": "100052103414438",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1242020832839922",
+            "filename": "image-1242020832839922",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/120503513_1344319109239400_7778867959537075408_n.jpg?_nc_cat=101&_nc_sid=ae9488&_nc_ohc=v10xrO6gu2gAX9x_FHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f52f6b799d608059b2aec62911dbfec0&oe=5F978492",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120503513_1344319109239400_7778867959537075408_n.jpg?_nc_cat=101&_nc_sid=ae9488&_nc_ohc=v10xrO6gu2gAX9x_FHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1ac6f69007a3cb278d742213ecd0b1d3&oe=5F987C1A",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120503513_1344319109239400_7778867959537075408_n.jpg?_nc_cat=101&_nc_sid=ae9488&_nc_ohc=v10xrO6gu2gAX9x_FHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=795c45e5c86b11ef8d992902f362f8c5&oe=5F998C0B",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120503513_1344319109239400_7778867959537075408_n.jpg?_nc_cat=101&_nc_sid=ae9488&_nc_ohc=v10xrO6gu2gAX9x_FHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=795c45e5c86b11ef8d992902f362f8c5&oe=5F998C0B",
+            "width": 1152,
+            "height": 2048,
+            "name": "image-1242020832839922"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601384659788,
+    "messageReply": {
+        "threadID": "4430896816980849",
+        "messageID": "mid.$gAA-94I7QA3F7CzsbtV02fXTEEnIQ",
+        "senderID": "100041929520336",
+        "attachments": [],
+        "body": "Nắng đã có mũ,\nMưa đã có ô.\nTiên đã có tài,\nBạn dellllll có ai.\n      >,lewww<",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601384600501
+    }
+}

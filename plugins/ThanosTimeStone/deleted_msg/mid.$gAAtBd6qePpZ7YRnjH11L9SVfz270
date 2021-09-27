@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100040221523748",
+    "body": "Beeg.com",
+    "threadID": "3168206963228310",
+    "messageID": "mid.$gAAtBd6qePpZ7YRnjH11L9SVfz270",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAtBd6qePpZ7YRnjH11L9SVfz270",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fbeeg.com%2F&h=AT09CTaVETPWHx4IiNov8oaW1gwa7rb64SuAFqz-GSnyU8tNpHcCDWUwEF3dawnAe3jOXZyQoR-teZietN5w2m0NmMXDisIHLjPLpVTcmy2D-SR2E8abuY6uANhD_ls_1gKx3LPl2McEeKs&s=1",
+            "title": "beeg.",
+            "description": "",
+            "source": "beeg.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fbeeg.com%2F&h=AT09CTaVETPWHx4IiNov8oaW1gwa7rb64SuAFqz-GSnyU8tNpHcCDWUwEF3dawnAe3jOXZyQoR-teZietN5w2m0NmMXDisIHLjPLpVTcmy2D-SR2E8abuY6uANhD_ls_1gKx3LPl2McEeKs&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602825263903",
+    "isGroup": true
+}

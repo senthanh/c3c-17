@@ -1,0 +1,45 @@
+{
+    "type": "message_reply",
+    "threadID": "4707944482610238",
+    "messageID": "mid.$gABC52b6CHD57N-dDDF1BqH0O82vc",
+    "senderID": "100055953258099",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "3536564656394899",
+            "filename": "gif-3536564656394899",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "previewWidth": 435,
+            "previewHeight": 244,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "width": 435,
+            "height": 244,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "name": "gif-3536564656394899",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/50178078_407357510037989_3796588310403481600_n.gif?_nc_cat=106&_nc_sid=041f46&_nc_ohc=-AbT71oDeWUAX9iR7K_&_nc_ht=cdn.fbsbx.com&oh=1bbb75775056b4a2ad110ef795d7a312&oe=5F802DFE"
+        }
+    ],
+    "body": "Luz Noceda, take this slap 😈",
+    "isGroup": true,
+    "mentions": {
+        "100055832783280": "Luz Noceda"
+    },
+    "timestamp": 1602134080268,
+    "messageReply": {
+        "threadID": "4707944482610238",
+        "messageID": "mid.$gABC52b6CHD57N-c7AF1BqHxy0FMh",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "!slap @Luz Noceda",
+        "isGroup": true,
+        "mentions": {
+            "100055832783280": "@Luz Noceda"
+        },
+        "timestamp": 1602134078208
+    }
+}

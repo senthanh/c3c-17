@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBg-06xF7UqfyAkODe",
+    "senderID": "100070052890137",
+    "attachments": [],
+    "body": "🔰 top 🔰\nXem những đứa lắm mồm nhất quả đất\n\n❯ Cách sử dụng: /top [thread/user/money]\n❯ Thuộc nhóm: economy\n❯ Thời gian chờ: 5 giây(s)\n❯ Quyền hạn: Người dùng\n\n» Module code by CatalizCS «",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629179343556,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBg-05jF7UqfxDT-Ut",
+        "senderID": "100070052890137",
+        "attachments": [],
+        "body": "/help top",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629179343244
+    }
+}

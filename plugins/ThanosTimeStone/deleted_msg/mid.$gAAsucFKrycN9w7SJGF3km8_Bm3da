@@ -1,0 +1,43 @@
+{
+    "type": "message_reply",
+    "threadID": "3147284702022083",
+    "messageID": "mid.$gAAsucFKrycN9w7SJGF3km8_Bm3da",
+    "senderID": "100051170193642",
+    "attachments": [],
+    "body": "hi.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613069500696,
+    "messageReply": {
+        "threadID": "3147284702022083",
+        "messageID": "mid.$gAAsucFKrycN9w7RQT13km-cKuxqY",
+        "senderID": "100000190045028",
+        "attachments": [
+            {
+                "type": "animated_image",
+                "ID": "128552855806398",
+                "filename": "gif-128552855806398",
+                "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "previewWidth": 457,
+                "previewHeight": 498,
+                "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "width": 457,
+                "height": 498,
+                "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "name": "gif-128552855806398",
+                "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27",
+                "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=JW-XymiI3okAX8kTQeB&_nc_ht=cdn.fbsbx.com&oh=f5ce631daa831aaaf2132926b1daf0cb&oe=60275D27"
+            }
+        ],
+        "body": "Clove Enoikio Webbo'Lehitimo, Trình độ xạo lờ của bạn đã thăng cấp lên lever 5!",
+        "isGroup": true,
+        "mentions": {
+            "100057383962945": "Clove Enoikio Webbo'Lehitimo"
+        },
+        "timestamp": 1613069486159
+    }
+}

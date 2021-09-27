@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7gcdcUl1UIISY3j_s",
+    "senderID": "100045211188871",
+    "attachments": [],
+    "body": "co cc",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603373503570,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7gcb3wl1UIGp_Apxk",
+        "senderID": "100013625022563",
+        "attachments": [],
+        "body": "Spa co",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603373477826
+    }
+}

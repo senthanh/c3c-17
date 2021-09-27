@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97wmeeIl1kSJVcxHuZ",
+    "senderID": "100056832115203",
+    "attachments": [],
+    "body": "( _/)\n( •_•)\n// >🧠  nè lắp vào mà dùng cho bớt ngu rồi hãy sài bot nha.\n\nCó phải bạn muốn nhập lệnh `-thanos`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604457748002,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97wmebil1kSJTrc3zQ",
+        "senderID": "100056832115203",
+        "attachments": [],
+        "body": "-admithanos on",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604457747338
+    }
+}

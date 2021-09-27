@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3299010540180852",
+    "messageID": "mid.$gAAu4br9blXR7lf-G8F1ZLo4mHNxm",
+    "senderID": "100040784974169",
+    "attachments": [],
+    "body": "Đừng dun\nJ toy thành lợn",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603712728816,
+    "messageReply": {
+        "threadID": "3299010540180852",
+        "messageID": "mid.$gAAu4br9blXR7lft7sl1ZLYviQOE6",
+        "senderID": "100019058064156",
+        "attachments": [],
+        "body": "Đi ăn 0",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603712463794
+    }
+}

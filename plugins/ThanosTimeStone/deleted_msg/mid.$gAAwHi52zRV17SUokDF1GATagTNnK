@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3385995948148061",
+    "messageID": "mid.$gAAwHi52zRV17SUokDF1GATagTNnK",
+    "senderID": "100038377710507",
+    "attachments": [],
+    "body": "Ngậm mồm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602425773068,
+    "messageReply": {
+        "threadID": "3385995948148061",
+        "messageID": "mid.$gAAwHi52zRV17SUVBP11F__66HbdI",
+        "senderID": "100014955886685",
+        "attachments": [],
+        "body": "Ngam gi cung duoc, mien la khoi dau hong cang som cang tot",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602425452863
+    }
+}

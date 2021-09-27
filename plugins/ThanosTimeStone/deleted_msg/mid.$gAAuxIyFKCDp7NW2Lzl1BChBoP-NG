@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7NW2Lzl1BChBoP-NG",
+    "senderID": "100010281856800",
+    "attachments": [],
+    "body": "Lỗi cc",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602092549070,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7NW0Iwl1BCe_1dzP8",
+        "senderID": "100028096432071",
+        "attachments": [],
+        "body": "Xin lỗi rồi còn gì",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602092515522
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3921745707846930",
+    "messageID": "mid.$gAA3uzpPQzRJ98fibeF3wLNTJOr2N",
+    "senderID": "100057287001630",
+    "attachments": [],
+    "body": "Muwag",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613845713784,
+    "messageReply": {
+        "threadID": "3921745707846930",
+        "messageID": "mid.$gAA3uzpPQzRJ98fhTCl3wLMdBIW5V",
+        "senderID": "100017017354335",
+        "attachments": [],
+        "body": "Hmm yes you can",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613845695242
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmCG6PpmF76l6T02y2s",
+    "senderID": "100071597485445",
+    "attachments": [],
+    "body": "Hiện tại nhóm của bạn đang bị Admin cấm sử dụng bot!\n- Bị cấm vào: 15:09:19 09/15/2021\n\nLiên hệ Admin để biết thêm chi tiết :\nHttps://www.facebook.com/ttm130",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631724675480,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmCG6Pm8F76l6ee9AXF",
+        "senderID": "514219995",
+        "attachments": [],
+        "body": ".menu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631724674800
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2972586662863646",
+    "messageID": "mid.$gAAqPjUQaox59w4bxWl3kkGo9GV6b",
+    "senderID": "100059049433009",
+    "attachments": [],
+    "body": "try mo 'ko.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613066512730,
+    "messageReply": {
+        "threadID": "2972586662863646",
+        "messageID": "mid.$gAAqPjUQaox59w4ZHml3kkD-5pjEZ",
+        "senderID": "100063438590430",
+        "attachments": [],
+        "body": "Panget naman dito walang malandi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613066469274
+    }
+}

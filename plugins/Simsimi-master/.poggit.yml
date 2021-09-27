@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PTKDrake/Simsimi
+build-by-default: true
+branches:
+- master
+projects:
+  Simsimi:
+    path: ""
+...

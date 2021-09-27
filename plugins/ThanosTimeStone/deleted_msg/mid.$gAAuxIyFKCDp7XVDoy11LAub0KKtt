@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100010281856800",
+    "body": "@Bảo Ngân a vô nick nha",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7XVDoy11LAub0KKtt",
+    "attachments": [],
+    "mentions": {
+        "100013273811577": "@Bảo Ngân"
+    },
+    "timestamp": "1602761760971",
+    "isGroup": true
+}

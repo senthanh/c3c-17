@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3089511847819804",
+    "messageID": "mid.$gAAr55Qg3-hx956V_Ml3tmAvOsphK",
+    "senderID": "100027393902916",
+    "attachments": [],
+    "body": "Kupal Yun Eh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613672494898,
+    "messageReply": {
+        "threadID": "3089511847819804",
+        "messageID": "mid.$gAAr55Qg3-hx956VPBV3tmAGuz7cA",
+        "senderID": "100061673963201",
+        "attachments": [],
+        "body": "Kilalang kilala nyo si ate scarlet ah HAHA",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613672482565
+    }
+}

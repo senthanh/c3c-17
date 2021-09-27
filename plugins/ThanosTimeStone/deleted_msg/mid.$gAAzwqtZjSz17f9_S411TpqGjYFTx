@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100004073136152",
+    "body": "*adduser https://www.facebook.com/atlastttttt",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17f9_S411TpqGjYFTx",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzwqtZjSz17f9_S411TpqGjYFTx",
+            "url": "https://www.facebook.com/atlastttttt",
+            "title": "Dương Hoài Nam",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/p960x960/122121892_674822840117257_4281455669193811847_o.jpg?_nc_cat=104&ccb=2&_nc_sid=dbb9e7&_nc_ohc=Rajstp3JHeUAX8ToemL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=8fd80cc1f45d00821678f0909a934192&oe=5FB52AA1",
+            "width": 960,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/atlastttttt",
+            "target": {
+                "__typename": "User",
+                "id": "100027686414672",
+                "name": "Dương Hoài Nam",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/122121892_674822840117257_4281455669193811847_o.jpg?_nc_cat=104&ccb=2&_nc_sid=7206a8&_nc_ohc=Rajstp3JHeUAX8ToemL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=90fe34487772a71b1ca8f5bdd5899141&oe=5FB5FB04"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/117967502_630020871264121_534345033002289051_n.jpg?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=WSnkyOiVM0MAX_kh0Vx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=247c6718e36881ef470133d6eca7f3e9&oe=5FB6BD17"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603341552355",
+    "isGroup": true
+}

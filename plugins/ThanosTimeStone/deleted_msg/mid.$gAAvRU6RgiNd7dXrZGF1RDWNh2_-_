@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7dXrZGF1RDWNh2_-_",
+    "senderID": "100032748813842",
+    "attachments": [],
+    "body": "Quýnh lộn không",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603167162648,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7dXoRZF1RDTGTKu05",
+        "senderID": "100008884452271",
+        "attachments": [
+            {
+                "type": "audio",
+                "filename": "audioclip-1603167110000-4416.mp4",
+                "ID": "AT3ZWfvCkt7d6UlKEGxGJpWljjteHbdN2i2fg_9c58X9Uk9aagTtT7NYPtdYUETRQ6Z9r2f4KCEqdBkY5KD6vw_mlQL-KUHoL3XzioBoSbHOEVd1iPRG-5JsMFDIUOl23Bq2adXzeakWHcbLnR5ZToFZ9WU",
+                "audioType": "VOICE_MESSAGE",
+                "duration": 4416,
+                "url": "https://cdn.fbsbx.com/v/t59.3654-21/120976014_352370642702014_6853626457703295344_n.mp4/audioclip-1603167110000-4416.mp4?_nc_cat=111&_nc_sid=7272a8&_nc_ohc=tgYQIkgOPOkAX80_rk4&_nc_ht=cdn.fbsbx.com&oh=d3d293b69be4bcc7269b047c41a62365&oe=5F8FEA84&dl=1",
+                "isVoiceMail": false
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603167111524
+    }
+}

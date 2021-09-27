@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3261322237328087",
+    "messageID": "mid.$gAAuWJ8F0Otd8NCfR2l2AuKI8IiZK",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "!gm kick <@mention>|name <groupname>|emoji <emoji>\r\nQuản lý group của bạn\r\n\n<>: yêu cầu có\n[]: không yêu cầu có",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606366169562,
+    "messageReply": {
+        "threadID": "3261322237328087",
+        "messageID": "mid.$gAAuWJ8F0Otd8NCfN512AuKE3FCD5",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!help gm",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606366168551
+    }
+}

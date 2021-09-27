@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3325025237582611",
+    "messageID": "mid.$gAAvQF8QnwxN7XWcsqV1LCHitPrBv",
+    "senderID": "100025570053590",
+    "attachments": [],
+    "body": "Của bên kia",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602763220137,
+    "messageReply": {
+        "threadID": "3325025237582611",
+        "messageID": "mid.$gAAvQF8QnwxN7XWb1Dl1LCG6vZXT1",
+        "senderID": "100051078131510",
+        "attachments": [],
+        "body": "Xin phép rời nhóm ạ",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602763205902
+    }
+}

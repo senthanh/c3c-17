@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7avm6ol1ObRxz1U5J",
+    "senderID": "100052661104947",
+    "attachments": [],
+    "body": "Nay bảo vào chs kh vào",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602990928546,
+    "messageReply": {
+        "threadID": "3118243618301205",
+        "messageID": "mid.$gAAsUBqsxJRV7avlHZF1ObP-c_u_3",
+        "senderID": "100040179921699",
+        "attachments": [],
+        "body": "Hiuhiu thắng dc 4 chận",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602990899044
+    }
+}

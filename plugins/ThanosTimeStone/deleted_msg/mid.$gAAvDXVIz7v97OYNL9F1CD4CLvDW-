@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100043122760454",
+    "body": "/y2mate https://youtu.be/vZItSREB-3g",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97OYNL9F1CD4CLvDW-",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97OYNL9F1CD4CLvDW-",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FvZItSREB-3g&h=AT2AdT2n1w9us1LITMQq_67-2TwbhPwbzd21wxzC1p24M6l-JsHnc5y0c07KxwnLO16_KWh7wW2QZhGrFbWpOl0XUT5kPl6RvUIK_480IT38X40ql1bwafwAgyR3n_vwPzIIE9Kau0VqvQQ&s=1",
+            "title": "Đi Cùng Em (Andy Remix) - Hà Tròn ft Lemon Climb | Nhạc Trẻ Remix EDM Tik Tok Gây Nghiên Hiện Nay",
+            "description": "Đi Cùng Em (Andy Remix) - Hà Tròn ft Lemon Climb | Nhạc Trẻ Remix EDM Tik Tok Gây Nghiên Hiện Nay MV GỐC: https://www.youtube.com/watch?v=njbWmwuBiUY #DCE #d...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQBp_kB1RZj-AS6Z&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvZItSREB-3g%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQC-bvsWWzTyrtbI",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/vZItSREB-3g?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FvZItSREB-3g&h=AT2AdT2n1w9us1LITMQq_67-2TwbhPwbzd21wxzC1p24M6l-JsHnc5y0c07KxwnLO16_KWh7wW2QZhGrFbWpOl0XUT5kPl6RvUIK_480IT38X40ql1bwafwAgyR3n_vwPzIIE9Kau0VqvQQ&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602161083380",
+    "isGroup": true
+}

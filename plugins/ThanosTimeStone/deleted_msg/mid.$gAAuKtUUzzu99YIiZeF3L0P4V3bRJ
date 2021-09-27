@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3248735898554095",
+    "messageID": "mid.$gAAuKtUUzzu99YIiZeF3L0P4V3bRJ",
+    "senderID": "100050574485822",
+    "attachments": [],
+    "body": "tí tôi show bot 8 trang plugins :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611405676920,
+    "messageReply": {
+        "threadID": "3248735898554095",
+        "messageID": "mid.$gAAuKtUUzzu99YIg5dV3L0MAWdvaX",
+        "senderID": "100051191074805",
+        "attachments": [],
+        "body": "Hú Dũng",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611405652341
+    }
+}

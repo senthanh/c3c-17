@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100028006269096",
+    "body": "",
+    "threadID": "4709964739018332",
+    "messageID": "mid.$gABC7sB8sflyBhkD8z17VPuzhRGtY",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "371179570301246",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48989228_371179583634578_2591723050412015616_n.png?_nc_cat=1&ccb=1-5&_nc_sid=ac3552&_nc_ohc=r2pNk2SewogAX-pAMtd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=386cd3f6921ef23755e946547ec6eec4&oe=61215075",
+            "packID": "361256481293555",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p600x600/48711344_371179580301245_2199371869457481728_n.png?_nc_cat=108&ccb=1-5&_nc_sid=0572db&_nc_ohc=gBSTx5IT9SgAX9SSQgC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=06ac485880f47620db28782e58108602&oe=61215D29"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48711344_371179580301245_2199371869457481728_n.png?_nc_cat=108&ccb=1-5&_nc_sid=0572db&_nc_ohc=gBSTx5IT9SgAX9SSQgC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=deb762511125a09ca819e3d8488a8047&oe=612082CE"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "laughing, characters laughing",
+            "description": "laughing, characters laughing",
+            "frameCount": 24,
+            "frameRate": 50,
+            "framesPerRow": 5,
+            "framesPerCol": 5,
+            "stickerID": "371179570301246",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p600x600/48711344_371179580301245_2199371869457481728_n.png?_nc_cat=108&ccb=1-5&_nc_sid=0572db&_nc_ohc=gBSTx5IT9SgAX9SSQgC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=06ac485880f47620db28782e58108602&oe=61215D29"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48711344_371179580301245_2199371869457481728_n.png?_nc_cat=108&ccb=1-5&_nc_sid=0572db&_nc_ohc=gBSTx5IT9SgAX9SSQgC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=deb762511125a09ca819e3d8488a8047&oe=612082CE"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1629218387151",
+    "isGroup": true
+}

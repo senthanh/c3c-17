@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58RVAH7F2FAq-m4xBu",
+    "senderID": "100047813830419",
+    "attachments": [],
+    "body": "Cam on",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606654017516,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58RU7Pvl2FAmGMimIt",
+        "senderID": "100035550143600",
+        "attachments": [],
+        "body": "Xinh vl :(",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606653937598
+    }
+}

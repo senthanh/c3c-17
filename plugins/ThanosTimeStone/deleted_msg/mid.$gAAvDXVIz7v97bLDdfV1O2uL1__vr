@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97bLDdfV1O2uL1__vr",
+    "senderID": "100032297747977",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1027938847666610",
+            "filename": "image-1027938847666610",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/122035592_1027938850999943_8607317657047452631_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=xf9XODZYuZcAX-n1i_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=28b8efd934d1ce6780beeff72e36327c&oe=5FB1E2A2",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122035592_1027938850999943_8607317657047452631_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=xf9XODZYuZcAX-n1i_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a8ab72b31d1290fc435f1b8b0d9c9a6d&oe=5FB078AA",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122035592_1027938850999943_8607317657047452631_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=xf9XODZYuZcAX-n1i_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=826957fb8f961a2778117306fa5a3581&oe=5FB0173B",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122035592_1027938850999943_8607317657047452631_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=xf9XODZYuZcAX-n1i_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=826957fb8f961a2778117306fa5a3581&oe=5FB0173B",
+            "width": 540,
+            "height": 960,
+            "name": "image-1027938847666610"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603019707773,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97bK1PSF1O2gGcb9_1",
+        "senderID": "100023954226046",
+        "attachments": [],
+        "body": "Ae cho xem bàn tay chiến đấu xem nàoooi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603019474760
+    }
+}

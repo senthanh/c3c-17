@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7AVSIM100A8SFJqxW",
+    "senderID": "100041929520336",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1610711429108970",
+            "filename": "image-1610711429108970",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/118855208_252640759202304_3075666411678034046_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=aYE6bYFGH4QAX8DnK6M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=ebfa39bcc4a710e823cdf9d9c553715d&oe=5F97F32D",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/118855208_252640759202304_3075666411678034046_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=aYE6bYFGH4QAX8DnK6M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5268206f5944b882166c8d4ade7dd9f3&oe=5F96593B",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/118855208_252640759202304_3075666411678034046_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=aYE6bYFGH4QAX8DnK6M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=540824d057da2cd0fa6d5ff72d518bee&oe=5F96C8BE",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/118855208_252640759202304_3075666411678034046_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=aYE6bYFGH4QAX8DnK6M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=540824d057da2cd0fa6d5ff72d518bee&oe=5F96C8BE",
+            "width": 1080,
+            "height": 1440,
+            "name": "image-1610711429108970"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601218494515,
+    "messageReply": {
+        "threadID": "4430896816980849",
+        "messageID": "mid.$gAA-94I7QA3F7AVNpV100A4gDg71t",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "xinh gái gửi ảnh đê",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601218421079
+    }
+}

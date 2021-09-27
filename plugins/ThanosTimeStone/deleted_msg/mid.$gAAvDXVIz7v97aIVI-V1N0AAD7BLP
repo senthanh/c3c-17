@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97aIVI-V1N0AAD7BLP",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Successfully mark as denied to execute for command .kill.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602949742841,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97aIVG411Nz_9AM3SP",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".denycommand kill",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602949742307
+    }
+}

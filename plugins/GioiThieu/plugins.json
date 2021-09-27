@@ -1,0 +1,23 @@
+{
+	"plugin_name": "gioithieu",
+	"plugin_scope": "gioithieu",
+	"plugin_exec": "gioithieu.js",
+	"command_map": {
+		"gioithieu":{
+			"hargs": "",
+			"hdesc": {
+				"en_US": "bài giới thiệu về BOT",
+				"vi_VN": "bài giới thiệu về BOT"
+			},
+
+			"fscope": "gioithieu",
+			"compatibly": 0
+		}
+	},
+	"author": "Wua'n",
+	"version": "1.0",
+	"node_depends": {
+		"node-fetch": ""
+	},
+	"complied_for": "0.3.0"
+}

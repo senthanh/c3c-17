@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3408365299281814",
+    "messageID": "mid.$gAAwb4-Ltr5Z8Xo8l-V2LUpyPYxNS",
+    "senderID": "100045585311739",
+    "attachments": [],
+    "body": "còn anh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607077584377,
+    "messageReply": {
+        "threadID": "3408365299281814",
+        "messageID": "mid.$gAAwb4-Ltr5Z8Xo7pJV2LUmrgGFij",
+        "senderID": "100017042498289",
+        "attachments": [],
+        "body": "Còn slot không haha",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607077568805
+    }
+}

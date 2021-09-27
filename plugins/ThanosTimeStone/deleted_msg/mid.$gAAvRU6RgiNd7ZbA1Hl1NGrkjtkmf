@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7ZbA1Hl1NGrkjtkmf",
+    "senderID": "100011808452199",
+    "attachments": [],
+    "body": "Bac Trung Bo",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602902224158,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7Za8brV1NGnTMu5x9",
+        "senderID": "100056224924413",
+        "attachments": [],
+        "body": "T mien trung",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602902152109
+    }
+}

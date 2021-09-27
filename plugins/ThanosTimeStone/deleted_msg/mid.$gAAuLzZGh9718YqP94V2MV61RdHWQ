@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3249939771684797",
+    "messageID": "mid.$gAAuLzZGh9718YqP94V2MV61RdHWQ",
+    "senderID": "100013534442712",
+    "attachments": [],
+    "body": "Chị gần 19 năm chưa có 🥲",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607146059233,
+    "messageReply": {
+        "threadID": "3249939771684797",
+        "messageID": "mid.$gAAuLzZGh9718YqLMTF2MV2DKGEUn",
+        "senderID": "100019271811220",
+        "attachments": [],
+        "body": "hôm nay là 15 năm chưa có ngyeu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607145981004
+    }
+}

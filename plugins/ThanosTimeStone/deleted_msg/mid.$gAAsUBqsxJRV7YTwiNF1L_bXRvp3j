@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7YTwiNF1L_bXRvp3j",
+    "senderID": "100040103508915",
+    "attachments": [],
+    "body": "Game hk bông",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602827508276,
+    "messageReply": {
+        "threadID": "3118243618301205",
+        "messageID": "mid.$gAAsUBqsxJRV7YSYJ6V1L-DBGNfnO",
+        "senderID": "100034094160401",
+        "attachments": [],
+        "body": "Ai game hog",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602826060265
+    }
+}

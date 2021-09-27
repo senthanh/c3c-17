@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3284027591663243",
+    "messageID": "mid.$gAAuqzkIInot8WdJgSl2KI0V9Mesd",
+    "senderID": "100010371194927",
+    "attachments": [],
+    "body": "Nghiện phim r",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606998104138,
+    "messageReply": {
+        "threadID": "3284027591663243",
+        "messageID": "mid.$gAAuqzkIInot8WdIUiV2KIzMDLYQj",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Avengers",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606998084745
+    }
+}

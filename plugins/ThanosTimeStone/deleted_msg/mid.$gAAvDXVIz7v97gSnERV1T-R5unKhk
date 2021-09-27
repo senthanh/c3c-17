@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97gSnERV1T-R5unKhk",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "có box tên như này nhưng xoá rùi :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603363175493,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97gSlkFl1T-QWhbptm",
+        "senderID": "100033057340306",
+        "attachments": [],
+        "body": "Cái j nhìn quen",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603363150870
+    }
+}

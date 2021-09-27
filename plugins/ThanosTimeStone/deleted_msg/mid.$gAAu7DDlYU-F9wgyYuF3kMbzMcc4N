@@ -1,0 +1,68 @@
+{
+    "type": "message_reply",
+    "threadID": "3301885919908833",
+    "messageID": "mid.$gAAu7DDlYU-F9wgyYuF3kMbzMcc4N",
+    "senderID": "100004191614624",
+    "attachments": [
+        {
+            "id": "338773347369725",
+            "mimeType": "image/jpeg",
+            "filename": "149019629_338773354036391_7173489452912102610_n.jpg",
+            "fbid": 338773347369725,
+            "fileSize": 112088,
+            "imageMetadata": {
+                "width": 1080,
+                "height": 1440
+            },
+            "haystackHandle": "02SAQBBnNR6AgEAQQBB4DK2wFl7SrTgW4HHDQBANJfOtEGNBAlYA::",
+            "genericMetadata": {
+                "fbtype": "1586"
+            },
+            "hash": "338773347369725",
+            "titanType": 4,
+            "otherUserFbIds": [
+                100058481985990,
+                100058515201955,
+                100050774136263,
+                100004191614624,
+                100046082902145,
+                100052481266082,
+                100016507154975,
+                100038488881859,
+                100031833652670,
+                100029013251675,
+                100021345720098,
+                100056450964356,
+                100007014098669,
+                100011089650170,
+                100057205110003,
+                100037615014976,
+                100056000530116,
+                100056036042503,
+                100057774439745,
+                100024909736912,
+                100011000384589,
+                100017665984187
+            ],
+            "mercuryJSON": "{\"blob_attachment\":null}",
+            "useRefCounting": true,
+            "blob_attachment": null,
+            "error": {},
+            "type": "unknown"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613041717432,
+    "messageReply": {
+        "threadID": "3301885919908833",
+        "messageID": "mid.$gAAu7DDlYU-F9wgtkX13kMYUKo3dT",
+        "senderID": "100011000384589",
+        "attachments": [],
+        "body": ". Asher => di ka crush ng crush mo",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613041638495
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "!video https://youtu.be/IOoM0Fhys8Q",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97SYKwEF1GD1mExAFD",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97SYKwEF1GD1mExAFD",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FIOoM0Fhys8Q&h=AT2INpuGm3g-PDXtIP-nshfh1RixjKtOdLhnlFedUuDyyxpxY5IcBzijl2_mydY26B_nlpnmTsjNMe-ZE0GF6dqvzR0GZRqhDH6D83ZZoFUiItQjF7_7gRELuTUouqXb8BS8Ru1iSD8zxFc&s=1",
+            "title": "Cấm 5 - KindyA-[ Video Lyrics]",
+            "description": "- Song: Cấm 5 -Rapper: KindyA -Sub: Kenh Share Sub -Effect: Sưu Tầm ________________________________________________________________ Vẫn là như mọi ngày em m...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQCgjrNGCCxl5BP6&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIOoM0Fhys8Q%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQD8c2S_h9lQ71hK",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/IOoM0Fhys8Q?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FIOoM0Fhys8Q&h=AT2INpuGm3g-PDXtIP-nshfh1RixjKtOdLhnlFedUuDyyxpxY5IcBzijl2_mydY26B_nlpnmTsjNMe-ZE0GF6dqvzR0GZRqhDH6D83ZZoFUiItQjF7_7gRELuTUouqXb8BS8Ru1iSD8zxFc&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602429478928",
+    "isGroup": true
+}

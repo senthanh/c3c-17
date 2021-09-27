@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7ulMKdl1iQ2-Y9wS3",
+    "senderID": "100036743982200",
+    "attachments": [],
+    "body": "Iu mình HK đc ngoại tình mình ckem",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604322181750,
+    "messageReply": {
+        "threadID": "4553246968081463",
+        "messageID": "mid.$gABAtJ2wbbDd7ulKrV11iQ1iaW_f5",
+        "senderID": "100053531462613",
+        "attachments": [],
+        "body": "Uoc cao",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604322157399
+    }
+}

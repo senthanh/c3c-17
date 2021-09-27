@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3011072525664274",
+    "messageID": "mid.$gAAqyjfRJABJ8ZRs4S12M9XoO_pxg",
+    "senderID": "100022362143417",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "378125090182846",
+            "filename": "image-378125090182846",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/128923555_378125096849512_2352286120099962945_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=1BYBHBMGB34AX8fu_mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=642de5e63eaf88a1acbf28661aa2cdb1&oe=5FF313E3",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/128923555_378125096849512_2352286120099962945_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=1BYBHBMGB34AX8fu_mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7280c589b6b02139512331dd66f19700&oe=5FEFC335",
+            "previewWidth": 280,
+            "previewHeight": 501,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/128923555_378125096849512_2352286120099962945_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=1BYBHBMGB34AX8fu_mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b96386f18a8756b2fa1ae15b8a8eedd2&oe=5FF17234",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 859,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/128923555_378125096849512_2352286120099962945_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=1BYBHBMGB34AX8fu_mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b96386f18a8756b2fa1ae15b8a8eedd2&oe=5FF17234",
+            "width": 720,
+            "height": 1288,
+            "name": "image-378125090182846"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607187427403,
+    "messageReply": {
+        "threadID": "3011072525664274",
+        "messageID": "mid.$gAAqyjfRJABJ8ZRrAB12M9V3Bx_e3",
+        "senderID": "100015520294398",
+        "attachments": [],
+        "body": "Đâu cho coi ké",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607187396615
+    }
+}

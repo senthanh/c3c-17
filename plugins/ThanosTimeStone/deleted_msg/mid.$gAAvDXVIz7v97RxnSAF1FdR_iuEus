@@ -1,0 +1,36 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97RxnSAF1FdR_iuEus",
+    "senderID": "100043876420321",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-1602389051.mp4",
+            "ID": "638323410211344",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s640x640/82420920_3562630893808519_2732102607529977024_n.jpg?_nc_cat=104&_nc_sid=f8ae41&_nc_ohc=Uk62rR47JigAX9QRU7g&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=39df57fa5b944c3d83bd306ccbf3dc53&oe=5FA6F1C5",
+            "previewWidth": 359,
+            "previewHeight": 640,
+            "url": "https://video.xx.fbcdn.net/v/t42.3356-2/89767288_2632840560147387_8506181068060875405_n.mp4/video-1602389051.mp4?_nc_cat=104&_nc_sid=060d78&_nc_ohc=KGcJjfRTlvcAX9O9FOZ&vabr=391303&_nc_ht=video.xx&oh=200cdeca63d84eddc770d75574d30b2d&oe=5F83C4F0&dl=1",
+            "width": 368,
+            "height": 656,
+            "duration": 8000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/s640x640/82420920_3562630893808519_2732102607529977024_n.jpg?_nc_cat=104&_nc_sid=f8ae41&_nc_ohc=Uk62rR47JigAX9QRU7g&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=39df57fa5b944c3d83bd306ccbf3dc53&oe=5FA6F1C5"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602389051904,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97RxmNCF1FdREF_T4_",
+        "senderID": "100051328335180",
+        "attachments": [],
+        "body": "Phải là xinh gái nhất gr",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602389034248
+    }
+}

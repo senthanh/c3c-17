@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "2465359353578123",
+    "messageID": "mid.$gAAjCOzSDgot7xMXhxl1k4CTRmsCK",
+    "senderID": "100048944291189",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "995094717670692",
+            "filename": "image-995094717670692",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ae5904d09298d81d158abc42fd959a13&oe=5FC6CFBB",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e1edff3ad4667959e361019492a5ce24&oe=5FC93C84",
+            "previewWidth": 396,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=cac8768b97fca2b8a0c503fcdd8b636a&oe=5FC8E1C6",
+            "largePreviewWidth": 640,
+            "largePreviewHeight": 452,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=cac8768b97fca2b8a0c503fcdd8b636a&oe=5FC8E1C6",
+            "width": 640,
+            "height": 452,
+            "name": "image-995094717670692"
+        }
+    ],
+    "body": "@DiJay MT, Đã bị giết 😈",
+    "isGroup": true,
+    "mentions": {
+        "100008663070813": "@DiJay M"
+    },
+    "timestamp": 1604497480134,
+    "messageReply": {
+        "threadID": "2465359353578123",
+        "messageID": "mid.$gAAjCOzSDgot7xMXPel1k4CDxjKi8",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!kill @MT DiJay",
+        "isGroup": true,
+        "mentions": {
+            "100008663070813": "@MT DiJay"
+        },
+        "timestamp": 1604497475450
+    }
+}

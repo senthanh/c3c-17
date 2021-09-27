@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8Q32o_V2EjhdAEbt-",
+    "senderID": "100014716171553",
+    "attachments": [],
+    "body": "Kệ mẹ nó",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606623453437,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8Qzowj12EfTfj9XzU",
+        "senderID": "100006073202497",
+        "attachments": [],
+        "body": "Anh đó xóa kết bạn vs chị nhỏ luôn hay sao á",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606619031695
+    }
+}

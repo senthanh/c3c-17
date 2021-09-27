@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4699565990085043",
+    "messageID": "mid.$gABCyOvlwAbN8WY0Rnl2KEfGNWewe",
+    "senderID": "100042079571352",
+    "attachments": [],
+    "body": "Chị dữ dạ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606993562014,
+    "messageReply": {
+        "threadID": "4699565990085043",
+        "messageID": "mid.$gABCyOvlwAbN8WYm2JF2KERtIJmFq",
+        "senderID": "100037371066866",
+        "attachments": [],
+        "body": "Iem tv tên lin 2k3 cao m9 ạ hjhj",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606993341988
+    }
+}

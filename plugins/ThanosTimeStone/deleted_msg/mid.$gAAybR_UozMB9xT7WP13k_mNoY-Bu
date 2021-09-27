@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100054337931395",
+    "body": "",
+    "threadID": "3548433078602944",
+    "messageID": "mid.$gAAybR_UozMB9xT7WP13k_mNoY-Bu",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "392309870866325",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851586_392309874199658_2105845629_n.png?_nc_cat=1&ccb=3&_nc_sid=ac3552&_nc_ohc=CbPXinhqXggAX-qcupp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ee96e38493a8d67e825d822336a8844a&oe=604B2A61",
+            "packID": "392308740866438",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 600,
+            "height": 600,
+            "caption": "Happy, bunny brushing teeth",
+            "description": "Happy, bunny brushing teeth",
+            "frameCount": 0,
+            "frameRate": 83,
+            "framesPerRow": 0,
+            "framesPerCol": 0,
+            "stickerID": "392309870866325",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613095341631",
+    "isGroup": true
+}

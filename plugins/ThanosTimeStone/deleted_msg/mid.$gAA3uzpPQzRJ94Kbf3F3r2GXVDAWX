@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3921745707846930",
+    "messageID": "mid.$gAA3uzpPQzRJ94Kbf3F3r2GXVDAWX",
+    "senderID": "100061365976969",
+    "attachments": [],
+    "body": "Log😯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613555144668,
+    "messageReply": {
+        "threadID": "3921745707846930",
+        "messageID": "mid.$gAA3uzpPQzRJ94KaV2F3r2FNhuuaM",
+        "senderID": "100017017354335",
+        "attachments": [],
+        "body": "Bye ryelan paalam kana.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613555125720
+    }
+}

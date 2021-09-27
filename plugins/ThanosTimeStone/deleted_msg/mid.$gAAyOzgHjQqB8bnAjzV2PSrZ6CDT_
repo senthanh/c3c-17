@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3534715166605984",
+    "messageID": "mid.$gAAyOzgHjQqB8bnAjzV2PSrZ6CDT_",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Lệnh của BerBot nè:\n1. !help [trang]\n2. !adduser <Facebook profile link>\n3. !adminbot\n4. !sysinfo\n5. !listarrow\n6. !delarrow <chat>\n7. !!!\n8. !showbadword\n9. !badwordwhitelist\n12. !rbc\n13. !propose\n14. !chebal\n15. !chefind\n(Trang 1/8)\nGõ `!help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607343987661,
+    "messageReply": {
+        "threadID": "3534715166605984",
+        "messageID": "mid.$gAAyOzgHjQqB8bnAeKl2PSrLaDqs4",
+        "senderID": "100054519612565",
+        "attachments": [],
+        "body": "!help",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607343986218
+    }
+}

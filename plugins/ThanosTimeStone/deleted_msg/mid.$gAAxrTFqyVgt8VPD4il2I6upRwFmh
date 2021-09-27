@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3495675403851275",
+    "messageID": "mid.$gAAxrTFqyVgt8VPD4il2I6upRwFmh",
+    "senderID": "100041626133258",
+    "attachments": [],
+    "body": "Úi ,ny e 😂",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606916223114,
+    "messageReply": {
+        "threadID": "3495675403851275",
+        "messageID": "mid.$gAAxrTFqyVgt8VPAU0V2I6rMhCfS0",
+        "senderID": "100019671280087",
+        "attachments": [],
+        "body": "Lại là em",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606916164817
+    }
+}

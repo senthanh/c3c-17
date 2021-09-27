@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100035831263767",
+    "body": "",
+    "threadID": "3355319631262287",
+    "messageID": "mid.$gAAvrpTq6sk98dB-xiF2QtpmaHLjL",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1926237197415274",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/41733438_1926237204081940_6790876081374101504_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=Op9HSeNFU-4AX-3GKcF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ff85303d4842dad92f146a1765463a0f&oe=5FF489CE",
+            "packID": "1926229867416007",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/41537101_1926237207415273_8560135421705584640_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=5UIk2YnFdusAX-Q_6OQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=26b5ae81ee69f917bfe34481f5af624f&oe=5FF53A46"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/41537101_1926237207415273_8560135421705584640_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=5UIk2YnFdusAX-Q_6OQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d904f5f2ee1bc200cf20218a0b6437b2&oe=5FF5A78F"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "dancing, character doing silly dance",
+            "description": "dancing, character doing silly dance",
+            "frameCount": 20,
+            "frameRate": 50,
+            "framesPerRow": 5,
+            "framesPerCol": 4,
+            "stickerID": "1926237197415274",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/41537101_1926237207415273_8560135421705584640_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=5UIk2YnFdusAX-Q_6OQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=26b5ae81ee69f917bfe34481f5af624f&oe=5FF53A46"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/41537101_1926237207415273_8560135421705584640_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=5UIk2YnFdusAX-Q_6OQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d904f5f2ee1bc200cf20218a0b6437b2&oe=5FF5A78F"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607439378824",
+    "isGroup": true
+}

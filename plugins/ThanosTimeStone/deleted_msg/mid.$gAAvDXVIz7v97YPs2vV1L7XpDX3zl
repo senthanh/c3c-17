@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97YPs2vV1L7XpDX3zl",
+    "senderID": "100006958358664",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "677337416320943",
+            "filename": "image-677337416320943",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/121440255_677337419654276_2024219292620740173_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=aN0exRlPWJIAX8vw5mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=54be87439bbf61aed6a35de4e3ad621b&oe=5FAF9A88",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121440255_677337419654276_2024219292620740173_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=aN0exRlPWJIAX8vw5mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7cdfe45cc356d1f9fbbb0be9e74dbdd2&oe=5FAFBB3F",
+            "previewWidth": 605,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121440255_677337419654276_2024219292620740173_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=aN0exRlPWJIAX8vw5mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f6a63c896809c25c041afb0c2b22577d&oe=5FACD4F9",
+            "largePreviewWidth": 960,
+            "largePreviewHeight": 444,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121440255_677337419654276_2024219292620740173_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=aN0exRlPWJIAX8vw5mw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f6a63c896809c25c041afb0c2b22577d&oe=5FACD4F9",
+            "width": 960,
+            "height": 444,
+            "name": "image-677337416320943"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602823253693,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97YPrHll1L7V7-LtG7",
+        "senderID": "100027912525415",
+        "attachments": [],
+        "body": "Nếu là acc tao thì út mẹ cũng phải 2 ấn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602823225238
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326580770724536",
+    "messageID": "mid.$gAAvRgfEn2rh8Navw212BGan9yYqZ",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Danh sách lệnh:\n31. !resetcount\n32. !count\n33. !savecount\n34. !opensavecount\n35. !denycommand <lệnh mà không có />\n36. !allowcommand <lệnh mà không có />\n37. !turnoff\n38. !dice <half (nửa)/all (toàn bộ)/số tiền> <over (trên)/under (dưới)> <số dự đoán>\n39. !roulette\n40. !baicao <half (nửa)/all (toàn bộ)/số tiền>\n41. !rps <half (nửa)/all (toàn bộ)/số tiền> [rock (búa)/paper (bao)/scissors (kéo)]\n42. !work\n43. !slut\n44. !crime\n45. !mint\n(Trang 3/6)\nGõ `!help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606391605467,
+    "messageReply": {
+        "threadID": "3326580770724536",
+        "messageID": "mid.$gAAvRgfEn2rh8NavtB12BGafLRDkH",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!help 3",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606391604487
+    }
+}

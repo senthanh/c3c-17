@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".kill @Nguyễn Thị Kim Liên",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57Z5Ie5F1NkzV0Tf39",
+    "attachments": [],
+    "mentions": {
+        "100027025145916": "@Nguyễn Thị Kim Liên"
+    },
+    "timestamp": "1602933806820",
+    "isGroup": true
+}

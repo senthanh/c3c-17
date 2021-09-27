@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7BxSVU101c9Ewhy7y",
+    "senderID": "100010800582340",
+    "attachments": [],
+    "body": "Xinh dữ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601314966867,
+    "messageReply": {
+        "threadID": "4430896816980849",
+        "messageID": "mid.$gAA-94I7QA3F7BxQAMF01c6wokkut",
+        "senderID": "100045285918489",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "924427978046159",
+                "filename": "image-924427978046159",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/119478982_615180779180047_2478098392672500908_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=WK35RnySROEAX812lsd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=158f71fe2d9f66cb76490acad383f5d6&oe=5F97750E",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/119478982_615180779180047_2478098392672500908_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=WK35RnySROEAX812lsd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=0fd6e7cbb69223b60627b2b364083557&oe=5F996E5C",
+                "previewWidth": 280,
+                "previewHeight": 498,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119478982_615180779180047_2478098392672500908_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=WK35RnySROEAX812lsd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=19f765fc101270b567adc0f40e047db2&oe=5F989F5D",
+                "largePreviewWidth": 480,
+                "largePreviewHeight": 854,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119478982_615180779180047_2478098392672500908_n.jpg?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=WK35RnySROEAX812lsd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=19f765fc101270b567adc0f40e047db2&oe=5F989F5D",
+                "width": 1080,
+                "height": 1922,
+                "name": "image-924427978046159"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601314928688
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3534715166605984",
+    "messageID": "mid.$gAAyOzgHjQqB8bQana12O8FcXakbe",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Tôi yêu bạn nhiều lắm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607320297323,
+    "messageReply": {
+        "threadID": "3534715166605984",
+        "messageID": "mid.$gAAyOzgHjQqB8bQaisF2O8FjZLtj9",
+        "senderID": "100056957830417",
+        "attachments": [],
+        "body": ";sim địt ít thôi không loạn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607320296112
+    }
+}

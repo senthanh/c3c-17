@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4106413352712046",
+    "messageID": "mid.$gAA6Wwt0wd2594ibuwl3sOGg2oFch",
+    "senderID": "100018152160500",
+    "attachments": [],
+    "body": "May lyrics dln",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613580314306,
+    "messageReply": {
+        "threadID": "4106413352712046",
+        "messageID": "mid.$gAA6Wwt0wd2594iaFOV3sOE2x34wX",
+        "senderID": "100012308590258",
+        "attachments": [],
+        "body": "Di ko nga alam ung kinakanta nyo e",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613580287289
+    }
+}

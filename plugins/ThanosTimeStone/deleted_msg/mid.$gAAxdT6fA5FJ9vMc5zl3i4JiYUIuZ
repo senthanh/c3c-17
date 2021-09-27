@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3480296418763858",
+    "messageID": "mid.$gAAxdT6fA5FJ9vMc5zl3i4JiYUIuZ",
+    "senderID": "100054586757042",
+    "attachments": [],
+    "body": "KAININ KITA",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612953285070,
+    "messageReply": {
+        "threadID": "3480296418763858",
+        "messageID": "mid.$gAAxdT6fA5FJ9vMcNEF3i4HEsNyzr",
+        "senderID": "100057116882074",
+        "attachments": [],
+        "body": "Kumain na kayo? -,-",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612953273616
+    }
+}

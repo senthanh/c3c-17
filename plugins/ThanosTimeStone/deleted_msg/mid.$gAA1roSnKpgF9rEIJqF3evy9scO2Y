@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3777514632291841",
+    "messageID": "mid.$gAA1roSnKpgF9rEIJqF3evy9scO2Y",
+    "senderID": "100056831541602",
+    "attachments": [],
+    "body": "Louis Vuitton",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612676121000,
+    "messageReply": {
+        "threadID": "3777514632291841",
+        "messageID": "mid.$gAA1roSnKpgF9rEAepl3evrWV4t3-",
+        "senderID": "100061978362976",
+        "attachments": [],
+        "body": "Lv?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612675995302
+    }
+}

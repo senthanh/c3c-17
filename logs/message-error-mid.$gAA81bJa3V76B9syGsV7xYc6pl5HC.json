@@ -1,0 +1,104 @@
+{
+    "type": "message_reply",
+    "threadID": "4280865151997886",
+    "messageID": "mid.$gAA81bJa3V76B9syGsV7xYc6pl5HC",
+    "senderID": "100072085275454",
+    "attachments": [],
+    "body": "Thiếu lệnh kìa má :(",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631106580145,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4280865151997886
+                    },
+                    "messageId": "mid.$gAA81bJa3V76B9syGsV7xYc6pl5HC",
+                    "offlineThreadingId": "6841356849188934082",
+                    "actorFbId": 100072085275454,
+                    "timestamp": 1631106580145,
+                    "tags": [
+                        "source:chat:orca",
+                        "app_id:256002347743983",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 4280865151997886
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "Thiếu lệnh kìa má :(",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 40040,
+                "tqSeqId": 44535,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAA81bJa3V76B9sw7-V7xYbvlD8zN"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&????t8\u000e299.0.0.11.115\b\n$39ed1a0f-8dea-427c-a6d2-17d45650fc7b9\u001b\u0005?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopathIXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/t_sm\u0007www_rev\n1004362253\u0012webserver_hostname!twshared6677.02.prn5.facebook.com\u0018\u0011messenger_android\u0012\u0000"
+                },
+                "participants": [
+                    100070235401917,
+                    100015422557386,
+                    100037659491914,
+                    100047353368033,
+                    100069845213475,
+                    100053859634560,
+                    100039288998330,
+                    100059420057252,
+                    100050656684202,
+                    100072085275454,
+                    100052267230399,
+                    100064712361443,
+                    100053597611854,
+                    100030148142320,
+                    100071984264013,
+                    100068195514920,
+                    100072229580639,
+                    100071393151858,
+                    100022050066032,
+                    100054520250315,
+                    100053037244218,
+                    100067313922932,
+                    100051243242302,
+                    100056243375739,
+                    100071626820030,
+                    100069006769113,
+                    100028107406914,
+                    100063451362444,
+                    100065933745790,
+                    100045232500895,
+                    100052855091580,
+                    100065187620758,
+                    100066388042651,
+                    100066306312020,
+                    100071032586743,
+                    100072184161291,
+                    100067076786015,
+                    100059984976136,
+                    100072546183240,
+                    100034847659519,
+                    100050241226770,
+                    100053758274849
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

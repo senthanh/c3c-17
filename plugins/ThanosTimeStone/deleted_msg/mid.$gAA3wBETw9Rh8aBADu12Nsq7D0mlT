@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3923075824416024",
+    "messageID": "mid.$gAA3wBETw9Rh8aBADu12Nsq7D0mlT",
+    "senderID": "100014090714631",
+    "attachments": [],
+    "body": "360 lê hòng phong p3 tp vũng tàu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607237024699,
+    "messageReply": {
+        "threadID": "3923075824416024",
+        "messageID": "mid.$gAA3wBETw9Rh8aA-5WV2NspsiyfOl",
+        "senderID": "100009105916530",
+        "attachments": [],
+        "body": "Xin địa chỉ em qua luôn ạ :333",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607237005657
+    }
+}

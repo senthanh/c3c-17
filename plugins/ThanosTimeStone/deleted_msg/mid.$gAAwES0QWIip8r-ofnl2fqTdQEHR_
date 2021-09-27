@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3382421031887402",
+    "messageID": "mid.$gAAwES0QWIip8r-ofnl2fqTdQEHR_",
+    "senderID": "100034831938176",
+    "attachments": [],
+    "body": "Command list:\n1. .help [page]\n2. .adduser <Facebook profile link>\n3. .listarrow\n4. .delarrow <chat>\n5. .!! <the badword>\n6. .showbadword\n7. .badwordwhitelist <add/del> <@mention>\n10. .rbc\n11. .bucu\n12. .berang\n13. .chebal <an equation needed to be balanced>\n14. .nolove <@mention>\n15. .corona\n(Page 1/8)\nType `.help [command]` to get more info about that command.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1608442501022,
+    "messageReply": {
+        "threadID": "3382421031887402",
+        "messageID": "mid.$gAAwES0QWIip8r-oakl2fqTT6FqB7",
+        "senderID": "100034098077653",
+        "attachments": [],
+        "body": ".help",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1608442499730
+    }
+}

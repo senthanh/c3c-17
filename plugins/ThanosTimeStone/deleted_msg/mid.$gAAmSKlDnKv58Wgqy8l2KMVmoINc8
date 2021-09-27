@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58Wgqy8l2KMVmoINc8",
+    "senderID": "100009452017523",
+    "attachments": [],
+    "body": "_sim mày dối lòng hả",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607001795314,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58WgqGEl2KMU8fRqir",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "ừ đẹp trai nhất trên đời",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607001783826
+    }
+}

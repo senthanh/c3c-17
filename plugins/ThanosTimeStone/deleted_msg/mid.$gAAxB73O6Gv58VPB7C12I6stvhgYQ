@@ -1,0 +1,40 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58VPB7C12I6stvhgYQ",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "219182772905182",
+            "filename": "image-219182772905182",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/128655351_219182776238515_5577452141903258522_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=VhyXwXW5yJAAX_38iao&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=fa445ed2b1483bc7f690a1a7cf82a2a6&oe=5FEB5DDE",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128655351_219182776238515_5577452141903258522_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=VhyXwXW5yJAAX_38iao&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=872f5c9693048756ba2c6f8fd087d899&oe=5FEEA50E",
+            "previewWidth": 447,
+            "previewHeight": 247,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128655351_219182776238515_5577452141903258522_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=VhyXwXW5yJAAX_38iao&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=872f5c9693048756ba2c6f8fd087d899&oe=5FEEA50E",
+            "largePreviewWidth": 447,
+            "largePreviewHeight": 247,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/128655351_219182776238515_5577452141903258522_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=VhyXwXW5yJAAX_38iao&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=872f5c9693048756ba2c6f8fd087d899&oe=5FEEA50E",
+            "width": 447,
+            "height": 247,
+            "name": "image-219182772905182"
+        }
+    ],
+    "body": "Thich nha <333333",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606916190987,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58VPBpq12I6sgjQBGS",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "-bucu @Hùng",
+        "isGroup": true,
+        "mentions": {
+            "100048959375523": "@Hùng"
+        },
+        "timestamp": 1606916186539
+    }
+}

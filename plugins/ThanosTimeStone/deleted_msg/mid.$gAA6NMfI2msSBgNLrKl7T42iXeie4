@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBgNLrKl7T42iXeie4",
+    "senderID": "100051439970359",
+    "attachments": [],
+    "body": "「Shortcut」Reply tin nhắn này để nhập câu trả lời khi sử dụng từ khóa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629127287594,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBgNLqGV7T42hXg51e",
+        "senderID": "100045305926798",
+        "attachments": [],
+        "body": "Ăn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629127287321
+    }
+}

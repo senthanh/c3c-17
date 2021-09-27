@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4276982545705666",
+    "messageID": "mid.$gAA8x5JlY6sJ7BxYkD101dDPJJiF6",
+    "senderID": "100044716214379",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "391054318568339",
+            "filename": "image-391054318568339",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/120204173_337634284226499_7932192822603310899_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=k1lZVbiu_gUAX_x_hOH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bd8df9cbcb262989f398a11c1f18a114&oe=5F972C1E",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120204173_337634284226499_7932192822603310899_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=k1lZVbiu_gUAX_x_hOH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=135b1bce3f7cb47217a18abd9e725fca&oe=5F9893A5",
+            "previewWidth": 622,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120204173_337634284226499_7932192822603310899_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=k1lZVbiu_gUAX_x_hOH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=582faa6b04d36b94a2810459ed29f33c&oe=5F98C724",
+            "largePreviewWidth": 1067,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120204173_337634284226499_7932192822603310899_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=k1lZVbiu_gUAX_x_hOH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=582faa6b04d36b94a2810459ed29f33c&oe=5F98C724",
+            "width": 1600,
+            "height": 720,
+            "name": "image-391054318568339"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601315068943,
+    "messageReply": {
+        "threadID": "4276982545705666",
+        "messageID": "mid.$gAA8x5JlY6sJ7BxW_pl01dB2cXm-g",
+        "senderID": "100009736098279",
+        "attachments": [],
+        "body": "Do đen thôi đỏ quên lâu rồi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601315043238
+    }
+}

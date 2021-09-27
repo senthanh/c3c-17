@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3362328967158078",
+    "messageID": "mid.$gAAvyBTe0mT5926No713ql4a86m03",
+    "senderID": "100052165089259",
+    "attachments": [],
+    "body": "@Ysa Hishika binabakstab ka nila☹️☹️☹️👉👈",
+    "isGroup": true,
+    "mentions": {
+        "100042761321335": "@Ysa Hishika"
+    },
+    "timestamp": 1613471031535,
+    "messageReply": {
+        "threadID": "3362328967158078",
+        "messageID": "mid.$gAAvyBTe0mT5926MZQF3ql3Q9jmrt",
+        "senderID": "100049862582833",
+        "attachments": [],
+        "body": "dali jose di natin sila isasali😔",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613471011136
+    }
+}

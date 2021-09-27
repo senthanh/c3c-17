@@ -1,0 +1,43 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58SWIGwF2GBy3WlM-E",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "1549941605216668",
+            "filename": "gif-1549941605216668",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "previewWidth": 540,
+            "previewHeight": 303,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "width": 540,
+            "height": 303,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "name": "gif-1549941605216668",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/95245952_722639168476371_3718207369159639040_n.gif?_nc_cat=102&ccb=2&_nc_sid=041f46&_nc_ohc=tDP6WTWXcDsAX8Mni5H&_nc_oc=AQnCoo8Ltye8uPu6zQVG-2JFIh8Uor96iCDEBQDZhXjCR41YKj-45MQfzSeaKu7CDXE&_nc_ht=cdn.fbsbx.com&oh=4928fb7a271cfa5716bcbf49d0d0cb4f&oe=5FC64974"
+        }
+    ],
+    "body": "Phạm Đức Phi, bạn đang được Vy Phạm chịch rất hạnh phúc",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606722305728,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58SWH3yF2GByrKFHD2",
+        "senderID": "100007500518427",
+        "attachments": [],
+        "body": "!fuck @Phạm Đức Phi",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phạm Đức Phi"
+        },
+        "timestamp": 1606722301896
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7tTRItl1g-7_0X8Jh",
+    "senderID": "100056747575972",
+    "attachments": [],
+    "body": "Số tiền của bạn hiện đang có là: 7345 đô",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604236279990,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7tTRHd11g-79dnw-B",
+        "senderID": "100013625022563",
+        "attachments": [],
+        "body": "!money",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604236279671
+    }
+}

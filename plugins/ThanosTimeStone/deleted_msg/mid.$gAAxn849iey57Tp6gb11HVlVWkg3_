@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100042163515300",
+    "body": "",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57Tp6gb11HVlVWkg3_",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "237318537087806",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36873503_237318547087805_6018490268330754048_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=SUbc3XfcG2kAX9a-FHe&_nc_oc=AQkRgUA8jUXc0ssGP8bgZO33flaQsYIEKfG6gWhYQzKXdfOdNRECIopkGl03Yw8cw8w&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e3abefe616e8252065f7ef26bce07f00&oe=5FABE89B",
+            "packID": "237317020421291",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36884889_237318540421139_2675110630737838080_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=6W9gfd8P2J8AX_0GSfD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e1db4d46edb92ab37ff55fd8108a95e3&oe=5FA80B6C"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36884889_237318540421139_2675110630737838080_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=6W9gfd8P2J8AX_0GSfD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=64a512d77d5993265befaf7f1f71cd6f&oe=5FABAABE"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "crying, cat crying",
+            "description": "crying, cat crying",
+            "frameCount": 12,
+            "frameRate": 83,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "237318537087806",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36884889_237318540421139_2675110630737838080_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=6W9gfd8P2J8AX_0GSfD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e1db4d46edb92ab37ff55fd8108a95e3&oe=5FA80B6C"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36884889_237318540421139_2675110630737838080_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=6W9gfd8P2J8AX_0GSfD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=64a512d77d5993265befaf7f1f71cd6f&oe=5FABAABE"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602515196015",
+    "isGroup": true
+}

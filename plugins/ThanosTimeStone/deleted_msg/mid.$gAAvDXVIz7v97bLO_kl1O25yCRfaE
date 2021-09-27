@@ -1,0 +1,41 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97bLO_kl1O25yCRfaE",
+    "senderID": "100028357282870",
+    "attachments": [],
+    "body": "Bắn nhằm wisp",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603019896722,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97bLNQnF1O231fbE-6",
+        "senderID": "100028357282870",
+        "attachments": [
+            {
+                "type": "animated_image",
+                "ID": "395986134903569",
+                "filename": "gif-395986134903569",
+                "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "previewWidth": 1920,
+                "previewHeight": 1080,
+                "url": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "width": 1920,
+                "height": 1080,
+                "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "name": "gif-395986134903569",
+                "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C",
+                "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/120904251_385055259194211_7224134032814868377_n.gif?_nc_cat=100&_nc_sid=041f46&_nc_ohc=yNffKRlFsBEAX9LGVBg&_nc_ht=cdn.fbsbx.com&oh=4fa80447b085f8acf1fdb3f138b4fd51&oe=5F8DB52C"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603019868316
+    }
+}

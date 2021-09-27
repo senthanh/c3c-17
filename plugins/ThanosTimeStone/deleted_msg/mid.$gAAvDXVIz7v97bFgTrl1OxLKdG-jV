@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100038250240203",
+    "body": "",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97bFgTrl1OxLKdG-jV",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "629261957190121",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48690967_1960938484022455_514352789309095936_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=ONu4QXC3LBUAX_IHmYk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=17d15f3a8b4db37016a15ebae6a88d89&oe=5FB11832",
+            "packID": "628030680646582",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/48607577_1960938480689122_2844495920324673536_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=2haRWmQskxsAX8nGTs9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b8cc2ed52eea79889a8b50ab8bb22fba&oe=5FB13938"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48607577_1960938480689122_2844495920324673536_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=2haRWmQskxsAX8nGTs9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ea8ed442c16d27e7682648a24e907ae6&oe=5FB06D2D"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Bye, girl waving bye and text \"bye\"",
+            "description": "Bye, girl waving bye and text \"bye\"",
+            "frameCount": 11,
+            "frameRate": 125,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "629261957190121",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/48607577_1960938480689122_2844495920324673536_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=2haRWmQskxsAX8nGTs9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b8cc2ed52eea79889a8b50ab8bb22fba&oe=5FB13938"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48607577_1960938480689122_2844495920324673536_n.png?_nc_cat=103&_nc_sid=0572db&_nc_ohc=2haRWmQskxsAX8nGTs9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ea8ed442c16d27e7682648a24e907ae6&oe=5FB06D2D"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603013888942",
+    "isGroup": true
+}

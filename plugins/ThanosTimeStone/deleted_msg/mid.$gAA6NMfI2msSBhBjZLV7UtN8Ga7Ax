@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100070052890137",
+    "body": "‎Trình độ chém gió của con vợ Zin Vjp Trung đã đạt tới level 2 🥳🥳",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBhBjZLV7UtN8Ga7Ax",
+    "attachments": [
+        {
+            "type": "video",
+            "filename": "video-1629182201.mp4",
+            "ID": "1030291677745365",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/234829472_4494216113962616_4986980159398214372_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=DyUycGlOje8AX8FBs-i&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f2db34138bea25588d8baf0d047aefa7&oe=611C75A3",
+            "previewWidth": 640,
+            "previewHeight": 640,
+            "url": "https://video.xx.fbcdn.net/v/t42.3356-2/235924258_4509047959189839_8754538558944826163_n.mp4/video-1629182201.mp4?_nc_cat=100&ccb=1-5&_nc_sid=060d78&_nc_ohc=yWRBrmUnq20AX_kVkF6&vabr=668193&_nc_ht=video.xx&oh=bc09eb06941b26f519b09b2513a816bd&oe=611C6F8A&dl=1",
+            "width": 640,
+            "height": 640,
+            "duration": 11000,
+            "videoType": "file_attachment",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/234829472_4494216113962616_4986980159398214372_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=f8ae41&_nc_ohc=DyUycGlOje8AX8FBs-i&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f2db34138bea25588d8baf0d047aefa7&oe=611C75A3"
+        }
+    ],
+    "mentions": {
+        "100071778008065": "Zin Vjp Trung"
+    },
+    "timestamp": "1629182202157",
+    "isGroup": true
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message",
+    "senderID": "100062736996481",
+    "body": "",
+    "threadID": "2972586662863646",
+    "messageID": "mid.$gAAqPjUQaox598dCOAl3wIs3MhOe8",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1613843087000-24172.mp4",
+            "ID": "AT1OVKUUTTOrXqBe-L96mrJTEREAWjLt0eG9UR7LoA8FaLHDk671FJTDYNImzxHTyWeRTMemeyzXsO_cNqnVZbdFxr6nqPZIJrYrFC5F4-w2QeAjtrdhL49LDuMk0G8jIdEYeYAeA8LfDbUQtVzXH_QPdIo",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 24172,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/153202733_250522100118710_7528493747399155101_n.mp4/audioclip-1613843087000-24172.mp4?_nc_cat=104&ccb=3&_nc_sid=7272a8&_nc_ohc=_-_DHiqtTpEAX8Pbky1&_nc_ht=cdn.fbsbx.com&oh=79013ef7d230388520c77309f1f71b0f&oe=6032D6A3&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613843088898",
+    "isGroup": true
+}

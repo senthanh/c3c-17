@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100039847550995",
+    "body": "https://github.com/c3cbot/c3c-0x",
+    "threadID": "3557581930927402",
+    "messageID": "mid.$gAAyjmhdAlSp7SOQHJl1F56-Zsqgm",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyjmhdAlSp7SOQHJl1F56-Zsqgm",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fc3cbot%2Fc3c-0x&h=AT1oEMQrK3plfAr56twqIPe9SYIGEB-tmaA3hVmI1G7onUPpEdha0vVwZgX5kN32ltQp5eZCQWuxFBlLgDmLma-S29B527kJNn8gBtoImFLAQe_ZSArVifJ8Qx7boefZsfGtEgbnLGHmPuY&s=1",
+            "title": "c3cbot/c3c-0x",
+            "description": "0.x build of C3CBot. Archived for historical purposes. - c3cbot/c3c-0x",
+            "source": "github.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQANUHGUkVOVnXdG&w=420&h=420&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F69147830%3Fs%3D400%26v%3D4&_nc_cb=1&_nc_hash=AQAYPbOkxBGEFB-X",
+            "width": 420,
+            "height": 420,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "420",
+                "height": "420"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fc3cbot%2Fc3c-0x&h=AT1oEMQrK3plfAr56twqIPe9SYIGEB-tmaA3hVmI1G7onUPpEdha0vVwZgX5kN32ltQp5eZCQWuxFBlLgDmLma-S29B527kJNn8gBtoImFLAQe_ZSArVifJ8Qx7boefZsfGtEgbnLGHmPuY&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602419080998",
+    "isGroup": true
+}

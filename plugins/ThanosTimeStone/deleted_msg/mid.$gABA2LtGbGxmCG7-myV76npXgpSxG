@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmCG7-myV76npXgpSxG",
+    "senderID": "100050644054380",
+    "attachments": [],
+    "body": "[ Ban Thread ] Hiện tại bạn đang yêu cầu cấm nhóm:\n- ID nhóm cần cấm: 4563174340369177\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631726493385,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmCG7-lml76npdPPa3T",
+        "senderID": "100070001477613",
+        "attachments": [],
+        "body": "~thread ban",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631726493082
+    }
+}

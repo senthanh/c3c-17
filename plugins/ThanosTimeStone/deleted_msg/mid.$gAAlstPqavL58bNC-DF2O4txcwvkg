@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2652799344753854",
+    "messageID": "mid.$gAAlstPqavL58bNC-DF2O4txcwvkg",
+    "senderID": "100028146874278",
+    "attachments": [],
+    "body": "Chị gọi anh cua vào đây",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607316764172,
+    "messageReply": {
+        "threadID": "2652799344753854",
+        "messageID": "mid.$gAAlstPqavL58bM-rpF2O4pixB40n",
+        "senderID": "100014090714631",
+        "attachments": [],
+        "body": "Có nên cho ăn hong nhỉ",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607316693924
+    }
+}

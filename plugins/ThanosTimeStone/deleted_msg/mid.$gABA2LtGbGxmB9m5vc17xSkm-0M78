@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9m5vc17xSkm-0M78",
+    "senderID": "100070796494583",
+    "attachments": [],
+    "body": "[ Unban User ] Hiện tại bạn đang yêu cầu gỡ cấm người dùng:\n- ID và tên người dùng cần gỡ cấm: 100072229580639 - Sen Nguyễn\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631100413811,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9m5uSV7xSkhZh1_9",
+        "senderID": "100056992160405",
+        "attachments": [],
+        "body": "&user unban @Sen Nguyễn",
+        "isGroup": true,
+        "mentions": {
+            "100072229580639": "@Sen Nguyễn"
+        },
+        "timestamp": 1631100413513
+    }
+}

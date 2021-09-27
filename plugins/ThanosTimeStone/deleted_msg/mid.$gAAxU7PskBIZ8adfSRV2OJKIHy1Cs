@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3471076522984582",
+    "messageID": "mid.$gAAxU7PskBIZ8adfSRV2OJKIHy1Cs",
+    "senderID": "100042249945244",
+    "attachments": [],
+    "body": "🐶",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607266896453,
+    "messageReply": {
+        "threadID": "3471076522984582",
+        "messageID": "mid.$gAAxU7PskBIZ8adeLpl2OJI-2vhfo",
+        "senderID": "100058693520222",
+        "attachments": [],
+        "body": "Chet tui :v",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607266878374
+    }
+}

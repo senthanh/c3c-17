@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBiMVVQF7V4AM1k9mg",
+    "senderID": "100071794654942",
+    "attachments": [],
+    "body": "「Shortcut」Reply tin nhắn này để nhập từ khóa cho shortcut",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629260614976,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBiMVUl17V4ARDOkUh",
+        "senderID": "100071778008065",
+        "attachments": [],
+        "body": "-shortcut",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629260614807
+    }
+}

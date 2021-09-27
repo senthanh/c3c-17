@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4530707686999866",
+    "messageID": "mid.$gABAYp5ZDxzp8ZTqZ6l2M_U8VU1TL",
+    "senderID": "100058256947894",
+    "attachments": [],
+    "body": "Toàn nghĩ fdeens địt nhau",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607189484010,
+    "messageReply": {
+        "threadID": "4530707686999866",
+        "messageID": "mid.$gABAYp5ZDxzp8ZTouL12M_TkbVAkh",
+        "senderID": "100042241782569",
+        "attachments": [],
+        "body": "2k8 ko lm ăn gì đc đâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607189456431
+    }
+}

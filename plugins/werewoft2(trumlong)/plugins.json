@@ -1,0 +1,122 @@
+{
+	"plugin_name": "Werewolf",
+	"plugin_scope": "werewolf",
+	"plugin_exec": "hy.js",
+	"command_map": {
+		"wwcreate": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "create",
+			"compatibly": 0
+        },
+		"wwjoin": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "join",
+			"compatibly": 0
+        },
+		"wwout": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "out",
+			"compatibly": 0
+        },
+		"wwcheck": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "check",
+			"compatibly": 0
+        },
+		"wwkick": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "kick",
+			"compatibly": 0
+        },
+		"wwchat": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "chat",
+			"compatibly": 0
+        },
+		"wwstart": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "start",
+			"compatibly": 0
+        },
+		"wwfake": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "addfake",
+			"compatibly": 0
+        },
+		"cycle": {
+			"hargs": {
+                "vi_VN": "<public/private> <pass nếu là private>",
+                "en_US": "A Werewolf game"
+            },
+			"hdesc": {
+                "vi_VN": "Lệnh về trò chơi Ma Sói",
+                "en_US": "A Werewolf game"
+            },
+			"fscope": "cyclechange",
+			"compatibly": 0
+        }
+	},
+	"author": "Hy",
+	"version": "0.1",
+	"node_depends": {},
+    "dependents": [
+	    "LibBetterRandom"
+	],
+    "complied_for": "0.3.14"
+}

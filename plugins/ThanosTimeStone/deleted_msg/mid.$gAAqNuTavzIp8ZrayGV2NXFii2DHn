@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2970576393063562",
+    "messageID": "mid.$gAAqNuTavzIp8ZrayGV2NXFii2DHn",
+    "senderID": "100048234966042",
+    "attachments": [],
+    "body": "Lệnh khác ròii",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607214393881,
+    "messageReply": {
+        "threadID": "2970576393063562",
+        "messageID": "mid.$gAAqNuTavzIp8ZraNV12NXFnm0y2l",
+        "senderID": "100056566315364",
+        "attachments": [],
+        "body": "/hentai neko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607214384471
+    }
+}

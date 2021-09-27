@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3777514632291841",
+    "messageID": "mid.$gAA1roSnKpgF9wzgCcl3kfK2duNs4",
+    "senderID": "100054747603335",
+    "attachments": [],
+    "body": "Shota q yan anub",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613061339762,
+    "messageReply": {
+        "threadID": "3777514632291841",
+        "messageID": "mid.$gAA1roSnKpgF9wzNMJF3ke4CVxjVd",
+        "senderID": "100048893554247",
+        "attachments": [],
+        "body": "Seryoso, bot talaga yan?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613061030948
+    }
+}

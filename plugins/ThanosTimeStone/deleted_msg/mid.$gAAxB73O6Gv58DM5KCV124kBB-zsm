@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58DM5KCV124kBB-zsm",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Không thể gỡ tin nhắn của người dùng khác.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605705990665,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58DM5IRl124j6eKGUL",
+        "senderID": "100022263186510",
+        "attachments": [],
+        "body": "!gỡ",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1605705990214
+    }
+}

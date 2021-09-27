@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97LLPrGl0-26ciyOIb",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "2658238144426196",
+            "filename": "image-2658238144426196",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/119609166_759869801413587_4350475545678076811_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=93KYvDesuxkAX8zStw6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=4c99a465a0a4990189dabba6b163a3db&oe=5F9FDAE3",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/119609166_759869801413587_4350475545678076811_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=93KYvDesuxkAX8zStw6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=616e3539102e43234569cc497ce8b0f5&oe=5FA20275",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119609166_759869801413587_4350475545678076811_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=93KYvDesuxkAX8zStw6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=cf44ba347e7982469aecd42387f3af2c&oe=5FA060F4",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119609166_759869801413587_4350475545678076811_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=93KYvDesuxkAX8zStw6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=cf44ba347e7982469aecd42387f3af2c&oe=5FA060F4",
+            "width": 720,
+            "height": 960,
+            "name": "image-2658238144426196"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601946166042,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97LLJnw10-20e5H3_8",
+        "senderID": "100032297747977",
+        "attachments": [],
+        "body": "Gửi ảnh đây các bạn ei",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601946066883
+    }
+}

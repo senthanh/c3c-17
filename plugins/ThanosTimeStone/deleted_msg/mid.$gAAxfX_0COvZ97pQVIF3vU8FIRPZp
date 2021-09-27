@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3482565591841526",
+    "messageID": "mid.$gAAxfX_0COvZ97pQVIF3vU8FIRPZp",
+    "senderID": "100045993796877",
+    "attachments": [],
+    "body": "Magkaayaw kane ni nathan panget.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613788794144,
+    "messageReply": {
+        "threadID": "3482565591841526",
+        "messageID": "mid.$gAAxfX_0COvZ97pPUR13vU6L_jXzs",
+        "senderID": "100062109501552",
+        "attachments": [],
+        "body": "Ganap?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613788777543
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57Pt__F11DZq2vjkaa",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.dice`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602251044631,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57Pt_9811DZq1Fv7fy",
+        "senderID": "100014423018402",
+        "attachments": [],
+        "body": ".kick @Nguyễn Thị Kim Liên",
+        "isGroup": true,
+        "mentions": {
+            "100027025145916": "@Nguyễn Thị Kim Liên"
+        },
+        "timestamp": 1602251044339
+    }
+}

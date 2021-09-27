@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J94f_3Cl3sLtrLIdha",
+    "senderID": "100000190045028",
+    "attachments": [],
+    "body": "Bạn không có đủ quyền.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613577760522,
+    "messageReply": {
+        "threadID": "2999536510068626",
+        "messageID": "mid.$gAAqoEAQsZ5J94f_qj13sLqfLXEpX",
+        "senderID": "100006452467703",
+        "attachments": [],
+        "body": ".thanos on",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613577757327
+    }
+}

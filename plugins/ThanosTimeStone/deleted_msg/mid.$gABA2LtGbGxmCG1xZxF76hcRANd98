@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmCG1xZxF76hcRANd98",
+    "senderID": "100043010303877",
+    "attachments": [],
+    "body": "Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\nLiên hệ FB:\nhttps://www.facebook.com/daimeng1998 \n\n- Bị cấm vào: 18:09:33 09/15/2021",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631719985604,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmCG1xYhF76hbmmBJlb",
+        "senderID": "100072229580639",
+        "attachments": [],
+        "body": "/1",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631719985284
+    }
+}

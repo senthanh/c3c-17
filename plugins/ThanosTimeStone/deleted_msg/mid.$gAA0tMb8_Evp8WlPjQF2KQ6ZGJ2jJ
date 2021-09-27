@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8WlPjQF2KQ6ZGJ2jJ",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "M là Tuesday còn Huy là Wednesday àaaa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607006591808,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8WlOWTl2KQ5M-AHsE",
+        "senderID": "100038322465994",
+        "attachments": [],
+        "body": "Con dợ tao nữa",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607006572110
+    }
+}

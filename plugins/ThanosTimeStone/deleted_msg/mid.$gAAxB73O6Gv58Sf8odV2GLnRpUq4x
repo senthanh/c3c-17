@@ -1,0 +1,43 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58Sf8odV2GLnRpUq4x",
+    "senderID": "100047813830419",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "378095956751264",
+            "filename": "gif-378095956751264",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "previewWidth": 537,
+            "previewHeight": 299,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "width": 537,
+            "height": 299,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "name": "gif-378095956751264",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/128643292_378095966751263_6361003854910646680_n.gif?_nc_cat=109&ccb=2&_nc_sid=041f46&_nc_ohc=HQHZOcIuLTEAX-IxIlh&_nc_oc=AQlnRapoLsZZ_IdpkJB0pf6p0rmdTmKUvAgg_5WelRiVUCk2DpXoo1R8aDHbAGWyc1k&_nc_ht=cdn.fbsbx.com&oh=4b680befa32e2613d300cf658fb4018e&oe=5FC668A2"
+        }
+    ],
+    "body": "BaiPu Canapon, command by hungcho 🥰",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606732603509,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58Sf8aH12GLnRHoKdL",
+        "senderID": "100048959375523",
+        "attachments": [],
+        "body": ".sex @BaiPu Canapon",
+        "isGroup": true,
+        "mentions": {
+            "100003934441326": "@BaiPu Canapon"
+        },
+        "timestamp": 1606732599839
+    }
+}

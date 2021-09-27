@@ -1,0 +1,11 @@
+{
+    "type": "message",
+    "senderID": "100056832115203",
+    "body": "Danh sách các câu lệnh: \r\nswitch\r\ncount | dem\r\nrank\r\nweather | wea | w\r\nyt | youtube\r\nzingmp3 | zing | z\r\nall | everyone | everybody\r\ndebug | data\r\ngame | g\r\nhelp\r\nversion | v\r\nbug | baoloi | report | b | r\r\nautoreply | auto\r\nNhớ thêm dấu / đằng trước và xài param --help hoặc -h để xem hướng dẫn sử dụng lệnh (vd: /rank --help | /rank -h)\r\nMột số lệnh đặc biệt: \r\n/switch --chat on: Mở bot autoreply lên",
+    "threadID": "3385995948148061",
+    "messageID": "mid.$gAAwHi52zRV17unRj9l1iS8asP2uO",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1604324367350",
+    "isGroup": true
+}

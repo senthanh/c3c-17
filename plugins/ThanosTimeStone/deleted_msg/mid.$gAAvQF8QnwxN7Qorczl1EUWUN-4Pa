@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3325025237582611",
+    "messageID": "mid.$gAAvQF8QnwxN7Qorczl1EUWUN-4Pa",
+    "senderID": "100055953258099",
+    "attachments": [],
+    "body": "===== General =====\nhelp, hug, kiss, slap, wiki, ping, say, choose, echo, covid-19, weather, waifu, roll, anime, trans, ga, sim, mit, gif, meme, gỡ, poll, sleep, wake, short, rname\n\n===== System =====\nreport, rank, randomcolor, rainbow, uid, request, uptime, resend, nsfw, afk\n\n===== Nsfw =====\nhentai, nhentai, hentaivn, porn, mynsfw, buynsfw, setnsfw\n\n===== Media =====\nvideo, audio, sauce, meow\n\n===== Study =====\nmath, chemeb\n\n===== Economy =====\nmoney, daily, work, roul, coinflip, pay, sl, fishing, fishing, fishing túi, fishing bán, fishing list, steal\n\n===== Space =====\nearth, iss, neo, spacex\n\n===== Cipher =====\nmorse, caesar, vigenere, rot47",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602312574158,
+    "messageReply": {
+        "threadID": "3325025237582611",
+        "messageID": "mid.$gAAvQF8QnwxN7Qorb8F1EUWS2GZQY",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "!help",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602312573936
+    }
+}

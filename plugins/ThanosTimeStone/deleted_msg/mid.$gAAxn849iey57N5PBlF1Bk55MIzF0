@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57N5PBlF1Bk55MIzF0",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.buylottery`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602128607636,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57N5PAU11Bk53ckObU",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".lottery 25",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602128607315
+    }
+}

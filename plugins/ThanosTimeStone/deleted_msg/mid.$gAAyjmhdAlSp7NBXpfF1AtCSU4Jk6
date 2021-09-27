@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100041476519820",
+    "body": "https://drive.google.com/file/d/1obU5-_TLKIZuYEwFI0DRoxD9XRPFWVK3/view?usp=drivesdk",
+    "threadID": "3557581930927402",
+    "messageID": "mid.$gAAyjmhdAlSp7NBXpfF1AtCSU4Jk6",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyjmhdAlSp7NBXpfF1AtCSU4Jk6",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1obU5-_TLKIZuYEwFI0DRoxD9XRPFWVK3%2Fview%3Fusp%3Ddrivesdk&h=AT204WrTAmspW4wLOLW9leM5H5NzdSkF7VleetFtRfvcNBfHJW_c0Es_Jd82zSXNePHB675NQr-MFeaLP45OmQZWl2RubUVMVzAjVTGUPw-HrcYkdlTZen2PrsE6cqVNSGOcDFXlzeK_jg4&s=1",
+            "title": "Wiki.zip",
+            "description": "",
+            "source": "drive.google.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1obU5-_TLKIZuYEwFI0DRoxD9XRPFWVK3%2Fview%3Fusp%3Ddrivesdk&h=AT204WrTAmspW4wLOLW9leM5H5NzdSkF7VleetFtRfvcNBfHJW_c0Es_Jd82zSXNePHB675NQr-MFeaLP45OmQZWl2RubUVMVzAjVTGUPw-HrcYkdlTZen2PrsE6cqVNSGOcDFXlzeK_jg4&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602070028668",
+    "isGroup": true
+}

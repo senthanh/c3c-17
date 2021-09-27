@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7wUoM3l1kATANRSSr",
+    "senderID": "100036743982200",
+    "attachments": [],
+    "body": "!gỡ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604439033054,
+    "messageReply": {
+        "threadID": "4553246968081463",
+        "messageID": "mid.$gABAtJ2wbbDd7wUnlg11kASca7dxX",
+        "senderID": "100056832115203",
+        "attachments": [],
+        "body": "Lê Thị Trà My vừa gỡ một tệp đính kèm.",
+        "isGroup": true,
+        "mentions": {
+            "100036743982200": "Lê Thị Trà My"
+        },
+        "timestamp": 1604439022979
+    }
+}

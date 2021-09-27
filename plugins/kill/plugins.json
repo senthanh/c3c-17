@@ -1,0 +1,32 @@
+{
+	"plugin_name": "Kill",
+	"plugin_scope": "kill",
+	"plugin_exec": "kill.js",
+	"command_map": {
+		"kill": {
+			"hargs": {
+				"vi_VN": "",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "<@mention> [giết ai đó]",
+				"en_US": ""
+			},
+			"fscope": "kill",
+			"compatibly": 0
+		}
+	},
+	"author": "Kaysil",
+	"version": "0.1.0",
+	"node_depends": {
+		"node-fetch": "*",
+		"wait-for-stuff": "*",
+		"fs": "*",
+		"path": "*",
+		"stream-buffers": "*",
+		"merge-images": "*",
+		"wait-on": "*",
+		"jimp": "*"
+	},
+	"complied_for": "0.5.0"
+}

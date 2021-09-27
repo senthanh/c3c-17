@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7YMgjkV1L4LaalfdT",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.turnoff`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602819906449,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7YMggf11L4LW5Tq0w",
+        "senderID": "100015247083200",
+        "attachments": [],
+        "body": ".off bot",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602819905663
+    }
+}

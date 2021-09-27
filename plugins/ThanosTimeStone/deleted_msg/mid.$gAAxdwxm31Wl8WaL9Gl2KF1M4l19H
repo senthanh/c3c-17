@@ -1,0 +1,49 @@
+{
+    "type": "message_reply",
+    "threadID": "3480792252011881",
+    "messageID": "mid.$gAAxdwxm31Wl8WaL9Gl2KF1M4l19H",
+    "senderID": "100049099173210",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "623427181025349",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851585_623427184358682_1784005472_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=OFVzp6g-bwQAX_brywE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5485f7dd9aa44673732508ff3d467e99&oe=5FEDD328",
+            "packID": "623386314362769",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/851562_629577943743606_1213766122_n.png?_nc_cat=101&ccb=2&_nc_sid=0572db&_nc_ohc=QzmHuWqbMD4AX8jGh_D&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f443ea8dde721c417577b8aa35974eb5&oe=5FEC7CD4"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851562_629577943743606_1213766122_n.png?_nc_cat=101&ccb=2&_nc_sid=0572db&_nc_ohc=QzmHuWqbMD4AX8jGh_D&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ca4ce9eeb3a50767afcd3201b0f886c4&oe=5FF022BB"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "",
+            "description": "",
+            "frameCount": 16,
+            "frameRate": 83,
+            "framesPerRow": 4,
+            "framesPerCol": 4,
+            "stickerID": "623427181025349",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/851562_629577943743606_1213766122_n.png?_nc_cat=101&ccb=2&_nc_sid=0572db&_nc_ohc=QzmHuWqbMD4AX8jGh_D&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f443ea8dde721c417577b8aa35974eb5&oe=5FEC7CD4"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851562_629577943743606_1213766122_n.png?_nc_cat=101&ccb=2&_nc_sid=0572db&_nc_ohc=QzmHuWqbMD4AX8jGh_D&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ca4ce9eeb3a50767afcd3201b0f886c4&oe=5FF022BB"
+            }
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606994998554,
+    "messageReply": {
+        "threadID": "3480792252011881",
+        "messageID": "mid.$gAAxdwxm31Wl8WaKL2l2KFzbpAgtb",
+        "senderID": "100049099173210",
+        "attachments": [],
+        "body": ":))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606994969562
+    }
+}

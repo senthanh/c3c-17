@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3557581930927402",
+    "messageID": "mid.$gAAyjmhdAlSp7TJIYg11G0zHRyBj2",
+    "senderID": "100041476519820",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "674484476507672",
+            "filename": "image-674484476507672",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/121164192_674484479841005_1373617822242965523_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=kfc3ywTz1gMAX_GJCd9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=1d2313f4d49e03477db7d33bddb75ce8&oe=5FA9F910",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121164192_674484479841005_1373617822242965523_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=kfc3ywTz1gMAX_GJCd9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7a2f9a99ef7648297ccd3be4c5bb4e20&oe=5FA951DA",
+            "previewWidth": 280,
+            "previewHeight": 607,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121164192_674484479841005_1373617822242965523_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=kfc3ywTz1gMAX_GJCd9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7f551ce35acd0611bc17d9aba99357fe&oe=5FAA215F",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 1040,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121164192_674484479841005_1373617822242965523_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=kfc3ywTz1gMAX_GJCd9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7f551ce35acd0611bc17d9aba99357fe&oe=5FAA215F",
+            "width": 540,
+            "height": 1170,
+            "name": "image-674484476507672"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602480820355,
+    "messageReply": {
+        "threadID": "3557581930927402",
+        "messageID": "mid.$gAAyjmhdAlSp7TJGmKV1G0wWtfufm",
+        "senderID": "100054760166017",
+        "attachments": [],
+        "body": "Lệnh vào vcn là gì vậy quên mẹ rồi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602480791081
+    }
+}

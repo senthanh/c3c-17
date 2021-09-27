@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBgNqc_F7T5VUUuTzS",
+    "senderID": "100070052890137",
+    "attachments": [],
+    "body": "[ Unban Thread ] Hiện tại bạn đang yêu cầu gỡ cấm nhóm:\n- ID nhóm cần gỡ cấm: 4095895330527940\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629127791868,
+    "messageReply": {
+        "threadID": "4095895330527940",
+        "messageID": "mid.$gAA6NMfI2msSBgNqcCF7T5VQ-N86s",
+        "senderID": "100070001477613",
+        "attachments": [],
+        "body": "/thread unban",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1629127791624
+    }
+}

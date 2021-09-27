@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3900857549935755",
+    "messageID": "mid.$gAA3bzyyVVIt9wl5yOV3kRkuNVpSx",
+    "senderID": "100061321154663",
+    "attachments": [],
+    "body": "May tite ko😚😚",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613047081529,
+    "messageReply": {
+        "threadID": "3900857549935755",
+        "messageID": "mid.$gAA3bzyyVVIt9wl2VT13kRhNCR0x3",
+        "senderID": "100032359766368",
+        "attachments": [],
+        "body": "Ayaw mo sa tite?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613047024975
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7XkcaPF1LQHKyrApR",
+    "senderID": "100011808452199",
+    "attachments": [],
+    "body": "✌",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602777895484,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7Xkb2611LQGukDJSv",
+        "senderID": "100024536498574",
+        "attachments": [],
+        "body": "team mình ai hút smoke ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602777886443
+    }
+}

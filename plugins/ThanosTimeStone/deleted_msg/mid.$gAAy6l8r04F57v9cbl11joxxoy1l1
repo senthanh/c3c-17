@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3582860828401758",
+    "messageID": "mid.$gAAy6l8r04F57v9cbl11joxxoy1l1",
+    "senderID": "100047403250197",
+    "attachments": [],
+    "body": "Ny tao là ai",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604414722967,
+    "messageReply": {
+        "threadID": "3582860828401758",
+        "messageID": "mid.$gAAy6l8r04F57v9bzCl1jpDZ3FuuZ",
+        "senderID": "100043875810510",
+        "attachments": [],
+        "body": "Mai mày ns câu đó vs ny  mày á",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604414712586
+    }
+}

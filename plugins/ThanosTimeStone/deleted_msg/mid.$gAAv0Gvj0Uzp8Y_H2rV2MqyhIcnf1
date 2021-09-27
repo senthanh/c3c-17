@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3364621426905914",
+    "messageID": "mid.$gAAv0Gvj0Uzp8Y_H2rV2MqyhIcnf1",
+    "senderID": "100045425352577",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1607167945000-38824.mp4",
+            "ID": "AT3bM0M46i04DQc5u0yW0N6iTHjXG7XUQe3NbnPqXkcyMiVcky3CN9ngb73HRYuvlqsGE3EylwxwyC9b86MBO19maV87fyGAv6MI5cIH5Vqo8IIwHEZ45AjsU2DIkf1JyWNtUpgH6I9Uud9rIKT03V3nWLI",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 38824,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/127059914_3060516560716258_3595316092200833469_n.mp4/audioclip-1607167945000-38824.mp4?_nc_cat=100&ccb=2&_nc_sid=7272a8&_nc_ohc=9f1qJVfnk_UAX9commY&_nc_ht=cdn.fbsbx.com&oh=ef263b7538be4301383996bc3e49b133&oe=5FCCE3B0&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607167946413,
+    "messageReply": {
+        "threadID": "3364621426905914",
+        "messageID": "mid.$gAAv0Gvj0Uzp8Y-_CTV2Mqp4RIBfw",
+        "senderID": "100055582698260",
+        "attachments": [],
+        "body": "Hiếp dâm lỗ 👂",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607167801933
+    }
+}

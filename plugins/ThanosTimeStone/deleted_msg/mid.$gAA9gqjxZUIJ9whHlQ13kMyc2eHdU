@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4328408923852930",
+    "messageID": "mid.$gAA9gqjxZUIJ9whHlQ13kMyc2eHdU",
+    "senderID": "100056204285293",
+    "attachments": [],
+    "body": "Bạn có thể nói chuyện bằng tiếng Anh không? Chỉ cần hỏi.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613042064707,
+    "messageReply": {
+        "threadID": "4328408923852930",
+        "messageID": "mid.$gAA9gqjxZUIJ9whGPe13kM0yw1jM3",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.redeem`?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613042042747
+    }
+}

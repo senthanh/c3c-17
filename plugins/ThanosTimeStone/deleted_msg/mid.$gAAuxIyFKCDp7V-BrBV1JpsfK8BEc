@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7V-BrBV1JpsfK8BEc",
+    "senderID": "100040544746762",
+    "attachments": [],
+    "body": "Cờ hó nhà  e",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602670502661,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7V8JhVV1Jn0RChc-r",
+        "senderID": "100021179799984",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "2628795987430455",
+                "filename": "image-2628795987430455",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/121484753_350579199356467_7154855053832748100_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=WiKIX1La9PsAX_11gb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=c764f3ec1d0c312fbd15f4bda78ffb27&oe=5FACB098",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121484753_350579199356467_7154855053832748100_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=WiKIX1La9PsAX_11gb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=c9bf4c7a947a13c7d946c9c464bacb20&oe=5FAD8582",
+                "previewWidth": 498,
+                "previewHeight": 280,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121484753_350579199356467_7154855053832748100_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=WiKIX1La9PsAX_11gb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2457d1016a08924de8b8c34e785da548&oe=5FABF687",
+                "largePreviewWidth": 853,
+                "largePreviewHeight": 480,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121484753_350579199356467_7154855053832748100_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=WiKIX1La9PsAX_11gb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2457d1016a08924de8b8c34e785da548&oe=5FABF687",
+                "width": 960,
+                "height": 540,
+                "name": "image-2628795987430455"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602668534101
+    }
+}

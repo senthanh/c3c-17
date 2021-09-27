@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4280865151997886",
+    "messageID": "mid.$gAA81bJa3V76B9RQNk17w866DId7l",
+    "senderID": "100065187620758",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "185875160310693",
+            "filename": "image-185875160310693",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/cp0/s50x50/241258301_185875163644026_4427631077391988292_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=-fVUdfz6n24AX_S0FFI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d060246cc24d8db9ec0eb9d397413860&oe=615FA1E7",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p280x280/241258301_185875163644026_4427631077391988292_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=-fVUdfz6n24AX_S0FFI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=fbab5f16c414eb2ab15b634a6a5a612b&oe=615CF1BD",
+            "previewWidth": 280,
+            "previewHeight": 299,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p480x480/241258301_185875163644026_4427631077391988292_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=-fVUdfz6n24AX_S0FFI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f4c3eea8323235cd6189a3fff280fe8e&oe=615C6FBC",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 513,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p480x480/241258301_185875163644026_4427631077391988292_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=-fVUdfz6n24AX_S0FFI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f4c3eea8323235cd6189a3fff280fe8e&oe=615C6FBC",
+            "width": 720,
+            "height": 770,
+            "name": "image-185875160310693"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631077713299,
+    "messageReply": {
+        "threadID": "4280865151997886",
+        "messageID": "mid.$gAA81bJa3V76B9RK8WF7w81kM_LUD",
+        "senderID": "100047353368033",
+        "attachments": [],
+        "body": "Kiếm anh nào đẹp trai hơn koi☺🙏",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631077626968
+    }
+}

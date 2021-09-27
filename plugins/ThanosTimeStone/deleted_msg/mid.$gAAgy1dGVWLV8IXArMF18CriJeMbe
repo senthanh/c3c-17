@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8IXArMF18CriJeMbe",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "OK! \r\nSay: @bot trá hình\r\nAnswer: [\"Tag nữa pay ặc\"]",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606052143920,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV8IXAoR118CrfuNGNH",
+        "senderID": "100050457827936",
+        "attachments": [],
+        "body": "!@Bot trá hình =>Tag nữa pay ặc",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606052143175
+    }
+}

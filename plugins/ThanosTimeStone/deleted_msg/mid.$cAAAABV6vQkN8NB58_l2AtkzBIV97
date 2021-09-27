@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "wget http://download1518.mediafire.com/6wwxizv74dqg/gytu7vcpuvesxhl/AssumeZero-Bot.rả",
+    "threadID": "100034811502390",
+    "messageID": "mid.$cAAAABV6vQkN8NB58_l2AtkzBIV97",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$cAAAABV6vQkN8NB58_l2AtkzBIV97",
+            "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fdownload1518.mediafire.com%2F6wwxizv74dqg%2Fgytu7vcpuvesxhl%2FAssumeZero-Bot.r%E1%BA%A3&h=AT12MAfqEtv1dMPR1RiJvCq4PGGMvrElFgSWndLjYMupnYI6zlI8zjIdZLBSJjpXrq7FBj_D4_SoG-q0YXHdnHWwI_hmt5_6-oMEzUYb5LH0w2Rs5NQjelJaJ36uDmiDXwkE3d70cVB6ytc&s=1",
+            "title": "download1518.mediafire.com",
+            "description": "",
+            "source": "download1518.mediafire.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "http://l.facebook.com/l.php?u=http%3A%2F%2Fdownload1518.mediafire.com%2F6wwxizv74dqg%2Fgytu7vcpuvesxhl%2FAssumeZero-Bot.r%E1%BA%A3&h=AT12MAfqEtv1dMPR1RiJvCq4PGGMvrElFgSWndLjYMupnYI6zlI8zjIdZLBSJjpXrq7FBj_D4_SoG-q0YXHdnHWwI_hmt5_6-oMEzUYb5LH0w2Rs5NQjelJaJ36uDmiDXwkE3d70cVB6ytc&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606365558014",
+    "isGroup": false
+}

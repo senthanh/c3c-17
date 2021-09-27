@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3385995948148061",
+    "messageID": "mid.$gAAwHi52zRV17W2WwIl1KiBnuygqx",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "SimSimi đã tiếp thu thành công!\nHỏi:  jang có yêu phi không\nTrả lời: jang yêu phi nhất lun mà ngại không nói ra đó",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602729568290,
+    "messageReply": {
+        "threadID": "3385995948148061",
+        "messageID": "mid.$gAAwHi52zRV17W2Wu2F1KiBg5ePU8",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".simteach “ jang có yêu phi không” “jang yêu phi nhất lun mà ngại không nói ra đó”",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602729567960
+    }
+}

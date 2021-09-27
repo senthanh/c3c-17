@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NGmlBV2AyRaxJ1a3",
+    "senderID": "100014716171553",
+    "attachments": [],
+    "body": "T có miệng",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606370483461,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8NGlFOF2AyP0BD5VR",
+        "senderID": "100014507767327",
+        "attachments": [],
+        "body": "Mệt quá Nhỏ ơi được rùi ko nói nữa!!!",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606370458936
+    }
+}

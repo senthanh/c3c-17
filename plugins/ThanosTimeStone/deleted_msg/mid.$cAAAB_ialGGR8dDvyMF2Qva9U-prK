@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "100056957830417",
+    "messageID": "mid.$cAAAB_ialGGR8dDvyMF2Qva9U-prK",
+    "senderID": "100056957830417",
+    "attachments": [],
+    "body": "T ôm",
+    "isGroup": false,
+    "mentions": {},
+    "timestamp": 1607441230384,
+    "messageReply": {
+        "threadID": "100056957830417",
+        "messageID": "mid.$cAAAB_ialGGR8dDvGrl2QvZ-ex-2i",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Dume lạnh quá",
+        "isGroup": false,
+        "mentions": {},
+        "timestamp": 1607441219246
+    }
+}

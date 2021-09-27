@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100056945994716",
+    "body": "Phạm Đức Phi, Trình độ xạo lờ của bạn đã thăng cấp lên lever 8!",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7z5KqHl1nk1X4iavG",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "690223018274647",
+            "filename": "gif-690223018274647",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "name": "gif-690223018274647",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=gxjv2oXQjTgAX_gR_UA&_nc_ht=cdn.fbsbx.com&oh=c4de60edca0300da0d273541fdfd1b65&oe=5FA6D2E7"
+        }
+    ],
+    "mentions": {
+        "100008884452271": "Phạm Đức Phi"
+    },
+    "timestamp": "1604678672926",
+    "isGroup": true
+}

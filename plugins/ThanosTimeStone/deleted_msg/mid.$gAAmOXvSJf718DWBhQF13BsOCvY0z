@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2689813271117757",
+    "messageID": "mid.$gAAmOXvSJf718DWBhQF13BsOCvY0z",
+    "senderID": "100034755796087",
+    "attachments": [],
+    "body": "! :",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605715564864,
+    "messageReply": {
+        "threadID": "2689813271117757",
+        "messageID": "mid.$gAAmOXvSJf718DWA7Ol13BrwJ1_iI",
+        "senderID": "100008468956916",
+        "attachments": [],
+        "body": "Lệnh nào kêu bot thế",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1605715555130
+    }
+}

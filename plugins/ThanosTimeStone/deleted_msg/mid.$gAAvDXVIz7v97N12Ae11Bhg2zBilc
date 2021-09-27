@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "!video https://youtu.be/T0KrtzzuyIw",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97N12Ae11Bhg2zBilc",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97N12Ae11Bhg2zBilc",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FT0KrtzzuyIw&h=AT3y7v-DJ13ynlYoNRSQl-f2m4F_mPZzvYwaWcGRJp0MAZqifTOS2bY8CKSJdtjyRCg3NcNInnpBQ3Iqt3QYbG1rwmYXF0VNIML7O-nF0xMV1QlipddxNf21R4Z8Gx1Ocz4RaxYRzyWtACY&s=1",
+            "title": "CÔ GÁI VÀNG - HuyR x Tùng Viu x Quang Đăng (HHD Remix) Nhạc Trẻ EDM TikTok Gây Nghiện Hay Nhất 2020",
+            "description": "CÔ GÁI VÀNG - HuyR x Tùng Viu x Quang Đăng (HHD Remix) Nhạc Trẻ EDM TikTok Gây Nghiện Hay Nhất 2020 MV Gốc: https://youtu.be/m2mR0osyqFI Project Manager: Gum...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_mt9FvzJgPEKi&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT0KrtzzuyIw%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQDRSAZpsGno91xG",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/T0KrtzzuyIw?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FT0KrtzzuyIw&h=AT3y7v-DJ13ynlYoNRSQl-f2m4F_mPZzvYwaWcGRJp0MAZqifTOS2bY8CKSJdtjyRCg3NcNInnpBQ3Iqt3QYbG1rwmYXF0VNIML7O-nF0xMV1QlipddxNf21R4Z8Gx1Ocz4RaxYRzyWtACY&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602125052027",
+    "isGroup": true
+}

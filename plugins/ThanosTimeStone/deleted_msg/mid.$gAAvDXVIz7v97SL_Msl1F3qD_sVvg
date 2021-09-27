@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97SL_Msl1F3qD_sVvg",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.updatebot`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602416706738,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97SL_KTl1F3qAIWSAe",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".enablebot",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602416706126
+    }
+}

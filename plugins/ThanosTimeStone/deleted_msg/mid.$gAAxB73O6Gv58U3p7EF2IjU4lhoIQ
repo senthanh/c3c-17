@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58U3p7EF2IjU4lhoIQ",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "445406013121103",
+            "filename": "image-445406013121103",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/126906284_372369460708118_8828882732065049029_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=XcWxyf_IacEAX__YxqC&_nc_oc=AQk-mjEUFBW9MoJrw7WeejQmP_8Osj8Ou9sN0I7RSU0Q4G27aaPy9QtH5-ghnjLJotA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=f3b1784d5897722f1c313a2a06031a66&oe=5FEDE110",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/126906284_372369460708118_8828882732065049029_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=XcWxyf_IacEAX__YxqC&_nc_oc=AQk-mjEUFBW9MoJrw7WeejQmP_8Osj8Ou9sN0I7RSU0Q4G27aaPy9QtH5-ghnjLJotA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ab258319edef2892097dd660f877f142&oe=5FEC5CDA",
+            "previewWidth": 280,
+            "previewHeight": 306,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/126906284_372369460708118_8828882732065049029_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=XcWxyf_IacEAX__YxqC&_nc_oc=AQk-mjEUFBW9MoJrw7WeejQmP_8Osj8Ou9sN0I7RSU0Q4G27aaPy9QtH5-ghnjLJotA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=6746446a11c802b0e72020aa4f8e672e&oe=5FECEA5F",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 524,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/126906284_372369460708118_8828882732065049029_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=XcWxyf_IacEAX__YxqC&_nc_oc=AQk-mjEUFBW9MoJrw7WeejQmP_8Osj8Ou9sN0I7RSU0Q4G27aaPy9QtH5-ghnjLJotA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=6746446a11c802b0e72020aa4f8e672e&oe=5FECEA5F",
+            "width": 1080,
+            "height": 1180,
+            "name": "image-445406013121103"
+        }
+    ],
+    "body": "Thu Nguyễn Trang thật là biến thái 😳",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606891680528,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58U3p1712IjUtcpAL1",
+        "senderID": "100045858840086",
+        "attachments": [],
+        "body": "!sexy",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606891679215
+    }
+}

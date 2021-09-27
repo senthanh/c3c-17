@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7XWs3X11LCXtWzyw3",
+    "senderID": "100036426361659",
+    "attachments": [],
+    "body": "ở ẩn trong tym thuỳ đó",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602763485023,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7XWsBml1LCW3GZ_dy",
+        "senderID": "100056224924413",
+        "attachments": [],
+        "body": "M mất tích di dau",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602763471258
+    }
+}

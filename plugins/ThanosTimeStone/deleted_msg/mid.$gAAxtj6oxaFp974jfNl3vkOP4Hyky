@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3498163523643482",
+    "messageID": "mid.$gAAxtj6oxaFp974jfNl3vkOP4Hyky",
+    "senderID": "100015674801416",
+    "attachments": [],
+    "body": "Sanaol bebe",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613804836662,
+    "messageReply": {
+        "threadID": "3498163523643482",
+        "messageID": "mid.$gAAxtj6oxaFp972tRTF3viYHNzujb",
+        "senderID": "100059931330446",
+        "attachments": [],
+        "body": "Ang alam ko hindi ganyan mag chat bebe quoh",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613802899788
+    }
+}

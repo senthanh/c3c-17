@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100047541841531",
+    "body": "",
+    "threadID": "3495675403851275",
+    "messageID": "mid.$gAAxrTFqyVgt8Xhikx12LNNY2rqij",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "237317987087861",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36888643_237317990421194_8509846951011811328_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=Ht3mwzPEp_IAX_AbNBg&_nc_oc=AQmB3rM1fBwDClofEY4Ape75LINheBxZpq3O8ElWAOZ6Bz4xmpD5uWIp5aCjO63hfTA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=001dc84f86f6da0ab8a6a21e84f6d2c0&oe=5FF0B943",
+            "packID": "237317020421291",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36888985_237317993754527_4132633780072480768_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=mB93EXRbtIQAX_dS67E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=00281a1fd79efe0505a3fc90b58ca77d&oe=5FEF1BF7"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36888985_237317993754527_4132633780072480768_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=mB93EXRbtIQAX_dS67E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8d972ae0f7080962c5490271316db05b&oe=5FF16E21"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "sweating, cat sweating ",
+            "description": "sweating, cat sweating ",
+            "frameCount": 12,
+            "frameRate": 83,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "237317987087861",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36888985_237317993754527_4132633780072480768_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=mB93EXRbtIQAX_dS67E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=00281a1fd79efe0505a3fc90b58ca77d&oe=5FEF1BF7"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36888985_237317993754527_4132633780072480768_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=mB93EXRbtIQAX_dS67E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8d972ae0f7080962c5490271316db05b&oe=5FF16E21"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607069818055",
+    "isGroup": true
+}

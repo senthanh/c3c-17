@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2652799344753854",
+    "messageID": "mid.$gAAlstPqavL58Yg-O5V2MMpFqqYIi",
+    "senderID": "100038071817569",
+    "attachments": [],
+    "body": "Dụ gù v má",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607136331493,
+    "messageReply": {
+        "threadID": "2652799344753854",
+        "messageID": "mid.$gAAlstPqavL58Yg82Ll2MMnox2ntX",
+        "senderID": "100014462860524",
+        "attachments": [],
+        "body": "Ai muốn thử vị son thì hay hôn em",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607136308782
+    }
+}

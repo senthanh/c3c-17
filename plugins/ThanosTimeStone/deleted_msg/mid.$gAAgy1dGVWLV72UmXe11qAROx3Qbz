@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV72UmXe11qAROx3Qbz",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng !help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `!corona`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604841656187,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV72UmUdl1qARGtba31",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!on",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604841655414
+    }
+}

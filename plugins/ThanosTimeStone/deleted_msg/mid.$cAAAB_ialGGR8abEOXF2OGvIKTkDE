@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "100056957830417",
+    "messageID": "mid.$cAAAB_ialGGR8abEOXF2OGvIKTkDE",
+    "senderID": "100056957830417",
+    "attachments": [],
+    "body": "Fuck cái mó llll ấy mà fuck",
+    "isGroup": false,
+    "mentions": {},
+    "timestamp": 1607264355932,
+    "messageReply": {
+        "threadID": "100056957830417",
+        "messageID": "mid.$cAAAB_ialGGR8abCevl2OGtWN2Kn2",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "What the fuck",
+        "isGroup": false,
+        "mentions": {},
+        "timestamp": 1607264327358
+    }
+}

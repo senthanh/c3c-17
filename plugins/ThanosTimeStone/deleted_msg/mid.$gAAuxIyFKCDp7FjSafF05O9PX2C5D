@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008240838935",
+    "body": "https://vt.tiktok.com/ZSupjwXX/",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7FjSafF05O9PX2C5D",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAuxIyFKCDp7FjSafF05O9PX2C5D",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSupjwXX%2F&h=AT0HFE6RLWShR64imdzvNbdboiO58ZwjYphm5WTeg49169eur3vJgckH2QhWiotQ86hDjjme-mQDL8n8u5wErSmPPyomkBp-4EOwU_kaAJBsbrk3DJZ7zfweGaiQ__T7S78nALc812YDbBc&s=1",
+            "title": "Cô Lài phong thủy on TikTok",
+            "description": "follow và comment tháng sinh của bạn vào nhé #phongthuy #tamlinh #nguyenlai",
+            "source": "t.tiktok.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQB7y400VI_D9Z3b&w=540&h=960&url=https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Fv0201%2F1ac4071a532c4b568657025599231e7c_1597208564%7Etplv-tiktok-play2.jpeg%3Fx-expires%3D1601589600%26x-signature%3D%252Fa4o%252BmK%252BDWHi3v2KDggCnobmRzc%253D&_nc_cb=1&_nc_hash=AQBx0sTWTjqIMUDm",
+            "width": 540,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "576",
+                "height": "1024"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSupjwXX%2F&h=AT0HFE6RLWShR64imdzvNbdboiO58ZwjYphm5WTeg49169eur3vJgckH2QhWiotQ86hDjjme-mQDL8n8u5wErSmPPyomkBp-4EOwU_kaAJBsbrk3DJZ7zfweGaiQ__T7S78nALc812YDbBc&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1601568723580",
+    "isGroup": true
+}

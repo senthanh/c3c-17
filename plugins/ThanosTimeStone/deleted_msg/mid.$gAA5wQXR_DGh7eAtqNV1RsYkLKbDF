@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100053705856045",
+    "body": "!video .play https://youtu.be/AMr3rGd_FPY",
+    "threadID": "4064076103617640",
+    "messageID": "mid.$gAA5wQXR_DGh7eAtqNV1RsYkLKbDF",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA5wQXR_DGh7eAtqNV1RsYkLKbDF",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FAMr3rGd_FPY&h=AT1OHCvaGDDA6RyNH8uImW4VV19PuLjEvS34CYjtEKD9ZMlZC54rTM7TecjesbEbpGyIIOFJCyfJBQ-EVP_Xa5ELBF5kWSxQBUCgmpoKN6yt51Rqeds0Fj-6_8NLnDvfAJ94Q2hwS-lVbIA&s=1",
+            "title": "Đức Phúc Và Miếng Steak Đuồi Bầu",
+            "description": "Remember, you clicked on my face Ủng hộ : SACOMBANK 0200 7449 2410 Pham Xuan Huy Paypal : Ljlbuu1412@gmail.com https://unghotoi.com/teupham Tều Phạm Online :...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQB-syibGHNhvCDB&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMr3rGd_FPY%2Fmaxresdefault.jpg&sx=0&sy=0&sw=1280&sh=720&_nc_cb=1&_nc_hash=AQDjL9nDHfMgq21z",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/AMr3rGd_FPY?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FAMr3rGd_FPY&h=AT1OHCvaGDDA6RyNH8uImW4VV19PuLjEvS34CYjtEKD9ZMlZC54rTM7TecjesbEbpGyIIOFJCyfJBQ-EVP_Xa5ELBF5kWSxQBUCgmpoKN6yt51Rqeds0Fj-6_8NLnDvfAJ94Q2hwS-lVbIA&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603210191413",
+    "isGroup": true
+}

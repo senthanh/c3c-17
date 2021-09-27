@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100022089572931",
+    "body": "@Hiếu Nguyễn e xong cái chuỗi r này a trai =)))",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58YtnkkF2MZS2kkDMc",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1074511749646601",
+            "filename": "image-1074511749646601",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/129266726_1074511752979934_292320354811516260_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=kceXsNZBLtQAX91BA5k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=95d79e2fff1fcdcb73cac73149707846&oe=5FF297D0",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/129266726_1074511752979934_292320354811516260_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=kceXsNZBLtQAX91BA5k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=5f1f788db61e974c4c0a9dada4c7dd04&oe=5FF10A5A",
+            "previewWidth": 498,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129266726_1074511752979934_292320354811516260_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=kceXsNZBLtQAX91BA5k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=8a4e36a303b320a256ae8638738fef8f&oe=5FEF585F",
+            "largePreviewWidth": 853,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/129266726_1074511752979934_292320354811516260_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=kceXsNZBLtQAX91BA5k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=8a4e36a303b320a256ae8638738fef8f&oe=5FEF585F",
+            "width": 1920,
+            "height": 1080,
+            "name": "image-1074511749646601"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607149591696",
+    "isGroup": true
+}

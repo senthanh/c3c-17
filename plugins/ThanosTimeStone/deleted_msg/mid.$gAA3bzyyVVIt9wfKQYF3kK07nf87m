@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3900857549935755",
+    "messageID": "mid.$gAA3bzyyVVIt9wfKQYF3kK07nf87m",
+    "senderID": "100054225160376",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1613040009000-3135.mp4",
+            "ID": "AT3Bn-b5rELeus_PzJjhPSdi0nVXtAZWcjfY1yCVmNWCjnHehUQTr32d7OzEZSYQwgcinfYvj7t-I3ACSxTC4IgzGJa9CC_rSkhcobT4JU6WtR8rKTTJyUbEpHa3CKvsTJKpH-_KBw2gaCyloGBQ--gp10g",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 3135,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/147810158_1144405962662358_907993393625540894_n.mp4/audioclip-1613040009000-3135.mp4?_nc_cat=101&ccb=3&_nc_sid=7272a8&_nc_ohc=rzjqK66JkYkAX8mFOI-&_nc_ht=cdn.fbsbx.com&oh=d536522a4465b659059ce93985d6f2ce&oe=6025EFFB&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613040011360,
+    "messageReply": {
+        "threadID": "3900857549935755",
+        "messageID": "mid.$gAA3bzyyVVIt9wfI0B13kKzrXROun",
+        "senderID": "100061321154663",
+        "attachments": [],
+        "body": "Tangina, zexi boboccaba? Malamang ka hood sinong kahood 'di IPAGTATANGGOL tangahan mo gago mamatay kana sana ang bobo mo",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613039987719
+    }
+}

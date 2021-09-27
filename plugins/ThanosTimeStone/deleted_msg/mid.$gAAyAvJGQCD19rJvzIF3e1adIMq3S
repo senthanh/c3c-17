@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3519247104870461",
+    "messageID": "mid.$gAAyAvJGQCD19rJvzIF3e1adIMq3S",
+    "senderID": "100062885693509",
+    "attachments": [],
+    "body": "Maganda si devy",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612682013472,
+    "messageReply": {
+        "threadID": "3519247104870461",
+        "messageID": "mid.$gAAyAvJGQCD19rJt8IV3e1cd1jTUz",
+        "senderID": "100022547652883",
+        "attachments": [],
+        "body": "C3CBot | Connected. \r\nSử dụng `.help [trang số]` để xem toàn bộ lệnh.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612681983009
+    }
+}

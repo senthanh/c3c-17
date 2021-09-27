@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv57s0XQIV1ggCHm0zAD",
+    "senderID": "100056747575972",
+    "attachments": [],
+    "body": "( _/)\n( •_•)\n// >🧠  nè lắp vào mà dùng cho bớt ngu rồi hãy sài bot nha.\n\nCó phải bạn muốn nhập lệnh `-calladmin`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604203874337,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv57s0XOJ11ggCFMuk2m",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "-admin unbanThread",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604203873831
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3355319631262287",
+    "messageID": "mid.$gAAvrpTq6sk98c7xVSl2QncI8WgLL",
+    "senderID": "100045660589374",
+    "attachments": [],
+    "body": "@Nguyễn Hiếu  ny dỗi rồi kìa e dỗ đi :vvv",
+    "isGroup": true,
+    "mentions": {
+        "100052865955307": "@Nguyễn Hiếu"
+    },
+    "timestamp": 1607432867146,
+    "messageReply": {
+        "threadID": "3355319631262287",
+        "messageID": "mid.$gAAvrpTq6sk98c7wTuV2QnbJnttcc",
+        "senderID": "100024571445450",
+        "attachments": [],
+        "body": "Hk cần 😀",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607432850361
+    }
+}

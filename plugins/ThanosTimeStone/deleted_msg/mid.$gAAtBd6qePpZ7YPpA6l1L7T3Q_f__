@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100024857531165",
+    "body": "yt2mp3 https://youtu.be/JRfuAukYTKg",
+    "threadID": "3168206963228310",
+    "messageID": "mid.$gAAtBd6qePpZ7YPpA6l1L7T3Q_f__",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAtBd6qePpZ7YPpA6l1L7T3Q_f__",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJRfuAukYTKg&h=AT17tm3G_cm1aCDz25rhxR84CZhaiZdSXX7YuRZglCd-PNBxOOeKpaTFwW7qwArm1lM3KdALEOjHB0yAYpOiPlyCj3JcWQFJZGOXhSmU5HMB98Q2w-I4VDpq84IfEeBjzu_ryoqoZuWBTlk&s=1",
+            "title": "David Guetta - Titanium ft. Sia (Official Video)",
+            "description": "BUY/LISTEN THE NEW DAVID GUETTA ALBUM NOW : https://davidguetta.lnk.to/Album7AY SUBSCRIBE for more David Guetta: http://goo.gl/4PzzTj Order the CD on Amazon ...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDJ5TYfBaIm7856&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJRfuAukYTKg%2Fhqdefault.jpg&sx=0&sy=0&sw=480&sh=360&_nc_cb=1&_nc_hash=AQDc06SGK3r1rHHT",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/JRfuAukYTKg?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJRfuAukYTKg&h=AT17tm3G_cm1aCDz25rhxR84CZhaiZdSXX7YuRZglCd-PNBxOOeKpaTFwW7qwArm1lM3KdALEOjHB0yAYpOiPlyCj3JcWQFJZGOXhSmU5HMB98Q2w-I4VDpq84IfEeBjzu_ryoqoZuWBTlk&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602823190762",
+    "isGroup": true
+}

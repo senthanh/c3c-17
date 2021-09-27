@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV72WKybV1qB1jINeyl",
+    "senderID": "100048944291189",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "381442826334955",
+            "filename": "image-381442826334955",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CJ1XpfXvnakAX_ZCiIr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b64e10a78af3c523acb84b6cbddd1b97&oe=5FCEB8BB",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CJ1XpfXvnakAX_ZCiIr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=36196ec8bb0eb0fcb2e42379eb6add41&oe=5FCD3104",
+            "previewWidth": 396,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CJ1XpfXvnakAX_ZCiIr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c43f5232bd09c7116b6bcae4c91f2d2&oe=5FCCD646",
+            "largePreviewWidth": 640,
+            "largePreviewHeight": 452,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CJ1XpfXvnakAX_ZCiIr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c43f5232bd09c7116b6bcae4c91f2d2&oe=5FCCD646",
+            "width": 640,
+            "height": 452,
+            "name": "image-381442826334955"
+        }
+    ],
+    "body": "@Phúc Nguyễn, Đã bị giết 😈",
+    "isGroup": true,
+    "mentions": {
+        "100048007003412": "@Phúc Nguyễ"
+    },
+    "timestamp": 1604843301485,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV72WKcPF1qB1RME5JM",
+        "senderID": "100047824712025",
+        "attachments": [],
+        "body": "!kill @Phúc Nguyễn",
+        "isGroup": true,
+        "mentions": {
+            "100048007003412": "@Phúc Nguyễn"
+        },
+        "timestamp": 1604843295804
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3256631254448484",
+    "messageID": "mid.$gAAuR440V-WR98J--t13v1pw9zV5h",
+    "senderID": "100056300076483",
+    "attachments": [],
+    "body": "Wala akong ganyan.☺️🤞",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613823112887,
+    "messageReply": {
+        "threadID": "3256631254448484",
+        "messageID": "mid.$gAAuR440V-WR98J999F3v1o1bILV_",
+        "senderID": "100049416380017",
+        "attachments": [],
+        "body": "Nasa susu mo nag kakapi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613823096308
+    }
+}

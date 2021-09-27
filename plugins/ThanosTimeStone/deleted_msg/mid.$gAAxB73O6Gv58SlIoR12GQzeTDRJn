@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100057216024905",
+    "body": "Chào mừng Đậu Phụ Nè đến với C3C BOT - Member Create Group.\nBạn là thành viên thứ 71 của nhóm 🥳🥳🥳.",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58SlIoR12GQzeTDRJn",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "1018937261913889",
+            "filename": "gif-1018937261913889",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "previewWidth": 800,
+            "previewHeight": 722,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "width": 800,
+            "height": 722,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "name": "gif-1018937261913889",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/65164369_2436289219984989_5887430569653960704_n.gif?_nc_cat=105&ccb=2&_nc_sid=041f46&_nc_ohc=89C1SHDX-mMAX_2DjzW&_nc_ht=cdn.fbsbx.com&oh=37c89e29ccea332cbc290589b8c90b88&oe=5FC642A5"
+        }
+    ],
+    "mentions": {
+        "100022263186510": "Đậu Phụ Nè"
+    },
+    "timestamp": "1606738042951",
+    "isGroup": true
+}

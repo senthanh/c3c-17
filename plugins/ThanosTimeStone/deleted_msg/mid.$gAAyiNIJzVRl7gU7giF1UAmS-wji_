@@ -1,0 +1,49 @@
+{
+    "type": "message",
+    "senderID": "100013625022563",
+    "body": "",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7gU7giF1UAmS-wji_",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyiNIJzVRl7gU7giF1UAmS-wji_",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D10.7882559%252C%2B106.5975256%26FORM%3DFBKPL1%26mkt%3Den-US&h=AT3lpZedxrbmeVVIBypnm78uq2JF21Fpl2t3waosEjPtX7kE5VyhfLgK5QEofWyy4Ryy4akevhI-brPgjRiQXjZ01eMvHQnpaaCiZmsLQ3rhl1XUAW2ZWEVWVZWO8ybOt76An_Qr00W3KeM&s=1",
+            "title": "Thành phố Hồ Chí Minh",
+            "description": "Chia sẻ trong 60 phút.",
+            "source": null,
+            "image": "https://external.xx.fbcdn.net/static_map.php?v=2007&osm_provider=2&size=545x280&zoom=15&markers=10.78825590%2C106.59752560&language=en",
+            "width": 545,
+            "height": 280,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D10.7882559%252C%2B106.5975256%26FORM%3DFBKPL1%26mkt%3Den-US&h=AT3lpZedxrbmeVVIBypnm78uq2JF21Fpl2t3waosEjPtX7kE5VyhfLgK5QEofWyy4Ryy4akevhI-brPgjRiQXjZ01eMvHQnpaaCiZmsLQ3rhl1XUAW2ZWEVWVZWO8ybOt76An_Qr00W3KeM&s=1",
+            "target": {
+                "__typename": "MessageLiveLocation",
+                "live_location_id": "1005374239926734",
+                "is_expired": false,
+                "expiration_time": 1603369206,
+                "sender": {
+                    "id": "100013625022563"
+                },
+                "coordinate": {
+                    "latitude": 10.7882559,
+                    "longitude": 106.5975256
+                },
+                "location_title": "Thành phố Hồ Chí Minh",
+                "sender_destination": null,
+                "stop_reason": null
+            },
+            "styleList": [
+                "message_live_location",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603365607560",
+    "isGroup": true
+}

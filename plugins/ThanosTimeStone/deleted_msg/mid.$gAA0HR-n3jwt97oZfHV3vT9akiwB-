@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3667180146626315",
+    "messageID": "mid.$gAA0HR-n3jwt97oZfHV3vT9akiwB-",
+    "senderID": "100059753667148",
+    "attachments": [],
+    "body": "Wla nga.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613787895581,
+    "messageReply": {
+        "threadID": "3667180146626315",
+        "messageID": "mid.$gAA0HR-n3jwt97oYLOF3vUC-3SVWJ",
+        "senderID": "100055721752870",
+        "attachments": [],
+        "body": "Kaya pala may gusto ka sakin",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613787874104
+    }
+}

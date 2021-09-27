@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57TU4aHF1HAjRiVXd7",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.csim`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602493141532,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57TU4YAF1HAjE1ZcIc",
+        "senderID": "100052947053209",
+        "attachments": [],
+        "body": ".ssim hề lố",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602493140992
+    }
+}

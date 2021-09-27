@@ -1,0 +1,40 @@
+{
+    "type": "message_reply",
+    "threadID": "2903857283059278",
+    "messageID": "mid.$gAApRCvXVzk57TD5Wwl1GvkKs-dV-",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "646119149420556",
+            "filename": "image-646119149420556",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/121130318_646119152753889_8881559024845412721_n.png?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=mB7C0tu45MAAX8Ris4S&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=213a1a404b1188b000617497beab16f3&oe=5FA7958A",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121130318_646119152753889_8881559024845412721_n.png?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=mB7C0tu45MAAX8Ris4S&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a138785d35cb66b4ba1e5b72077ef369&oe=5FA842DA",
+            "previewWidth": 447,
+            "previewHeight": 247,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121130318_646119152753889_8881559024845412721_n.png?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=mB7C0tu45MAAX8Ris4S&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a138785d35cb66b4ba1e5b72077ef369&oe=5FA842DA",
+            "largePreviewWidth": 447,
+            "largePreviewHeight": 247,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/121130318_646119152753889_8881559024845412721_n.png?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=mB7C0tu45MAAX8Ris4S&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a138785d35cb66b4ba1e5b72077ef369&oe=5FA842DA",
+            "width": 447,
+            "height": 247,
+            "name": "image-646119149420556"
+        }
+    ],
+    "body": "Thich nha <333333",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602475331266,
+    "messageReply": {
+        "threadID": "2903857283059278",
+        "messageID": "mid.$gAApRCvXVzk57TD5GVl1Gvj8fO-RH",
+        "senderID": "100005682975069",
+        "attachments": [],
+        "body": ".bucu @Phi Phạm Đức",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phi Phạm Đức"
+        },
+        "timestamp": 1602475327062
+    }
+}

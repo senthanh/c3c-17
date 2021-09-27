@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58Xthg_F2LZMUBdJVo",
+    "senderID": "100009452017523",
+    "attachments": [],
+    "body": "3",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607082383612,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58XtcWvV2LZHMt5cTd",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": ">> Cửa hàng câu cá <<\n---------------------\n[1] Nâng cấp cần câu\n[2] Sửa chữa cần câu\n[3] Mua cần câu mới\n[4] Mua mồi nhử\n[5] Nâng cấp mồi nhử",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607082299069
+    }
+}

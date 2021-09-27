@@ -1,0 +1,54 @@
+{
+    "testmode": false,
+    "botname": "Senthanh",
+    "enablefb": true,
+    "usefbappstate": true,
+    "fbemail": "",
+    "fbpassword": "",
+    "fb2fasecret": "BASE32OFSECRETKEY",
+    "fbuseragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063",
+    "fblistenwhitelist": false,
+    "fblisten": [
+        "0"
+    ],
+    "facebookAutoRestartLoggedOut": true,
+    "facebookProxy": null,
+    "facebookProxyUseSOCKS": false,
+    "facebookAllowOptionalResponseNoDelay": true,
+    "facebookResponseDelayPerChar": 30,
+    "portSOCK2HTTP": 0,
+    "addressSOCK2HTTP": "127.0.0.1",
+    "enablediscord": false,
+    "discordtoken": "",
+    "discordlistenwhitelist": false,
+    "discordlisten": [
+        "0"
+    ],
+    "admins": [
+        "10005752793",
+        "DC-0"
+    ],
+    "blacklistedUsers": [
+        "FB-0",
+        "DC-0"
+    ],
+    "allowAdminUseRestartCommand": true,
+    "allowAdminUseShutdownCommand": false,
+    "allowUserUsePluginsCommand": true,
+    "allowUserUseReloadCommand": false,
+    "language": "vi_VN",
+    "allowEveryoneTagEvenBlacklisted": true,
+    "DEBUG_FCA_LOGLEVEL": "error",
+    "enableSSHRemoteConsole": false,
+    "sshRemoteConsoleIP": "0.0.0.0",
+    "sshRemoteConsolePort": 2004,
+    "sshUsername": "admin",
+    "sshPassword": "c3cbot@ADMIN",
+    "commandPrefix": "/",
+    "autoUpdate": false,
+    "autoUpdateTimer": 60,
+    "configVersion": 1,
+    "hideUnknownCommandMessage": false,
+    "enableMetric": true,
+    "sendInterfaceInfoToMetric": false
+}

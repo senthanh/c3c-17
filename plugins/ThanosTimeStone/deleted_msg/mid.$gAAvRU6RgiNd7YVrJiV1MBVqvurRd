@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7YVrJiV1MBVqvurRd",
+    "senderID": "100011808452199",
+    "attachments": [],
+    "body": "Gì màu giống cây chổi z😀",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602829517193,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7YVpiBF1MBUKb_9jz",
+        "senderID": "100011608697846",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "346581509887159",
+                "filename": "image-346581509887159",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/121425109_346581516553825_5557511600449130853_n.png?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=RL4n7YSjJU8AX9Ibrta&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=26dc51b7eacf766d1b67f4c218a25f92&oe=5FAF90EE",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121425109_346581516553825_5557511600449130853_n.png?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=RL4n7YSjJU8AX9Ibrta&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=cf4be0408bf8022202ba9ffdc70fc352&oe=5FAD71FC",
+                "previewWidth": 280,
+                "previewHeight": 384,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121425109_346581516553825_5557511600449130853_n.png?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=RL4n7YSjJU8AX9Ibrta&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c75eb51ef15dcc2bfe276f84865d88d&oe=5FB0977D",
+                "largePreviewWidth": 480,
+                "largePreviewHeight": 658,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121425109_346581516553825_5557511600449130853_n.png?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=RL4n7YSjJU8AX9Ibrta&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2c75eb51ef15dcc2bfe276f84865d88d&oe=5FB0977D",
+                "width": 1374,
+                "height": 1883,
+                "name": "image-346581509887159"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602829490692
+    }
+}

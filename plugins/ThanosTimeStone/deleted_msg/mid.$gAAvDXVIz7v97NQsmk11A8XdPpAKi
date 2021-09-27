@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "/adduser https://www.facebook.com/quynhtrang.hoang.564",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97NQsmk11A8XdPpAKi",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97NQsmk11A8XdPpAKi",
+            "url": "https://www.facebook.com/quynhtrang.hoang.564",
+            "title": "Trang Trang",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/118654214_324081978905066_2551717982152723151_n.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_ohc=ZCbkJFgGySAAX_ck5Yd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a96a38dd7bb4d290f83d90cf1bca298e&oe=5FA4E5C2",
+            "width": 720,
+            "height": 720,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/quynhtrang.hoang.564",
+            "target": {
+                "__typename": "User",
+                "id": "100039097988451",
+                "name": "Trang Trang",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/118654214_324081978905066_2551717982152723151_n.jpg?_nc_cat=106&_nc_sid=7206a8&_nc_ohc=ZCbkJFgGySAAX_ck5Yd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=73afa766505df9d9c66611cb2833b822&oe=5FA31B99"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/118401223_317593429553921_408198239434425008_n.jpg?_nc_cat=111&_nc_sid=e3f864&_nc_ohc=WtpeCrPN720AX9jUtPg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=bec05ed96979431e24ed1d42ac1fd84c&oe=5FA4155C"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "IS_SUBSCRIBED"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602086100627",
+    "isGroup": true
+}

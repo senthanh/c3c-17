@@ -1,0 +1,41 @@
+{
+    "type": "message_reply",
+    "threadID": "3705130036164214",
+    "messageID": "mid.$gAA0py8-m9nZ8EcxSIV14Ib9KtjHs",
+    "senderID": "100056861962835",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "3459846307468517",
+            "filename": "gif-3459846307468517",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "previewWidth": 500,
+            "previewHeight": 281,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "width": 500,
+            "height": 281,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "name": "gif-3459846307468517",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/53534406_1282986635193518_8053372913350344704_n.gif?_nc_cat=111&ccb=2&_nc_sid=041f46&_nc_ohc=cbCE6UphGkUAX9OCRuU&_nc_ht=cdn.fbsbx.com&oh=d1f6637e7e5acc9985a7fccb2cc27c99&oe=5FB7D497"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605789747745,
+    "messageReply": {
+        "threadID": "3705130036164214",
+        "messageID": "mid.$gAA0py8-m9nZ8Ecw-f114IbxjPKvK",
+        "senderID": "100054632482476",
+        "attachments": [],
+        "body": "*anime baka",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1605789742719
+    }
+}

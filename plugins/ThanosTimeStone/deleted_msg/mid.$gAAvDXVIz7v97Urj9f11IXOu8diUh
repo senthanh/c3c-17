@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100043543509464",
+    "body": "!audio https://youtu.be/dAahjLEnpc4",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Urj9f11IXOu8diUh",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97Urj9f11IXOu8diUh",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FdAahjLEnpc4&h=AT0kYk-PMk5nqBLnuPHgjzlg1pVgJIrJ8ZqkIj8cdjjHIH2Vl0HZyY0MVi_psvhifJ1bVarkg0dGlvCuV0ORloS4IxvmBVbbhNT5crtXgjvyWgODIEhxjBFKOpDiAsn46qJ7FB0gXcjN5iA&s=1",
+            "title": "[Lyric HD] Hành Thiện - B-Ray ( Prod. Danny EB )",
+            "description": "Link SC : https://soundcloud.com/yunbray/hanh-thien-b-ray ------------ FB B-Ray : https://www.facebook.com/bao.tran.376695 FP B-Ray : https://www.facebook.co...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQCK6uyM8zVuxPum&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdAahjLEnpc4%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQB8dLXfat3Z0Fk0",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/dAahjLEnpc4?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FdAahjLEnpc4&h=AT0kYk-PMk5nqBLnuPHgjzlg1pVgJIrJ8ZqkIj8cdjjHIH2Vl0HZyY0MVi_psvhifJ1bVarkg0dGlvCuV0ORloS4IxvmBVbbhNT5crtXgjvyWgODIEhxjBFKOpDiAsn46qJ7FB0gXcjN5iA&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602584032639",
+    "isGroup": true
+}

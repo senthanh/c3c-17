@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100056747575972",
+    "body": "Pham Thanh Tung vừa gỡ một tệp đính kèm.",
+    "threadID": "100013625022563",
+    "messageID": "mid.$cAAAB9npyEsd7tO5t_F1g6klP8WaY",
+    "attachments": [],
+    "mentions": {
+        "100013625022563": "Pham Thanh Tung"
+    },
+    "timestamp": "1604231702012",
+    "isGroup": false
+}

@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100022089572931",
+    "body": ".setmoney @Wendy Võ 123456789",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58ZAwabl2MsbskitNe",
+    "attachments": [],
+    "mentions": {
+        "100008698659285": "@Wendy Võ"
+    },
+    "timestamp": "1607169659502",
+    "isGroup": true
+}

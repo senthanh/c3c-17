@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv57usNZ4F1iX4MGntU1",
+    "senderID": "100048944291189",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "2720144098247486",
+            "filename": "image-2720144098247486",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ece97e1b459ece2b7206274e885dc1bb&oe=5FC6CFBB",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=dd9c981ed3b62ac7c28f4bb7fbf01ffd&oe=5FC54804",
+            "previewWidth": 396,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5dea369f0946fdde0eec0d73606f5682&oe=5FC4ED46",
+            "largePreviewWidth": 640,
+            "largePreviewHeight": 452,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122462734_3401164746657050_392010819076113944_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=CvYNn3Z1tmQAX-EiHWq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5dea369f0946fdde0eec0d73606f5682&oe=5FC4ED46",
+            "width": 640,
+            "height": 452,
+            "name": "image-2720144098247486"
+        }
+    ],
+    "body": "@Nguyễn Văn Bằng, Đã bị giết 😈",
+    "isGroup": true,
+    "mentions": {
+        "100008628047634": "@Nguyễn Văn Bằn"
+    },
+    "timestamp": 1604329542112,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv57usNDZl1iX3zAouqH",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!kill @Nguyễn Văn Bằng",
+        "isGroup": true,
+        "mentions": {
+            "100008628047634": "@Nguyễn Văn Bằng"
+        },
+        "timestamp": 1604329536358
+    }
+}

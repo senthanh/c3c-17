@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3123104641110266",
+    "messageID": "mid.$gAAsYcna60Pp7ORvmI11B9aX58txM",
+    "senderID": "100050994732413",
+    "attachments": [],
+    "body": ".csim kick Nhật Hạ ra khỏi nhóm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602154307107,
+    "messageReply": {
+        "threadID": "3123104641110266",
+        "messageID": "mid.$gAAsYcna60Pp7ORrmzl1B9WeasngP",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": "Câu này sim chưa được dạy, bạn có thể dạy sim không ạ 😘",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602154241742
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8Nbbwy12BHGnyrvlV",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Bot đang tắt. Không chỉ cách bật đâu, đừng có mơ lewlew.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606392326347,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV8NbbuBl2BHGghj8r8",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!emoji 😭",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606392325638
+    }
+}

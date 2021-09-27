@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7gBhXe11TtMMMq7hZ",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1072531543175765",
+            "filename": "image-1072531543175765",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/122184894_1072531546509098_2217163635741294049_n.png?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=wgq37EVzgWsAX8rcR7_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=4440ad196eca68e38c7301a8d5e90999&oe=5FB67D4E",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122184894_1072531546509098_2217163635741294049_n.png?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=wgq37EVzgWsAX8rcR7_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=69766caa3e25bbcb2694a2038d7a7c00&oe=5FB52AD7",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122184894_1072531546509098_2217163635741294049_n.png?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=wgq37EVzgWsAX8rcR7_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8238f0aceb93a7f212490b9ac4dec2bd&oe=5FB57FC6",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122184894_1072531546509098_2217163635741294049_n.png?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=wgq37EVzgWsAX8rcR7_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8238f0aceb93a7f212490b9ac4dec2bd&oe=5FB57FC6",
+            "width": 720,
+            "height": 720,
+            "name": "image-1072531543175765"
+        }
+    ],
+    "body": "💔💔  Lalisa Manoban không yêu thì thôi! Chia tay sớm bớt đau khổ 💔💔",
+    "isGroup": true,
+    "mentions": {
+        "100018087085661": "💔💔  Lalisa "
+    },
+    "timestamp": 1603345256315,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7gBhKV11TtMBR_7cs",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".nolove @Bảo Anh đã xóa bạn ra khỏi nhóm.",
+        "isGroup": true,
+        "mentions": {
+            "100018087085661": "@Bảo Anh đã xóa bạn ra khỏi nhóm."
+        },
+        "timestamp": 1603345252951
+    }
+}

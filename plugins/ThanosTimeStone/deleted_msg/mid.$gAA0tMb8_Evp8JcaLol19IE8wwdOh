@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8JcaLol19IE8wwdOh",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Em chuyển qua Như rồi mà ko phải hả",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606124913570,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8JcYf7V19IDaG-Ir3",
+        "senderID": "100055093862912",
+        "attachments": [],
+        "body": "Em bỏ hồi nào",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606124885997
+    }
+}

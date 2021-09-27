@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4497792193626924",
+    "messageID": "mid.$gAA_6t9n5gyx7dyJKu11Rdz-MLgDO",
+    "senderID": "100042761512885",
+    "attachments": [],
+    "body": "Khi chiều  anh nói gì  đó  văn  thuận  ơi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603194913467,
+    "messageReply": {
+        "threadID": "4497792193626924",
+        "messageID": "mid.$gAA_6t9n5gyx7dyGsXl1RdxhUs4-E",
+        "senderID": "100031731582713",
+        "attachments": [],
+        "body": "@Đinh Thị Huệ spam v sao chị k nói gì",
+        "isGroup": true,
+        "mentions": {
+            "100046821580175": "@Đinh Thị Huệ"
+        },
+        "timestamp": 1603194872926
+    }
+}

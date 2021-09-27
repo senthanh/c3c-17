@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "2859672090826459",
+    "messageID": "mid.$gAAoo20sl1tt8Wie-F12KOJ1RVom8",
+    "senderID": "100044952131929",
+    "attachments": [],
+    "body": "Mk ko có chữ này",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607003698711,
+    "messageReply": {
+        "threadID": "2859672090826459",
+        "messageID": "mid.$gAAoo20sl1tt8WibrsF2KOGHT-PNs",
+        "senderID": "100050232290905",
+        "attachments": [
+            {
+                "type": "audio",
+                "filename": "audioclip-1607003643000-6293.mp4",
+                "ID": "AT0fAN2HBeNK0p9shgUVnBZ3eu2GlP5C3XzV1eSbmEvJNTDN4NTeZAa_heqaGGw31-F9Lqs2zeUVQFTUxD9T687epSOja2qBo6NLGVrKFH9IR26BgSF2NX7H-nL3s52iT3-P2yUdQsFMXWHDupASdQlkOFs",
+                "audioType": "VOICE_MESSAGE",
+                "duration": 6293,
+                "url": "https://cdn.fbsbx.com/v/t59.3654-21/129674976_707345320202077_2856845862518580351_n.mp4/audioclip-1607003643000-6293.mp4?_nc_cat=106&ccb=2&_nc_sid=7272a8&_nc_ohc=u_vmCgjHy_sAX_SxYIM&_nc_ht=cdn.fbsbx.com&oh=51c198dfc63ff0d31bbd36678ea0cda9&oe=5FCA5B86&dl=1",
+                "isVoiceMail": false
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607003644848
+    }
+}

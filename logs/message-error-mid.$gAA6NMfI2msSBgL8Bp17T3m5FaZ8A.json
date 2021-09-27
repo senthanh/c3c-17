@@ -1,0 +1,102 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBgL8Bp17T3m5FaZ8A",
+    "senderID": "100070496502932",
+    "attachments": [],
+    "body": "Đã chuyển đổi prefix của nhóm thành: ?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629125982631,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4095895330527940
+                    },
+                    "messageId": "mid.$gAA6NMfI2msSBgL8Bp17T3m5FaZ8A",
+                    "offlineThreadingId": "6833049624843493120",
+                    "actorFbId": 100070496502932,
+                    "timestamp": 1629125982631,
+                    "tags": [
+                        "source:chat:web",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 4095895330527940
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "Đã chuyển đổi prefix của nhóm thành: ?",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 95206,
+                "tqSeqId": 278103,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAA6NMfI2msSBgL7ymF7T3mp51Fis"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "((https://www.facebook.com/messaging/send/&\u00008\u0000\b\n$6269651b-eb43-4ff1-aaf3-c2887ef07baa9\u001b\u0005?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopath\u0018XMessagingSendController\u0007www_rev\n1004257366\u0012webserver_hostname\"twshared32061.42.prn1.facebook.com\u0018\u0003www\u0012\u0000"
+                },
+                "participants": [
+                    100045305926798,
+                    100026007424205,
+                    100018233333512,
+                    100070001477613,
+                    100063367997842,
+                    100060191553847,
+                    100029161013899,
+                    100070787723189,
+                    100054819335550,
+                    100027191395643,
+                    100051969734739,
+                    100049529595006,
+                    100069432743803,
+                    100043758244914,
+                    100014403317592,
+                    100030889422514,
+                    100071251789431,
+                    100069267243348,
+                    100030751998443,
+                    100068664616551,
+                    100051439970359,
+                    100065147176409,
+                    100038270171136,
+                    100055381189200,
+                    100071327363309,
+                    100071309122139,
+                    100054665752793,
+                    100070496502932,
+                    100070052890137,
+                    100070495663274,
+                    100071646160133,
+                    100065483330799,
+                    100018397736428,
+                    100071392397767,
+                    100070092588154,
+                    100066161215445,
+                    100054238759634,
+                    100063597248828,
+                    100060012976264,
+                    100031220130242,
+                    100052837253092
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

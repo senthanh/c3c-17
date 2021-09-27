@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57SQkXdl1F8POaMHmq",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.wakeup`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602421510006,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57SQkUQV1F8NQ9LtxD",
+        "senderID": "100016981157701",
+        "attachments": [],
+        "body": ".wakeupp",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602421509185
+    }
+}

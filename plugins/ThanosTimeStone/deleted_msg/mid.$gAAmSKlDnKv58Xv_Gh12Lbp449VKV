@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2693985234004734",
+    "messageID": "mid.$gAAmSKlDnKv58Xv_Gh12Lbp449VKV",
+    "senderID": "100011438967360",
+    "attachments": [],
+    "body": "Đụ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607084965511,
+    "messageReply": {
+        "threadID": "2693985234004734",
+        "messageID": "mid.$gAAmSKlDnKv58Xv-peV2LbpfRiUdi",
+        "senderID": "100056189170174",
+        "attachments": [],
+        "body": "Số dư hiện tại của bạn: 12231827 đô.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607084958073
+    }
+}

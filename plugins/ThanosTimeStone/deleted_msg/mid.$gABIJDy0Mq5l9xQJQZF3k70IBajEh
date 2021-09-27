@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "5076510365756313",
+    "messageID": "mid.$gABIJDy0Mq5l9xQJQZF3k70IBajEh",
+    "senderID": "100058997514316",
+    "attachments": [],
+    "body": "TANGINA MO",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613091375204,
+    "messageReply": {
+        "threadID": "5076510365756313",
+        "messageID": "mid.$gABIJDy0Mq5l9xQIUPF3k72xbnOp5",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "Masama magmura kapatid, dapat tayo'y nagmamahalan",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613091359804
+    }
+}

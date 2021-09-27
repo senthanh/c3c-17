@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3364621426905914",
+    "messageID": "mid.$gAAv0Gvj0Uzp8aPQ3RF2N67lyYnSQ",
+    "senderID": "100048217843403",
+    "attachments": [],
+    "body": "Em ngoan kinh khủng",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607251980100,
+    "messageReply": {
+        "threadID": "3364621426905914",
+        "messageID": "mid.$gAAv0Gvj0Uzp8aPQKIV2N665i_DOZ",
+        "senderID": "100047113602359",
+        "attachments": [],
+        "body": "Xa dị",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607251968545
+    }
+}

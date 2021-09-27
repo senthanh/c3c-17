@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "!video https://youtu.be/67XGSG59Tq8",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97TMjM1F1G4N8ZiAo4",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97TMjM1F1G4N8ZiAo4",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F67XGSG59Tq8&h=AT296_yxu3e62u82oUeV8saHEmafT_40Ufj9ciwP1DNj70OKu9z4QXdKuQQqZMamWDpBQZVBSWrYXIupxnGNlYN0ko42LlyJxAxi6KVXMRsLclnuvyGHL5AAn9TLjOnACcduh_8XEEpAJmQ&s=1",
+            "title": "EM ƠI LÊN PHỐ PARODY | QUỲNH AKA",
+            "description": "EM ƠI LÊN PHỐ - MINH VƯƠNG M4U Chúc các bạn có những giây phút thật giải trí tại kênh Quỳnh Aka ► Follow Fanpage: https://www.fb.com/QuynhAka/ ► Follow Group...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQCaprf25Y9vk1YA&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F67XGSG59Tq8%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQBgaWvECC2akGhy",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/67XGSG59Tq8?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F67XGSG59Tq8&h=AT296_yxu3e62u82oUeV8saHEmafT_40Ufj9ciwP1DNj70OKu9z4QXdKuQQqZMamWDpBQZVBSWrYXIupxnGNlYN0ko42LlyJxAxi6KVXMRsLclnuvyGHL5AAn9TLjOnACcduh_8XEEpAJmQ&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602484405460",
+    "isGroup": true
+}

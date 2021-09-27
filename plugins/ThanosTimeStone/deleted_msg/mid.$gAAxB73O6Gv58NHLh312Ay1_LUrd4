@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "https://demo.sngine.com/admintesst",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58NHLh312Ay1_LUrd4",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxB73O6Gv58NHLh312Ay1_LUrd4",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdemo.sngine.com%2Fadmintesst&h=AT2qCSljm5H7uvDN6hQ6UdKgkm1HAt9MbxdIlguFKHiRKk6SbQiIVwtXe5ZcI4Sucj1POp4_ett_mn_oDQoL60VF2ruyATiipL5GOKC-RMexHJEJBJrui9HaKVgcvEwFvzhM3hbl5fWOxEM&s=1",
+            "title": "Phi Vips",
+            "description": "Sngine is a Social Network Platform is the best way to create your own social website or online community, Launch it in just 1 minute with ultimate features, Sngine is fast, secured, and it will be regularly updated.",
+            "source": "demo.sngine.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDAJ21E2PC5_ZQY&w=554&h=554&url=https%3A%2F%2Fdemo.sngine.com%2Fcontent%2Fuploads%2Fphotos%2F2020%2F11%2Fsngine_e7ae8e100f61f6a1f14d13d7db889447_cropped.png&_nc_cb=1&_nc_hash=AQCL0icnSq3eNWsn",
+            "width": 554,
+            "height": 554,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "554",
+                "height": "554"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdemo.sngine.com%2Fadmintesst&h=AT2qCSljm5H7uvDN6hQ6UdKgkm1HAt9MbxdIlguFKHiRKk6SbQiIVwtXe5ZcI4Sucj1POp4_ett_mn_oDQoL60VF2ruyATiipL5GOKC-RMexHJEJBJrui9HaKVgcvEwFvzhM3hbl5fWOxEM&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606371088863",
+    "isGroup": true
+}

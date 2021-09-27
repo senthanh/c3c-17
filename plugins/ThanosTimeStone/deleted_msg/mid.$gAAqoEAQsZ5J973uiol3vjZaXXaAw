@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J973uiol3vjZaXXaAw",
+    "senderID": "100052153322984",
+    "attachments": [],
+    "body": "Final plash thang ngu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613803969186,
+    "messageReply": {
+        "threadID": "2999536510068626",
+        "messageID": "mid.$gAAqoEAQsZ5J972mpa13viRgNeLAX",
+        "senderID": "100001276142851",
+        "attachments": [],
+        "body": "Td chưởng msk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613802791275
+    }
+}

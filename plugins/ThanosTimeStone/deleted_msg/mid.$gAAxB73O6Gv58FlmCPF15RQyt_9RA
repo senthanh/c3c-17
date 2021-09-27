@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58FlmCPF15RQyt_9RA",
+    "senderID": "100034098077653",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "893247207875898",
+            "filename": "image-893247207875898",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/125879402_893247211209231_576138013418156711_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=rN1u8--8BA8AX-zjt76&_nc_oc=AQlaypP9N1mSHplrLcHKnaQFdf1_-YREPOM3ubfZsBh1sX9hJvlcX2ajsrhMyPR7lZ8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=c9d605f4126b41623400c7842dd37e5b&oe=5FDEA5E0",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/125879402_893247211209231_576138013418156711_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=rN1u8--8BA8AX-zjt76&_nc_oc=AQlaypP9N1mSHplrLcHKnaQFdf1_-YREPOM3ubfZsBh1sX9hJvlcX2ajsrhMyPR7lZ8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=4d51e384271beb205c607a09449c35ff&oe=5FDDD380",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125879402_893247211209231_576138013418156711_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=rN1u8--8BA8AX-zjt76&_nc_oc=AQlaypP9N1mSHplrLcHKnaQFdf1_-YREPOM3ubfZsBh1sX9hJvlcX2ajsrhMyPR7lZ8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2815f64d81eb764647938a2778fa434b&oe=5FDBFCE1",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125879402_893247211209231_576138013418156711_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=rN1u8--8BA8AX-zjt76&_nc_oc=AQlaypP9N1mSHplrLcHKnaQFdf1_-YREPOM3ubfZsBh1sX9hJvlcX2ajsrhMyPR7lZ8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2815f64d81eb764647938a2778fa434b&oe=5FDBFCE1",
+            "width": 810,
+            "height": 1440,
+            "name": "image-893247207875898"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605866109500,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58FlaMcF15RFGm72NA",
+        "senderID": "100034831938176",
+        "attachments": [],
+        "body": ":)) show ny đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1605865915504
+    }
+}

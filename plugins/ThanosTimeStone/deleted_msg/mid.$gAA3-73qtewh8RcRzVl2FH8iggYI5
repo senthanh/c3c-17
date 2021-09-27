@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "3939479206066952",
+    "messageID": "mid.$gAA3-73qtewh8RcRzVl2FH8iggYI5",
+    "senderID": "100048944291189",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "3581484618612721",
+            "filename": "image-3581484618612721",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/122443898_690299281888678_8601073111016958371_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=c8FsFOP6_rUAX_I4ZTB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=fae507fc6d018c43920b684c14039f3a&oe=5FE9D2ED",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122443898_690299281888678_8601073111016958371_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=c8FsFOP6_rUAX_I4ZTB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ee9b11df333e56a9894102a2252a78da&oe=5FE928BB",
+            "previewWidth": 280,
+            "previewHeight": 284,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122443898_690299281888678_8601073111016958371_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=c8FsFOP6_rUAX_I4ZTB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=02bc219afa4fb16e6bb1d3e59efdbf94&oe=5FE7A53E",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 487,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/122443898_690299281888678_8601073111016958371_n.png?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=c8FsFOP6_rUAX_I4ZTB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=02bc219afa4fb16e6bb1d3e59efdbf94&oe=5FE7A53E",
+            "width": 670,
+            "height": 680,
+            "name": "image-3581484618612721"
+        }
+    ],
+    "body": "Ôi không @Ngọc Diệp, Đã hôn :<",
+    "isGroup": true,
+    "mentions": {
+        "100005904270561": "@Ngọc Diệp"
+    },
+    "timestamp": 1606661647190,
+    "messageReply": {
+        "threadID": "3939479206066952",
+        "messageID": "mid.$gAA3-73qtewh8RcRfGV2FH8HD-J7k",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!kiss @Ngọc Diệp",
+        "isGroup": true,
+        "mentions": {
+            "100005904270561": "@Ngọc Diệp"
+        },
+        "timestamp": 1606661642009
+    }
+}

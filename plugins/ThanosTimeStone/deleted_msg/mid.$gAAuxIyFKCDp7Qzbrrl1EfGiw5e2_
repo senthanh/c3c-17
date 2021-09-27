@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7Qzbrrl1EfGiw5e2_",
+    "senderID": "100041950734058",
+    "attachments": [],
+    "body": "Ib di t gui",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602323850158,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7Qy9N9l1EeoBylSn-",
+        "senderID": "100013273811577",
+        "attachments": [],
+        "body": "@TháiTiến Trần  gửi ảnh đây tk kia🙂",
+        "isGroup": true,
+        "mentions": {
+            "100041950734058": "@TháiTiến Trần"
+        },
+        "timestamp": 1602323351030
+    }
+}

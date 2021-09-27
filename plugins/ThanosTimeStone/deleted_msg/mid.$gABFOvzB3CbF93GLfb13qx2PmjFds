@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4871657662908849",
+    "messageID": "mid.$gABFOvzB3CbF93GLfb13qx2PmjFds",
+    "senderID": "100059839927763",
+    "attachments": [],
+    "body": "mwah",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613483579247,
+    "messageReply": {
+        "threadID": "4871657662908849",
+        "messageID": "mid.$gABFOvzB3CbF93GKjc13qx4f3np2V",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "​​​kiss mo ko​​​",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613483563891
+    }
+}

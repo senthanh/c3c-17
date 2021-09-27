@@ -1,0 +1,36 @@
+{
+    "type": "message_reply",
+    "threadID": "3907713322594946",
+    "messageID": "mid.$gAA3iC2h6MoJ97xy3qF3vddrfNvya",
+    "senderID": "100051203123192",
+    "attachments": [],
+    "body": "napanood Kona Yung part 1 nyan eh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613797748648,
+    "messageReply": {
+        "threadID": "3907713322594946",
+        "messageID": "mid.$gAA3iC2h6MoJ97w_NXl3vcqBic0AW",
+        "senderID": "100057971181869",
+        "attachments": [
+            {
+                "type": "video",
+                "filename": "video-1613796902.mp4",
+                "ID": "3659245670839186",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/67855942_2429311520484706_8029417144269985841_n.jpg?_nc_cat=106&ccb=3&_nc_sid=f8ae41&_nc_ohc=rhr1l6DsQfkAX_ORxFr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=668088650a9558ce50f99e960187b5e7&oe=60566585",
+                "previewWidth": 640,
+                "previewHeight": 368,
+                "url": "https://video.xx.fbcdn.net/v/t42.3356-2/10000000_2544934312283552_213628304883797261_n.mp4/video-1613796902.mp4?_nc_cat=104&ccb=3&_nc_sid=060d78&_nc_ohc=rmDxSHG8EU0AX9banLB&vabr=392431&_nc_ht=video.xx&oh=982f7ea4c951924496106637d16da64a&oe=603182AB&dl=1",
+                "width": 640,
+                "height": 368,
+                "duration": 500000,
+                "videoType": "file_attachment",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/67855942_2429311520484706_8029417144269985841_n.jpg?_nc_cat=106&ccb=3&_nc_sid=f8ae41&_nc_ohc=rhr1l6DsQfkAX_ORxFr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=668088650a9558ce50f99e960187b5e7&oe=60566585"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613796902238
+    }
+}

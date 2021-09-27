@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58_uBV412zZsND5T3t",
+    "senderID": "100060939735300",
+    "attachments": [],
+    "body": "Đã đặt biệu hiệu cho (những) người dùng sau là là phi mocditxonghit",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1609767259619,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58_uBSJV2zZsFO7uGE",
+        "senderID": "100035550143600",
+        "attachments": [],
+        "body": ".nick @Phi Phạm Đức  ->phi mocditxonghit",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phi Phạm Đức"
+        },
+        "timestamp": 1609767258661
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "https://drive.google.com/file/d/1H_tSI3ipe4K8a0UL5Wub_egABYj54rx7/view?usp=drivesdk",
+    "threadID": "3261322237328087",
+    "messageID": "mid.$gAAuWJ8F0Otd8NCuOql2AuY88PjOT",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAuWJ8F0Otd8NCuOql2AuY88PjOT",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1H_tSI3ipe4K8a0UL5Wub_egABYj54rx7%2Fview%3Fusp%3Ddrivesdk&h=AT3U7WHCTiOVvRXPJJrxJWyJxXq9_PjlEehVFWpwhYJIXi-a6KvExKAq9iNdzPhCShEYC0KSFq5EkNmFx_Ju_zfZjsQa_w4xGyAK6Z0zfGZ5m9VzZTqbg5V70p3cOLCR4zVjB0fDdFVyVrw&s=1",
+            "title": "Gmkick.zip",
+            "description": "",
+            "source": "drive.google.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1H_tSI3ipe4K8a0UL5Wub_egABYj54rx7%2Fview%3Fusp%3Ddrivesdk&h=AT3U7WHCTiOVvRXPJJrxJWyJxXq9_PjlEehVFWpwhYJIXi-a6KvExKAq9iNdzPhCShEYC0KSFq5EkNmFx_Ju_zfZjsQa_w4xGyAK6Z0zfGZ5m9VzZTqbg5V70p3cOLCR4zVjB0fDdFVyVrw&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606366414506",
+    "isGroup": true
+}

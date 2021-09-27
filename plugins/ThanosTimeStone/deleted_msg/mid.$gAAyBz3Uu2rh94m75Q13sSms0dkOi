@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3520427744746168",
+    "messageID": "mid.$gAAyBz3Uu2rh94m75Q13sSms0dkOi",
+    "senderID": "100063075275830",
+    "attachments": [],
+    "body": "oo yung na busted mo?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613585035587,
+    "messageReply": {
+        "threadID": "3520427744746168",
+        "messageID": "mid.$gAAyBz3Uu2rh94m7Kkl3sSl-qvRfJ",
+        "senderID": "100062126528089",
+        "attachments": [],
+        "body": "Add ko si tobi?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613585023634
+    }
+}

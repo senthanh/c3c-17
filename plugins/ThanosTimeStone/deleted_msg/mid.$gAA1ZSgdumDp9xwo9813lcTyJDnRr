@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3757349184378938",
+    "messageID": "mid.$gAA1ZSgdumDp9xwo9813lcTyJDnRr",
+    "senderID": "100056129295623",
+    "attachments": [],
+    "body": "/say jugjugan tayo raven",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613125449203,
+    "messageReply": {
+        "threadID": "3757349184378938",
+        "messageID": "mid.$gAA1ZSgdumDp9xwmsYl3lcVA2mi08",
+        "senderID": "100000190045028",
+        "attachments": [
+            {
+                "type": "audio",
+                "filename": "audioclip-1613125410000-6504.mp4",
+                "ID": "AT0AJtm90y-eCUVHOero1hzEI2GfIhaInHo0Nz9ReqO4-D8OHi81Hh1j6FRsIv9tNKWrlg8tkvDdFPGom-xyeE8AgVb-S9bxMNcSvebZ12JusjnLSqxFXpxswxAi0xBvFtsamZ0RBRAoNbtoh0fA69pPZIo",
+                "audioType": "VOICE_MESSAGE",
+                "duration": 6504,
+                "url": "https://cdn.fbsbx.com/v/t59.3654-21/147933137_630063254441375_8206340571341992175_n.mp4/audioclip-1613125410000-6504.mp4?_nc_cat=110&ccb=3&_nc_sid=7272a8&_nc_ohc=dMnAHObJRUUAX-2Dq6J&_nc_ht=cdn.fbsbx.com&oh=f7d87c7195bb167d5c9c5b883e160e09&oe=602813EF&dl=1",
+                "isVoiceMail": false
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613125411938
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "5040317656009590",
+    "messageID": "mid.$gABHoJGdxC3Z9vVw83l3jBbGlqvbI",
+    "senderID": "100056129295623",
+    "attachments": [],
+    "body": "Wala kaming pake",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612963050718,
+    "messageReply": {
+        "threadID": "5040317656009590",
+        "messageID": "mid.$gABHoJGdxC3Z9vVo0fl3jBZpZ3i82",
+        "senderID": "100051227198102",
+        "attachments": [],
+        "body": "Send kayong memes dito para matuwa naman ako hahaha.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612962917502
+    }
+}

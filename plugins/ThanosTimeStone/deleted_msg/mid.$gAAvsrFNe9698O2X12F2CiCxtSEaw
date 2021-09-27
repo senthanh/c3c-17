@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3356449621079983",
+    "messageID": "mid.$gAAvsrFNe9698O2X12F2CiCxtSEaw",
+    "senderID": "100052788993556",
+    "attachments": [],
+    "body": "mà fame to :v",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606487682520,
+    "messageReply": {
+        "threadID": "3356449621079983",
+        "messageID": "mid.$gAAvsrFNe9698O2VEVV2Ch_6D7MoO",
+        "senderID": "100008307964385",
+        "attachments": [],
+        "body": "Hoàng Đức Nam không phải Trần Vũ Nam",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606487637077
+    }
+}

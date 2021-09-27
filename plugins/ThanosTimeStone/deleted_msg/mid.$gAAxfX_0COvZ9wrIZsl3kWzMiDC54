@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3482565591841526",
+    "messageID": "mid.$gAAxfX_0COvZ9wrIZsl3kWzMiDC54",
+    "senderID": "100056385265906",
+    "attachments": [],
+    "body": "/philipines",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613052563890,
+    "messageReply": {
+        "threadID": "3482565591841526",
+        "messageID": "mid.$gAAxfX_0COvZ9wrHtfF3kW2ONZgWe",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "Lệnh bạn đã nhập không tồn tại. Ý bạn là /reminder, phải không?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613052552572
+    }
+}

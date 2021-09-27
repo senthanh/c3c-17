@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100045211188871",
+    "body": "",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7uirWi11iOWH34E7n",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1008978202938668",
+            "filename": "image-1008978202938668",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/123616504_1008978206272001_4784473829693011564_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=l_QrO684FJoAX-iuHJ7&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=28&oh=ba95bd2102a2348b020181c200f52e0e&oe=5FC573DE",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/123616504_1008978206272001_4784473829693011564_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=l_QrO684FJoAX-iuHJ7&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b7c04c7105b1d453d2dabd10c58ea047&oe=5FC59956",
+            "previewWidth": 280,
+            "previewHeight": 554,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/123616504_1008978206272001_4784473829693011564_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=l_QrO684FJoAX-iuHJ7&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=30eb0173708d9207c836a633bfde86a6&oe=5FC7649A",
+            "largePreviewWidth": 450,
+            "largePreviewHeight": 890,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/123616504_1008978206272001_4784473829693011564_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=l_QrO684FJoAX-iuHJ7&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=30eb0173708d9207c836a633bfde86a6&oe=5FC7649A",
+            "width": 450,
+            "height": 890,
+            "name": "image-1008978202938668"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1604319547019",
+    "isGroup": true
+}

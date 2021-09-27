@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3991895724199274",
+    "messageID": "mid.$gAA4um6afDWp9wwL4vF3kb2wNIhh6",
+    "senderID": "100043749763150",
+    "attachments": [],
+    "body": "Chismoso ka. Matulog kana, bobo. Wala ka pang tulog.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613057863868,
+    "messageReply": {
+        "threadID": "3991895724199274",
+        "messageID": "mid.$gAA4um6afDWp9wwKqjV3kb1iMqHIS",
+        "senderID": "100043749763150",
+        "attachments": [],
+        "body": "Ano meron?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613057843853
+    }
+}

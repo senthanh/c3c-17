@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57N4opNl1BkTgqjeZe",
+    "senderID": "100055953258099",
+    "attachments": [],
+    "body": "Số tiền đặt cược của bạn không phải là một con số, vui lòng xem lại cách sử dụng tại !help sl",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602127978806,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57N4ooUF1BkTeVhkZc",
+        "senderID": "100053176432220",
+        "attachments": [],
+        "body": "!slim",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602127978576
+    }
+}

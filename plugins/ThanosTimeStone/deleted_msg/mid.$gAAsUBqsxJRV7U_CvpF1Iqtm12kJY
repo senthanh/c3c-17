@@ -1,0 +1,11 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "PYN Bot | Connected. \nSử dụng `.help [trang số]` để xem toàn bộ lệnh.",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7U_CvpF1Iqtm12kJY",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1602604459940",
+    "isGroup": true
+}

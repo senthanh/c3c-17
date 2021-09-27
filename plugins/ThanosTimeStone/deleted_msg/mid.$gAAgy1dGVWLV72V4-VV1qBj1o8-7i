@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV72V4-VV1qBj1o8-7i",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Bot đang tắt. Dùng `!on` để khởi động lại Bot.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604843009621,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV72V48LF1qBjuAT2Am",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!turnoff",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604843009068
+    }
+}

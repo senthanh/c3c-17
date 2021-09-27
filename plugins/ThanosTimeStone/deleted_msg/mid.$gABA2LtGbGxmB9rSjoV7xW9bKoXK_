@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9rSjoV7xW9bKoXK_",
+    "senderID": "100061274770284",
+    "attachments": [],
+    "body": "❎Những user đã bị ban khỏi hệ thống bot gồm:\n\n1. Name: Tân Tân\nID: 100019467917305\n2. Name: Khôi Trần\nID: 100060707954596\n3. Name: Quoc An Pham\nID: 100029594144893\n4. Name: An Nguyen\nID: 100036077959774\n5. Name: Nguyễn Đức Tùng\nID: 100033070508293\n\nReply tin nhắn này + số thứ tự để unban thread tương ứng",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631105014689,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9rSa-l7xW9S_lHx5",
+        "senderID": "100048524510645",
+        "attachments": [],
+        "body": ">banned user",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631105012474
+    }
+}

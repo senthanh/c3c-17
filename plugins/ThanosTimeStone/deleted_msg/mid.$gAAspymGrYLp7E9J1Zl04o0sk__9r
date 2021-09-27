@@ -1,0 +1,49 @@
+{
+    "type": "message_reply",
+    "threadID": "3142173942571194",
+    "messageID": "mid.$gAAspymGrYLp7E9J1Zl04o0sk__9r",
+    "senderID": "100048924525598",
+    "attachments": [],
+    "body": "Phim t.anh ????",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601528737126,
+    "messageReply": {
+        "threadID": "3142173942571194",
+        "messageID": "mid.$gAAspymGrYLp7E9Ekpl04ovbCuTr9",
+        "senderID": "100009442555577",
+        "attachments": [
+            {
+                "type": "share",
+                "ID": "ee.mid.$gAAspymGrYLp7E9Ekpl04ovbCuTr9",
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F8IOJPxkjWTw&h=AT1Y_RAlfsrNwshCENmEzJT7AlRVG_W5iZ9tJuqXfSUJlqxBIxjGS-4h6zrDtX-tE1XWoXcSBa7ir_oqiP4Wjd08tbDlsEeWXMPeQVHAzmsSEhqJ0wCmhMTI4kKkKVwGv3uB-nRDIb4Jw5U&s=1",
+                "title": "MẬU THÂN 1968-TẬP 5: NHÀ NGOẠI GIAO LÊ ĐỨC THỌ HẠ ĐO VÁN MỸ NHƯ THẾ NÀO | ĐÀM ĐẠO LỊCH SỬ",
+                "description": "MẬU THÂN 1968-TẬP 5: NHÀ NGOẠI GIAO LÊ ĐỨC THỌ HẠ ĐO VÁN MỸ NHƯ THẾ NÀO | ĐÀM ĐẠO LỊCH SỬ MẬU THÂN 1968 ▶ TẬP 1- SỰ THAM CHIẾN CỦA MỸ : https://youtu.be/bpC8...",
+                "source": "youtube.com",
+                "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQB437ORteeV6SLq&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8IOJPxkjWTw%2Fmaxresdefault.jpg&sx=0&sy=0&sw=1280&sh=720&_nc_cb=1&_nc_hash=AQDUyKq6sxShzrB3",
+                "width": 960,
+                "height": 540,
+                "playable": true,
+                "duration": 0,
+                "playableUrl": "https://www.youtube.com/embed/8IOJPxkjWTw?autoplay=1",
+                "subattachments": [],
+                "properties": {
+                    "width": "1280",
+                    "height": "720"
+                },
+                "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F8IOJPxkjWTw&h=AT1Y_RAlfsrNwshCENmEzJT7AlRVG_W5iZ9tJuqXfSUJlqxBIxjGS-4h6zrDtX-tE1XWoXcSBa7ir_oqiP4Wjd08tbDlsEeWXMPeQVHAzmsSEhqJ0wCmhMTI4kKkKVwGv3uB-nRDIb4Jw5U&s=1",
+                "target": {
+                    "__typename": "ExternalUrl"
+                },
+                "styleList": [
+                    "share",
+                    "fallback"
+                ]
+            }
+        ],
+        "body": "https://youtu.be/8IOJPxkjWTw",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601528650918
+    }
+}

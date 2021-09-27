@@ -1,0 +1,50 @@
+{
+    "type": "message",
+    "senderID": "100047353368033",
+    "body": "https://www.facebook.com/profile.php?id=100067479857661",
+    "threadID": "4280865151997886",
+    "messageID": "mid.$gAA81bJa3V76B9VchT17xBHHUkqDe",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA81bJa3V76B9VchT17xBHHUkqDe",
+            "url": "https://www.facebook.com/profile.php?id=100067479857661",
+            "title": "Kẹo Dẻo Nhiều Đường",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.6435-1/c0.0.640.640a/241094523_168110335448294_2642310923841231277_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=gZe_MXDW7fcAX_AR1_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=1584b029f33039bd1eaaab87d8ba2edb&oe=615E0B70",
+            "width": 640,
+            "height": 640,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/profile.php?id=100067479857661",
+            "target": {
+                "__typename": "User",
+                "id": "100067479857661",
+                "name": "Kẹo Dẻo Nhiều Đường",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.6435-1/cp0/c0.0.50.50a/p50x50/241094523_168110335448294_2642310923841231277_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=gZe_MXDW7fcAX_AR1_a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=766dae192c0cbfa4ea026b56b181d30c&oe=615D0C33"
+                },
+                "cover_photo": {
+                    "photo": {
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.6435-9/228713965_151569803769014_2801463867121539388_n.jpg?_nc_cat=106&_nc_rgb565=1&ccb=1-5&_nc_sid=e3f864&_nc_ohc=R83KFIqnzmsAX92mK6U&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a4521db236592efedab4a760044380be&oe=615F25DE"
+                        }
+                    }
+                },
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1631082109263",
+    "isGroup": true
+}

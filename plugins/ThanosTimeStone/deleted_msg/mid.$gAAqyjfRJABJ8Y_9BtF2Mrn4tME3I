@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100015520294398",
+    "body": "",
+    "threadID": "3011072525664274",
+    "messageID": "mid.$gAAqyjfRJABJ8Y_9BtF2Mrn4tME3I",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "488540941259351",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851575_490565814390197_1921379170_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=kT7GXQ4P0pQAX_b2RzA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6d64ce28169cdc4fca92db6f67dfdd76&oe=5FF17C94",
+            "packID": "456205387826240",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/851566_490565817723530_1332711572_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=COVQ6hyVbNIAX_ZvH5_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=17882200cf0fc9d3122e3079e43bddca&oe=5FF0181F"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851566_490565817723530_1332711572_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=COVQ6hyVbNIAX_ZvH5_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=fd06b939a0f00dcdff55e0e3022b3529&oe=5FF23114"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Proud, dog clapping",
+            "description": "Proud, dog clapping",
+            "frameCount": 10,
+            "frameRate": 83,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "488540941259351",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/851566_490565817723530_1332711572_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=COVQ6hyVbNIAX_ZvH5_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=17882200cf0fc9d3122e3079e43bddca&oe=5FF0181F"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851566_490565817723530_1332711572_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=COVQ6hyVbNIAX_ZvH5_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=fd06b939a0f00dcdff55e0e3022b3529&oe=5FF23114"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607168817588",
+    "isGroup": true
+}

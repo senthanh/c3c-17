@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3290989184288826",
+    "messageID": "mid.$gAAuxIyFKCDp7PO5oQl1C6kU-er3b",
+    "senderID": "100053288603419",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "951891365298898",
+            "filename": "image-951891365298898",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/119434038_329871994736995_2227806061799865289_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=5uX_IQcHmQEAX-0rxtm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=6240c0dbcef6ffbd6bc485f35a86bbaf&oe=5FA496D7",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/119434038_329871994736995_2227806061799865289_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=5uX_IQcHmQEAX-0rxtm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=36cc775db3c5b373dc60ce26e468747c&oe=5FA4CD36",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119434038_329871994736995_2227806061799865289_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=5uX_IQcHmQEAX-0rxtm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=29533cc7af17986a3a328e65f2413b29&oe=5FA64EB3",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119434038_329871994736995_2227806061799865289_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=5uX_IQcHmQEAX-0rxtm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=29533cc7af17986a3a328e65f2413b29&oe=5FA64EB3",
+            "width": 960,
+            "height": 960,
+            "name": "image-951891365298898"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602218434626,
+    "messageReply": {
+        "threadID": "3290989184288826",
+        "messageID": "mid.$gAAuxIyFKCDp7POzBlV1C6d4oO_n0",
+        "senderID": "100027555279198",
+        "attachments": [],
+        "body": "Đấy là ngta vuốt keo r",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602218326421
+    }
+}

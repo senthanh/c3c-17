@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7vHOEE11iy46ZLzb8",
+    "senderID": "100056473832824",
+    "attachments": [],
+    "body": "??",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604357864467,
+    "messageReply": {
+        "threadID": "4553246968081463",
+        "messageID": "mid.$gABAtJ2wbbDd7vHNQn11iy4H6hmaX",
+        "senderID": "100056832115203",
+        "attachments": [],
+        "body": "Du har kyssa Olav ^^",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604357851295
+    }
+}

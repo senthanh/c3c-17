@@ -1,0 +1,11 @@
+{
+     "messages": {
+          "whenUserJoin": "Chào mừng {username} đã tham gia box, không tương tác = Bay màu khỏi box 😊💔.",
+          "whenUserLeave": "Tạm biệt {username} vừa bị QTV Đá hoặc đã rời khỏi nhóm ! Hẹn em kiếp sau 😊💔.",
+          "whenUserJoinDM": "Chào mừng {username} đã tham gia box, không tương tác = Bay màu khỏi box 😊💔.",
+          "whenUserLeaveDM": "Tạm biệt {username} vừa bị QTV Đá hoặc đã rời khỏi nhóm ! Hẹn em kiếp sau 😊💔."
+     },
+     "help": {
+          "1": "{username}, {groupname}, {groupmember}"
+     }
+}

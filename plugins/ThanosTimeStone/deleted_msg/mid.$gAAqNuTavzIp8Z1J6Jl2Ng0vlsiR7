@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2970576393063562",
+    "messageID": "mid.$gAAqNuTavzIp8Z1J6Jl2Ng0vlsiR7",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Yahoo Facebook User, bạn giành được giveaway! Phần thưởng là \"áo\" 🥳🥳",
+    "isGroup": true,
+    "mentions": {
+        "100039048223820": "Facebook User"
+    },
+    "timestamp": 1607224603174,
+    "messageReply": {
+        "threadID": "2970576393063562",
+        "messageID": "mid.$gAAqNuTavzIp8Z1J0Rl2Ng0jktbcI",
+        "senderID": "100048234966042",
+        "attachments": [],
+        "body": ";ga áo",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607224601670
+    }
+}

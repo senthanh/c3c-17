@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100040747478777",
+    "body": "",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8aNi84V2N5HF2FChR",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "396449120499194",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851594_396468647163908_509266324_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=PVmVzdFLz1UAX-FcVEe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3d696ca279de52e49684a8e9bf66aae2&oe=5FF356E1",
+            "packID": "394507800693326",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/851569_396468650497241_1570490939_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=maF8v9mm8aIAX-StSV6&_nc_oc=AQnWjX5BlpfWm0EWG6gM3i7h-dDglhvqbuEYXxSr7fT934_MHtlJFUV_xHnlR9rZOd4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=bec2f9a474743720b976e02a4d59aed8&oe=5FF285DB"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851569_396468650497241_1570490939_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=maF8v9mm8aIAX-StSV6&_nc_oc=AQnWjX5BlpfWm0EWG6gM3i7h-dDglhvqbuEYXxSr7fT934_MHtlJFUV_xHnlR9rZOd4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=87be76871f57202a515ab18556bcb8c2&oe=5FF2EB2D"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Gift, dog with a big present",
+            "description": "Gift, dog with a big present",
+            "frameCount": 4,
+            "frameRate": 83,
+            "framesPerRow": 2,
+            "framesPerCol": 2,
+            "stickerID": "396449120499194",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/851569_396468650497241_1570490939_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=maF8v9mm8aIAX-StSV6&_nc_oc=AQnWjX5BlpfWm0EWG6gM3i7h-dDglhvqbuEYXxSr7fT934_MHtlJFUV_xHnlR9rZOd4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=bec2f9a474743720b976e02a4d59aed8&oe=5FF285DB"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851569_396468650497241_1570490939_n.png?_nc_cat=1&ccb=2&_nc_sid=0572db&_nc_ohc=maF8v9mm8aIAX-StSV6&_nc_oc=AQnWjX5BlpfWm0EWG6gM3i7h-dDglhvqbuEYXxSr7fT934_MHtlJFUV_xHnlR9rZOd4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=87be76871f57202a515ab18556bcb8c2&oe=5FF2EB2D"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607250179297",
+    "isGroup": true
+}

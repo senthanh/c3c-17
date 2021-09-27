@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NDiFoF2AvM0oaXU1",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "Sao s",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606367264160,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8NDgiD12AvLZPj-_w",
+        "senderID": "100038322465994",
+        "attachments": [],
+        "body": "Duma nãy tao ăn cơm chó no thấy mẹ luôn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606367238671
+    }
+}

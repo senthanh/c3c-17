@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3356449621079983",
+    "messageID": "mid.$gAAvsrFNe9698O2gFVl2CiLBM9bUe",
+    "senderID": "100052788993556",
+    "attachments": [],
+    "body": "Nghiệp quật sấp mặt , F",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606487817558,
+    "messageReply": {
+        "threadID": "3356449621079983",
+        "messageID": "mid.$gAAvsrFNe9698O2fG7F2CiJzPwOAo",
+        "senderID": "100053299116681",
+        "attachments": [],
+        "body": "Yep",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606487801580
+    }
+}

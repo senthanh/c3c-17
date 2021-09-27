@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7bdcR6V1PJHD6psLl",
+    "senderID": "100040179921699",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1664930633684992",
+            "filename": "image-1664930633684992",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/121808774_1664930637018325_5161112307930962724_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=zELag2RDn-IAX9adkzO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=1fa99af04c9617fdde2419c1271a114d&oe=5FB2E3ED",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121808774_1664930637018325_5161112307930962724_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=zELag2RDn-IAX9adkzO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7d45b6500f1d9cc9b62a5248c4c72681&oe=5FB3D175",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121808774_1664930637018325_5161112307930962724_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=zELag2RDn-IAX9adkzO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=86a160fcd7b20737fc8e5528a249a443&oe=5FB21E68",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121808774_1664930637018325_5161112307930962724_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=zELag2RDn-IAX9adkzO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=86a160fcd7b20737fc8e5528a249a443&oe=5FB21E68",
+            "width": 720,
+            "height": 960,
+            "name": "image-1664930633684992"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603038988777,
+    "messageReply": {
+        "threadID": "3118243618301205",
+        "messageID": "mid.$gAAsUBqsxJRV7bdboQV1PJGc7CaRl",
+        "senderID": "100023935669279",
+        "attachments": [],
+        "body": "M.n ngủ đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603038978113
+    }
+}

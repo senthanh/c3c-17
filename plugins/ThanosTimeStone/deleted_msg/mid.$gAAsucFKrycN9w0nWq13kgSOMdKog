@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3147284702022083",
+    "messageID": "mid.$gAAsucFKrycN9w0nWq13kgSOMdKog",
+    "senderID": "100051170193642",
+    "attachments": [],
+    "body": "/vm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613062508203,
+    "messageReply": {
+        "threadID": "3147284702022083",
+        "messageID": "mid.$gAAsucFKrycN9w0mbIF3kgU6wdjZX",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "Chào mừng @Clove Enoikio Webbo'Lehitimo đã tham gia box, không tương tác = Bay màu khỏi box 😊💔.",
+        "isGroup": true,
+        "mentions": {
+            "100057383962945": "Clove Enoikio Webbo'Lehitimo "
+        },
+        "timestamp": 1613062492960
+    }
+}

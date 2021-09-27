@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "100008884452271",
+    "messageID": "mid.$cAAAB9XCxEHN7zkMwrV1nP3oJr8t-",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "!gỡ",
+    "isGroup": false,
+    "mentions": {},
+    "timestamp": 1604656687277,
+    "messageReply": {
+        "threadID": "100008884452271",
+        "messageID": "mid.$cAAAB9XCxEHN7zkLkR11nP2bxo1zV",
+        "senderID": "100056945994716",
+        "attachments": [],
+        "body": "Bạn đã hoàn thành công việc: sờ trym mơ\r và nhận được: 327 Đô la.",
+        "isGroup": false,
+        "mentions": {},
+        "timestamp": 1604656667719
+    }
+}

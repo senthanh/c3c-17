@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100033441530915",
+    "body": "?adduser <https://www.facebook.com/ten.banhangiau>",
+    "threadID": "3287883231324868",
+    "messageID": "mid.$gAAuuT_gQ6sR7joWb1V1XUBNNsOo5",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAuuT_gQ6sR7joWb1V1XUBNNsOo5",
+            "url": "https://www.facebook.com/ten.banhangiau",
+            "title": "Trần Dương",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/c7.0.533.533a/120346627_179464610332620_7626825245724450971_n.jpg?_nc_cat=108&ccb=2&_nc_sid=dbb9e7&_nc_ohc=s3OmbPoEHJ8AX8SnEhI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=79f27b8c44c686b050f4e6d8072f9c04&oe=5FBB7189",
+            "width": 533,
+            "height": 533,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/ten.banhangiau",
+            "target": {
+                "__typename": "User",
+                "id": "100048072472273",
+                "name": "Trần Dương",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/c1.0.50.50a/p50x50/120346627_179464610332620_7626825245724450971_n.jpg?_nc_cat=108&ccb=2&_nc_sid=7206a8&_nc_ohc=s3OmbPoEHJ8AX8SnEhI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=079b4419132b58b1f024b0dd3b5587d2&oe=5FBA2491"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603587298261",
+    "isGroup": true
+}

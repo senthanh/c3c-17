@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "2486594124775939",
+    "messageID": "mid.$gAAjVi0-CAgN7lfNHtV1ZK4BgQECd",
+    "senderID": "100049154474863",
+    "attachments": [],
+    "body": "!gỡ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603711926197,
+    "messageReply": {
+        "threadID": "2486594124775939",
+        "messageID": "mid.$gAAjVi0-CAgN7lfKUrV1ZK1EhVGp1",
+        "senderID": "100056672960885",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "1021839404934085",
+                "filename": "image-1021839404934085",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/48277971_269846277231596_9094492974678540288_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=hUgcxtDvrJUAX92Zv8a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=97a4d4119c224360d808640eb5163d20&oe=5FBA75A7",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/48277971_269846277231596_9094492974678540288_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=hUgcxtDvrJUAX92Zv8a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=da2ea26c2f5510086d646996add4ee05&oe=5FBCCC87",
+                "previewWidth": 280,
+                "previewHeight": 424,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/48277971_269846277231596_9094492974678540288_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=hUgcxtDvrJUAX92Zv8a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=33881223b3d2c7d59b3b088a6c907514&oe=5FBA651A",
+                "largePreviewWidth": 480,
+                "largePreviewHeight": 726,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/48277971_269846277231596_9094492974678540288_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=hUgcxtDvrJUAX92Zv8a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=33881223b3d2c7d59b3b088a6c907514&oe=5FBA651A",
+                "width": 727,
+                "height": 1100,
+                "name": "image-1021839404934085"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603711880365
+    }
+}

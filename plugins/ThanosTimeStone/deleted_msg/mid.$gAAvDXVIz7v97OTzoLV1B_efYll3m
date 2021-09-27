@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100055953258099",
+    "body": "Doanh Bình Thường vừa gỡ một tin nhắn:\n/adduser https://www.facebook.com/CaoCap1508Osward",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97OTzoLV1B_efYll3m",
+    "attachments": [],
+    "mentions": {
+        "100027912525415": "Doanh Bình Thường"
+    },
+    "timestamp": "1602156470317",
+    "isGroup": true
+}

@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100058989390326",
+    "body": "https://www.facebook.com/100062218506210/posts/112407844176499/?app=fbl",
+    "threadID": "4551373788271438",
+    "messageID": "mid.$gABArc0nj0059vNcrKl3i5Hif9ONn",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gABArc0nj0059vNcrKl3i5Hif9ONn",
+            "url": null,
+            "title": "Attachment unavailable",
+            "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+            "source": null,
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_native_templates",
+                "unavailable",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612954329898",
+    "isGroup": true
+}

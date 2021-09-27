@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9m0izV7xSfaA-UqM",
+    "senderID": "100061274770284",
+    "attachments": [],
+    "body": "[ Unban User ] Hiện tại bạn đang yêu cầu gỡ cấm người dùng:\n- ID và tên người dùng cần gỡ cấm: 100019467917305 - Tân Tân\n\n❮ Reaction tin nhắn này để xác thực ❯",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631100328653,
+    "messageReply": {
+        "threadID": "4563174340369177",
+        "messageID": "mid.$gABA2LtGbGxmB9m0hkF7xSfZXmYBb",
+        "senderID": "100048524510645",
+        "attachments": [],
+        "body": ">user unban @Tân Tân",
+        "isGroup": true,
+        "mentions": {
+            "100019467917305": "@Tân Tân"
+        },
+        "timestamp": 1631100328336
+    }
+}

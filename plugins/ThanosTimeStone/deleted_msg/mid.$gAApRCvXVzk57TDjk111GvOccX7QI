@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2903857283059278",
+    "messageID": "mid.$gAApRCvXVzk57TDjk111GvOccX7QI",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.ping`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602474974423,
+    "messageReply": {
+        "threadID": "2903857283059278",
+        "messageID": "mid.$gAApRCvXVzk57TDjjQF1GvOYL9_TV",
+        "senderID": "100005682975069",
+        "attachments": [],
+        "body": ".pis slap@Phi Phạm Đức",
+        "isGroup": true,
+        "mentions": {
+            "100008884452271": "@Phi Phạm Đức"
+        },
+        "timestamp": 1602474974016
+    }
+}

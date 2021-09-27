@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100072439434074",
+    "body": "‎Tân Tân đã gỡ 1 tin nhắn:\nmodule.exports.config = {\n\tname: \"allbox\",\n\tversion: \"1.0.0\",\n\tcredits: \"Him\",\n\thasPermssion: 2,\n\tdescription: \"Lấy tên và id các nhóm chứa bot\",\n\tcommandCategory: \"System\",\n\tusages: \"allbox\",\n\tcooldowns: 5\n};\n\nmodule.exports.run = function({ api, event, clientL }) {\n\tvar num = 0, box = \"\";\n\tapi.getThreadList(100, null, [\"INBOX\"], (err, list) => {\n\t\tlist.forEach(info => {\n\t\t\tif (info.isGroup && info.isSubscribed) {\n\t\t\t\tbox += `${num+=1}. ${info.name} - ${info.threadID}\\n`;\n\t\t\t}\t\t\t\n\t\t})\n\t\treturn api.sendMessage(box, event.threadID, event.messageID);\n\t})\n}",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB_-NtmV7zp4kyoy0d",
+    "attachments": [],
+    "mentions": {
+        "100019467917305": "Tân Tân"
+    },
+    "timestamp": "1631259075993",
+    "isGroup": true
+}

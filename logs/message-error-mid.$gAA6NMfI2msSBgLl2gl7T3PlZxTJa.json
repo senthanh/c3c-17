@@ -1,0 +1,103 @@
+{
+    "type": "message_reply",
+    "threadID": "4095895330527940",
+    "messageID": "mid.$gAA6NMfI2msSBgLl2gl7T3PlZxTJa",
+    "senderID": "100045305926798",
+    "attachments": [],
+    "body": "Có  mỗi này thoii á🥲",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1629125619330,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 4095895330527940
+                    },
+                    "messageId": "mid.$gAA6NMfI2msSBgLl2gl7T3PlZxTJa",
+                    "offlineThreadingId": "6833048023162237530",
+                    "actorFbId": 100045305926798,
+                    "timestamp": 1629125619330,
+                    "tags": [
+                        "source:chat:light_speed",
+                        "app_id:437626316973788",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 4095895330527940
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    },
+                    "threadSubtype": 1
+                },
+                "body": "Có  mỗi này thoii á🥲",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 94815,
+                "tqSeqId": 277699,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAA6NMfI2msSBgLhYiV7T3MP_BwtJ"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&??ג???\u00018\u000e325.1.0.39.117\b\n$55eae6db-b945-4fb0-abb6-f9c6674a78459\u001b\u0005?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopathhXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/ls_req:TASK_LABEL=READ_RECEIPT_V{N}\u0007www_rev\n1004257366\u0012webserver_hostname\"twshared41668.04.prn6.facebook.com\u0018\u0013messenger_ls_iphone\u0012\u0000"
+                },
+                "participants": [
+                    100045305926798,
+                    100026007424205,
+                    100018233333512,
+                    100070001477613,
+                    100063367997842,
+                    100060191553847,
+                    100029161013899,
+                    100070787723189,
+                    100054819335550,
+                    100027191395643,
+                    100051969734739,
+                    100049529595006,
+                    100069432743803,
+                    100043758244914,
+                    100014403317592,
+                    100030889422514,
+                    100071251789431,
+                    100069267243348,
+                    100030751998443,
+                    100068664616551,
+                    100051439970359,
+                    100065147176409,
+                    100038270171136,
+                    100055381189200,
+                    100071327363309,
+                    100071309122139,
+                    100054665752793,
+                    100070496502932,
+                    100070052890137,
+                    100070495663274,
+                    100071646160133,
+                    100065483330799,
+                    100018397736428,
+                    100071392397767,
+                    100070092588154,
+                    100066161215445,
+                    100054238759634,
+                    100063597248828,
+                    100060012976264,
+                    100031220130242,
+                    100052837253092
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

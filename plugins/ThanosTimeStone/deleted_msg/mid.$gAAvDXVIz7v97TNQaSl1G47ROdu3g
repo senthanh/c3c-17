@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97TNQaSl1G47ROdu3g",
+    "senderID": "100037886733157",
+    "attachments": [],
+    "body": ":<. Gọi trang là thốn,vì nhà dương không chịu được khi thiếu thốn",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602485146186,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97TNMpD11G43gH6tWr",
+        "senderID": "100044825586470",
+        "attachments": [],
+        "body": "Né thính :>>",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602485084431
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7bMF1N11O3wsxMLe0",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.resetcount`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603020795191,
+    "messageReply": {
+        "threadID": "3556046131123481",
+        "messageID": "mid.$gAAyiNIJzVRl7bMF0FF1O3wrCD_X7",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".resetcont",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603020794900
+    }
+}

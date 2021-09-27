@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100054196396890",
+    "body": "Hahahaha sabro.com",
+    "threadID": "3644015339053468",
+    "messageID": "mid.$gAAzyNm_XIZx9w0EdmF3kfvOlAame",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAzyNm_XIZx9w0EdmF3kfvOlAame",
+            "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fsabro.com%2F&h=AT2K6BZmgXjm1hwFfHivABrZydNjVP6m6ZiJ_Nmy3p2FYU2nHVRwkNx7QUGFgY7yjxZcJe5NWfHuOcTpheL_c74d5HCod36sRNgBkbXjlqbbmybzKUg3b2uN_WC-AZlejUkMJNzAYczqZ_k&s=1",
+            "title": "sabro.com",
+            "description": "",
+            "source": "sabro.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "http://l.facebook.com/l.php?u=http%3A%2F%2Fsabro.com%2F&h=AT2K6BZmgXjm1hwFfHivABrZydNjVP6m6ZiJ_Nmy3p2FYU2nHVRwkNx7QUGFgY7yjxZcJe5NWfHuOcTpheL_c74d5HCod36sRNgBkbXjlqbbmybzKUg3b2uN_WC-AZlejUkMJNzAYczqZ_k&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613061936536",
+    "isGroup": true
+}

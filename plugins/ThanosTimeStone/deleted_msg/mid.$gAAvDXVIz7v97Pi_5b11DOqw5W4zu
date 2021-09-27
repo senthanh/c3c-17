@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Pi_5b11DOqw5W4zu",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.restc`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602239508847,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97Pi_4Dl1DOqvI3PS0",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".resend off",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602239508494
+    }
+}

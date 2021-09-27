@@ -1,0 +1,21 @@
+{
+    "type": "message",
+    "senderID": "100035529244020",
+    "body": "",
+    "threadID": "2972586662863646",
+    "messageID": "mid.$gAAqPjUQaox598awWEl3wGbMJx3zC",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1608897957000-10264.mp4",
+            "ID": "AT0Np7xnQbjQ_AI_cZG4gOhlTDo6IXvljojof26L76JIh_wveqmt-8CLBA0qPLFFOqhdqqOcGd7gDgeZERsQS3kqbEsbApENlfXIcS29sltTSrMwG9jWZznutcnD3ilIAcKgLnZmKowN3M6mV0fJGa_bNyQ",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 10264,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/132240454_151720206472938_5517878791044090021_n.mp4/audioclip-1608897957000-10264.mp4?_nc_cat=110&ccb=3&_nc_sid=7272a8&_nc_ohc=bmmYQDIPiCcAX_ZwbzY&_nc_oc=AQnhLdOtd0LStt1Vm2ef_wjkXn1zpC0-cuDuUc35DzP1YO0U-O_9eXTAnjaQQ7dUenU&_nc_ht=cdn.fbsbx.com&oh=8faa2df8fb00f06fb49180b5023f0c73&oe=6032C298&dl=1",
+            "isVoiceMail": false
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613840698898",
+    "isGroup": true
+}

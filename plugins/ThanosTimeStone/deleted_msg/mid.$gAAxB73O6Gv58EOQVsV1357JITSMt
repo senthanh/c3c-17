@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58EOQVsV1357JITSMt",
+    "senderID": "100037910915086",
+    "attachments": [],
+    "body": "Ko",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605774527921,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58ENtWjl135YI_hwUU",
+        "senderID": "100022263186510",
+        "attachments": [],
+        "body": "@NH Tiến Lâm Og vs ngáo là best friend à",
+        "isGroup": true,
+        "mentions": {
+            "100037910915086": "@NH Tiến Lâm"
+        },
+        "timestamp": 1605773954702
+    }
+}

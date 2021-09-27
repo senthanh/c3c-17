@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7ZhCpfV1NMtYyx9Y4",
+    "senderID": "100011808452199",
+    "attachments": [],
+    "body": "Bé ma da biet choi nhau roi :(( cha bu chi minh 18 nồi banh chung chua duoc nam tay ai :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602908545405,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7Zg3lEF1NMilA-aCD",
+        "senderID": "100018238786024",
+        "attachments": [],
+        "body": "Ủa tưởng ăn được lz t mà dễ à? :)",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602908364048
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100011455547929",
+    "body": "(3)𝗛𝗜𝗚𝗛 𝗙𝗙𝗦 𝗔𝗖𝗖𝗢𝗨𝗡𝗧  \n   \nInfo\nGrp\nYandex made\n1k followers\n\nVisit my timeline for more info\n\nLink https://www.facebook.com/100011455547929/posts/1459498464441991/?app=fbl",
+    "threadID": "4012137758818992",
+    "messageID": "mid.$gAA5BBJ3ngrB9vyR1e13jd8sV3MtQ",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA5BBJ3ngrB9vyR1e13jd8sV3MtQ",
+            "url": null,
+            "title": "Attachment unavailable",
+            "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+            "source": null,
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_native_templates",
+                "unavailable",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612992949627",
+    "isGroup": true
+}

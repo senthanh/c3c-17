@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2652799344753854",
+    "messageID": "mid.$gAAlstPqavL58XoJI0l2LTz9oreAv",
+    "senderID": "100028146874278",
+    "attachments": [],
+    "body": "Nhà em cũng đầy diều",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607076741330,
+    "messageReply": {
+        "threadID": "2652799344753854",
+        "messageID": "mid.$gAAlstPqavL58XoE3F12LTvqtgQkr",
+        "senderID": "100056789629934",
+        "attachments": [],
+        "body": "chứ mua diều cho e thả mới có tâm hẻ :((",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607076671255
+    }
+}

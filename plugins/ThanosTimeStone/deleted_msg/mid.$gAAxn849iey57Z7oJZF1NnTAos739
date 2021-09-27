@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57Z7oJZF1NnTAos739",
+    "senderID": "100014423018402",
+    "attachments": [],
+    "body": "Kệ bạn",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602936422756,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57Z7ni_V1NnSVQt-5e",
+        "senderID": "100011502243536",
+        "attachments": [],
+        "body": "Adroi k bị gì haha",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602936412925
+    }
+}

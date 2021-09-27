@@ -1,0 +1,23 @@
+{
+    "type": "message",
+    "senderID": "100061274770284",
+    "body": "Vì fb cấm gửi file .js nên đã đổi các file có đuôi .js thành đuôi .txt",
+    "threadID": "4563174340369177",
+    "messageID": "mid.$gABA2LtGbGxmB9LQvVl7w27kSvX1-",
+    "attachments": [
+        {
+            "type": "file",
+            "filename": "nude.txt",
+            "ID": "959629614885184",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcdn.fbsbx.com%2Fv%2Ft59.2708-21%2F240941510_224329846204264_1480929439222554629_n.txt%2Fnude.txt%3F_nc_cat%3D104%26ccb%3D1-5%26_nc_sid%3D0cab14%26_nc_ohc%3DI2p_sQFoPocAX-kWnGB%26_nc_ht%3Dcdn.fbsbx.com%26oh%3D8c1dd160f6342e8c66245ccd92b3909c%26oe%3D6139DB6C%26dl%3D1&h=AT3KOWaUw3VJN2zoWrIKthGHlA5FD0U5AOuuwZ1vMrg4DUFmTCeINEziy6divum5UmH7dqAdgotdzuYCpcTYtr4UR2osJbBAFhm2Zw2z0_fnVmpuKhEANC_UXRKhMqllozPsWnv1Cf6mYrbHMYIEF7nPgro&s=1",
+            "isMalicious": false,
+            "contentType": "attach:text",
+            "name": "nude.txt",
+            "mimeType": "",
+            "fileSize": -1
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1631071430486",
+    "isGroup": true
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4553246968081463",
+    "messageID": "mid.$gABAtJ2wbbDd7yORPTl1l58B62fY8",
+    "senderID": "100036743982200",
+    "attachments": [],
+    "body": "@Nguyễn Lưu Hoàng Lan",
+    "isGroup": true,
+    "mentions": {
+        "100026010572827": "@Nguyễn Lưu Hoàng Lan"
+    },
+    "timestamp": 1604566583118,
+    "messageReply": {
+        "threadID": "4553246968081463",
+        "messageID": "mid.$gABAtJ2wbbDd7yOOfH11l55RlVP07",
+        "senderID": "100036743982200",
+        "attachments": [],
+        "body": "12 hả",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604566538015
+    }
+}

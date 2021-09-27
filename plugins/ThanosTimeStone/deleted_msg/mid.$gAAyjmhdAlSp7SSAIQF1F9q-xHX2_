@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100001876785721",
+    "body": "",
+    "threadID": "3557581930927402",
+    "messageID": "mid.$gAAyjmhdAlSp7SSAIQF1F9q-xHX2_",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyjmhdAlSp7SSAIQF1F9q-xHX2_",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ft.co%2Ft7OFhZz7cL%3Fssr%3Dtrue&h=AT07Od9nWrFU-IhRpQy6bioWcqSlH0FjOz9egkHiUITvAmpjJnMetrN-LqrBUfbOKFo4HctIP65zv0LEdhbbl6kA-BC0fIgkKqnPjTHzqCbkt26Vs50xn96eFme02gaJaEMdKLfYS93NMvQ&s=1",
+            "title": "khánh_linh on Twitter",
+            "description": "“Không phải nguoi nào cũng sinh ra là hoàn hảo E ko hoàn hảo bề ngoài nhưng e rất dâm và bú rất giỏi a nào hứng thú chơi lady thì pm cho em hẹn tối nay 9h nha cứ alo e sẽ bú cu và cho đụ lỗ nhị sướng cặt https://t.co/t7OFhZz7cL”",
+            "source": "twitter.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQAedEjrecuIwoDb&w=480&h=640&url=https%3A%2F%2Fpbs.twimg.com%2Fext_tw_video_thumb%2F1260121927403724800%2Fpu%2Fimg%2FRdpgvuCTxWr-VK4C.jpg&_nc_cb=1&_nc_hash=AQAE9n3oE03N1VB1",
+            "width": 480,
+            "height": 640,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://twitter.com/i/videos/1260121947930648576?embed_source=facebook",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "640"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Ft.co%2Ft7OFhZz7cL%3Fssr%3Dtrue&h=AT07Od9nWrFU-IhRpQy6bioWcqSlH0FjOz9egkHiUITvAmpjJnMetrN-LqrBUfbOKFo4HctIP65zv0LEdhbbl6kA-BC0fIgkKqnPjTHzqCbkt26Vs50xn96eFme02gaJaEMdKLfYS93NMvQ&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602423013440",
+    "isGroup": true
+}

@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100029776670269",
+    "body": "Xavien Schiavone Traveroux, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 5!",
+    "threadID": "3487254144692427",
+    "messageID": "mid.$gAAxjo6CJMMt9vo8AKV3jUmqxapK6",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "3725145150909531",
+            "filename": "gif-3725145150909531",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "previewWidth": 538,
+            "previewHeight": 302,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "width": 538,
+            "height": 302,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "name": "gif-3725145150909531",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6tXiKnqQQngAX-U3xzk&_nc_ht=cdn.fbsbx.com&oh=bc2c60e0a8ed2e44399b1c122fb7a89c&oe=6025BBEC"
+        }
+    ],
+    "mentions": {
+        "100056501493691": "Xavien Schiavone Traveroux"
+    },
+    "timestamp": "1612983154729",
+    "isGroup": true
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100040547358602",
+    "body": "",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7ANd9ZV0z5IyQ8gn-",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "568554150208913",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/47285654_634562456941415_3432943071652741120_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=bfpgd1LvG_kAX_WP7bC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ef0f58da95c4c16ed265603445b65ce9&oe=5F951573",
+            "packID": "568543226876672",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/47017174_634562466941414_37601373524590592_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=HuHrD0ZSh0gAX8dmlzH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ecda4d531d4fb6611bda8af7f88b9745&oe=5F94D587"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/47017174_634562466941414_37601373524590592_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=HuHrD0ZSh0gAX8dmlzH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=53c72a1facaeb7a5967568fc39a32138&oe=5F960489"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "silly, bear bursting through wall",
+            "description": "silly, bear bursting through wall",
+            "frameCount": 15,
+            "frameRate": 50,
+            "framesPerRow": 4,
+            "framesPerCol": 4,
+            "stickerID": "568554150208913",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p480x480/47017174_634562466941414_37601373524590592_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=HuHrD0ZSh0gAX8dmlzH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ecda4d531d4fb6611bda8af7f88b9745&oe=5F94D587"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/47017174_634562466941414_37601373524590592_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=HuHrD0ZSh0gAX8dmlzH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=53c72a1facaeb7a5967568fc39a32138&oe=5F960489"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1601210299749",
+    "isGroup": true
+}

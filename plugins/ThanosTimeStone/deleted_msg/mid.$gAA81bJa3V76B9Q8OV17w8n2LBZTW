@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4280865151997886",
+    "messageID": "mid.$gAA81bJa3V76B9Q8OV17w8n2LBZTW",
+    "senderID": "100056243375739",
+    "attachments": [],
+    "body": "Địt mẹ cuộc sống",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631077385815,
+    "messageReply": {
+        "threadID": "4280865151997886",
+        "messageID": "mid.$gAA81bJa3V76B9Q7Rll7w8mFqEU2Z",
+        "senderID": "100064712361443",
+        "attachments": [],
+        "body": "Thời gian cứ trôi tình ng còn mãi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631077370262
+    }
+}

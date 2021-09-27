@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3461323560614104",
+    "messageID": "mid.$gAAxMDjFIeNh8Z1U9mV2Ng_lK11R0",
+    "senderID": "100047365741258",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "376220576995367",
+            "filename": "image-376220576995367",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/130194059_376220580328700_2223414067184651030_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=OqpDtbNQFikAX9VZSu9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=6573d862e525ea38dbdf07f2911bf979&oe=5FF36BF8",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/130194059_376220580328700_2223414067184651030_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=OqpDtbNQFikAX9VZSu9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=f063e02d36d884fe9b9ab7b318b43ddb&oe=5FF0C115",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130194059_376220580328700_2223414067184651030_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=OqpDtbNQFikAX9VZSu9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7802667ab582115e74c6dc6ddd9d78ea&oe=5FF1A394",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130194059_376220580328700_2223414067184651030_n.jpg?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=OqpDtbNQFikAX9VZSu9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7802667ab582115e74c6dc6ddd9d78ea&oe=5FF1A394",
+            "width": 960,
+            "height": 960,
+            "name": "image-376220576995367"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607224784281,
+    "messageReply": {
+        "threadID": "3461323560614104",
+        "messageID": "mid.$gAAxMDjFIeNh8Z1MYD12Ng3PoiDX8",
+        "senderID": "100055232867140",
+        "attachments": [],
+        "body": "Gửi ảnh làm bìa",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607224643599
+    }
+}

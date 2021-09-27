@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3923075824416024",
+    "messageID": "mid.$gAA3wBETw9Rh8YuQc412MZ9vxKaFE",
+    "senderID": "100052431272050",
+    "attachments": [],
+    "body": "Mới đb",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607150261475,
+    "messageReply": {
+        "threadID": "3923075824416024",
+        "messageID": "mid.$gAA3wBETw9Rh8YuPw3l2MZ6p_QYw6",
+        "senderID": "100008411019350",
+        "attachments": [],
+        "body": "Cái này a chiếu mới cà mau",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607150250206
+    }
+}

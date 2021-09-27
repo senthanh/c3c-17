@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2972586662863646",
+    "messageID": "mid.$gAAqPjUQaox59wzmLbF3kfRG1roIg",
+    "senderID": "100044110719519",
+    "attachments": [],
+    "body": "Ohh ate bumati si ex mo 🤭",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613061440364,
+    "messageReply": {
+        "threadID": "2972586662863646",
+        "messageID": "mid.$gAAqPjUQaox59wzTqCV3ke-lYRxW6",
+        "senderID": "100035529244020",
+        "attachments": [],
+        "body": "@Chow King Happy Birthday ^__^, enjoy your day kahit midnight na! More birthdays to come. Godbless! 🌾🌺",
+        "isGroup": true,
+        "mentions": {
+            "100056541948651": "@Chow King"
+        },
+        "timestamp": 1613061136905
+    }
+}

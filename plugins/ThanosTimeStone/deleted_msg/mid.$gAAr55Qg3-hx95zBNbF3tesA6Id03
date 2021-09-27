@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3089511847819804",
+    "messageID": "mid.$gAAr55Qg3-hx95zBNbF3tesA6Id03",
+    "senderID": "100022839800957",
+    "attachments": [],
+    "body": "Sino pla yung asawa ni rin?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613664814444,
+    "messageReply": {
+        "threadID": "3089511847819804",
+        "messageID": "mid.$gAAr55Qg3-hx95y4Inl3tei9g0PHz",
+        "senderID": "100016602160985",
+        "attachments": [],
+        "body": "Ewan😂",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613664665758
+    }
+}

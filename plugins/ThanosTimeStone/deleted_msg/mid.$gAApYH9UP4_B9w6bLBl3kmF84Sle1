@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100033962974750",
+    "body": "https://shp.ee/jq6pkyfcna7",
+    "threadID": "2911643508925424",
+    "messageID": "mid.$gAApYH9UP4_B9w6bLBl3kmF84Sle1",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAApYH9UP4_B9w6bLBl3kmF84Sle1",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fshp.ee%2Fjq6pkyfcna7&h=AT3aA2yRbzFc68aifWLMjIr_kTNpEpjI04mK8lUDzjTzr__tPIAU41PITLJvWZSGkYbGYIaerFgwVtyxfouBI0KkgcpBGwnyH8bSzkUPwUSx-RfnlO4npIGC4EHYr9CrLbey1NPU4iOnTBw&s=1",
+            "title": "Nông trại Shopee",
+            "description": "Chia sẻ để bạn bè phụ tưới cây nhé!",
+            "source": "games.shopee.vn",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQHK_gpFUp1RZ_Ud&w=960&h=504&url=https%3A%2F%2Fcf.shopee.vn%2Ffile%2Fc986a067f843d470cd002e01a6b61666&_nc_cb=1&_nc_hash=AQF2oQeTiodr_HJE",
+            "width": 960,
+            "height": 504,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1200",
+                "height": "630"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fshp.ee%2Fjq6pkyfcna7&h=AT3aA2yRbzFc68aifWLMjIr_kTNpEpjI04mK8lUDzjTzr__tPIAU41PITLJvWZSGkYbGYIaerFgwVtyxfouBI0KkgcpBGwnyH8bSzkUPwUSx-RfnlO4npIGC4EHYr9CrLbey1NPU4iOnTBw&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613068600070",
+    "isGroup": true
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4280865151997886",
+    "messageID": "mid.$gAA81bJa3V76B9VZEI17xBDqHkw8g",
+    "senderID": "100047353368033",
+    "attachments": [],
+    "body": "🎶",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1631082052643,
+    "messageReply": {
+        "threadID": "4280865151997886",
+        "messageID": "mid.$gAA81bJa3V76B9VXcKl7xBCS5PNlj",
+        "senderID": "100070235401917",
+        "attachments": [],
+        "body": "Chị phải anti nó đâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1631082026026
+    }
+}

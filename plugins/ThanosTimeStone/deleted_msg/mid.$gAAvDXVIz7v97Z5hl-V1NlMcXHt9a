@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".play https://youtu.be/4oT0kNXvHrQ",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Z5hl-V1NlMcXHt9a",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97Z5hl-V1NlMcXHt9a",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F4oT0kNXvHrQ&h=AT3cxuYZLpyEtZAVme-dfEy0Ygl95_ZY0bTlhtXjUh6apxg4mW3dK8ly7JPqSyhpO1fFnJBuIeOj4MdmZ2XK0hqti5vMqd7TmUrSTC_yKLQznpBl9kihuGVF3bWHumHNCJ0WLwa65dbP8xM&s=1",
+            "title": "Hoạt hình liên quân hài hước bá đạo phần1,2,3,4,5",
+            "description": "",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQBRuvncRM4_J3rX&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4oT0kNXvHrQ%2Fhqdefault.jpg&sx=0&sy=0&sw=480&sh=360&_nc_cb=1&_nc_hash=AQC4ZMOq8Hu4g0uP",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/4oT0kNXvHrQ?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F4oT0kNXvHrQ&h=AT3cxuYZLpyEtZAVme-dfEy0Ygl95_ZY0bTlhtXjUh6apxg4mW3dK8ly7JPqSyhpO1fFnJBuIeOj4MdmZ2XK0hqti5vMqd7TmUrSTC_yKLQznpBl9kihuGVF3bWHumHNCJ0WLwa65dbP8xM&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602934218233",
+    "isGroup": true
+}

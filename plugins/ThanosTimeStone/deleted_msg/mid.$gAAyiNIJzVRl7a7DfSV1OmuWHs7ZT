@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".yt2mp3 https://youtu.be/HgijbtwszNg",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7a7DfSV1OmuWHs7ZT",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyiNIJzVRl7a7DfSV1OmuWHs7ZT",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FHgijbtwszNg&h=AT0kUXb-0K-c3GC8HiraNzINqKzJoZ9U5SG-XbGfwY-6kqjyKLQxq2ma__yR9bAumkXHlXRrZ6QE0tiYPAiLK2NT4IafBTUtSIlAQIcr3sbx-8nlK2DGz25mCZ6zKkaTUqQXgf7ILx9IPNo&s=1",
+            "title": "Túy Hồng Nhan ( la la la ) Tân Thủy Hử 醉颜红 Lưu Y Đóa sub Kara",
+            "description": "",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDF_OT49_HtF6nW&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHgijbtwszNg%2Fmaxresdefault.jpg&sx=0&sy=0&sw=1280&sh=720&_nc_cb=1&_nc_hash=AQCUL38ynIhWgnHJ",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/HgijbtwszNg?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FHgijbtwszNg&h=AT0kUXb-0K-c3GC8HiraNzINqKzJoZ9U5SG-XbGfwY-6kqjyKLQxq2ma__yR9bAumkXHlXRrZ6QE0tiYPAiLK2NT4IafBTUtSIlAQIcr3sbx-8nlK2DGz25mCZ6zKkaTUqQXgf7ILx9IPNo&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603002931017",
+    "isGroup": true
+}

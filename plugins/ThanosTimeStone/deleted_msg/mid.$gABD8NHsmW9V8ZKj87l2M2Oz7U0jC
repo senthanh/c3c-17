@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100027413328245",
+    "body": "",
+    "threadID": "4780901961980885",
+    "messageID": "mid.$gABD8NHsmW9V8ZKj87l2M2Oz7U0jC",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "629261810523469",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48643922_1960948600688110_5619063236130242560_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=Esc9ygOpzz4AX_E3KLh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b79f04bd23bc329060cd1d67daee15a5&oe=5FF06378",
+            "packID": "628030680646582",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/48585953_1960948597354777_1080977890411020288_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=uQrQJrApKFAAX8ZuhKR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=496c5153de7d7c50f335e096a875cc77&oe=5FF050E9"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48585953_1960948597354777_1080977890411020288_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=uQrQJrApKFAAX8ZuhKR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=694a19e06a1efbef822a45446e413e2f&oe=5FF1FB1B"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "Embarrassed, girl rubbing her face",
+            "description": "Embarrassed, girl rubbing her face",
+            "frameCount": 4,
+            "frameRate": 125,
+            "framesPerRow": 2,
+            "framesPerCol": 2,
+            "stickerID": "629261810523469",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p240x240/48585953_1960948597354777_1080977890411020288_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=uQrQJrApKFAAX8ZuhKR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=496c5153de7d7c50f335e096a875cc77&oe=5FF050E9"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/48585953_1960948597354777_1080977890411020288_n.png?_nc_cat=107&ccb=2&_nc_sid=0572db&_nc_ohc=uQrQJrApKFAAX8ZuhKR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=694a19e06a1efbef822a45446e413e2f&oe=5FF1FB1B"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1607179941102",
+    "isGroup": true
+}

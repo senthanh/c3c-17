@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2307693739333813",
+    "messageID": "mid.$gAAgy1dGVWLV8brvp8V2PXag3VrIv",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "YÊU ĐƯƠNG CON CẶC BỐ MẸ Ở NHÀ CÒNG LƯNG ĐI HỌC =))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607348953585,
+    "messageReply": {
+        "threadID": "2307693739333813",
+        "messageID": "mid.$gAAgy1dGVWLV8brvlDl2PXacr-vcF",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "!yeuduong",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607348952334
+    }
+}

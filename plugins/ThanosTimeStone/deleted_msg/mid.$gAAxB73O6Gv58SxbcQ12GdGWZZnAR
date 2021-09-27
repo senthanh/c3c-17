@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58SxbcQ12GdGWZZnAR",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "203821331197511",
+            "filename": "image-203821331197511",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/125535253_3306248122837635_5752230824815884066_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=jOLgJTOLcxEAX_DcOSr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=97c4eea73efe4617782b7949c851bb24&oe=5FEA099A",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/125535253_3306248122837635_5752230824815884066_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=jOLgJTOLcxEAX_DcOSr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2bf6365f4927965c31ead61bb922465d&oe=5FEB2902",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125535253_3306248122837635_5752230824815884066_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=jOLgJTOLcxEAX_DcOSr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=17efe397cae2efc792dea6d05d14f576&oe=5FEA7F13",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125535253_3306248122837635_5752230824815884066_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=jOLgJTOLcxEAX_DcOSr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=17efe397cae2efc792dea6d05d14f576&oe=5FEA7F13",
+            "width": 720,
+            "height": 960,
+            "name": "image-203821331197511"
+        }
+    ],
+    "body": "Huỳnh Thuận Kha thật là biến thái 😳",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606750934083,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58SxbXIV2GdEqJHlF8",
+        "senderID": "100039337534602",
+        "attachments": [],
+        "body": "!sexy",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606750932769
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4390333244373387",
+    "messageID": "mid.$gAA-Y_B15-Yt8SoEIl12GTu_wCym-",
+    "senderID": "100045815464014",
+    "attachments": [],
+    "body": "Chị mặc bộ đấy đôi vs m nhớ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606741115031,
+    "messageReply": {
+        "threadID": "4390333244373387",
+        "messageID": "mid.$gAA-Y_B15-Yt8SoCbgV2GTtKvMEF8",
+        "senderID": "100017973155378",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "288016009296998",
+                "filename": "image-288016009296998",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/128345939_288016015963664_5745843269282962354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=L-AQWyD0ZbgAX8MjV1a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=ad073e90aadcbbe3f71189eee9eb9807&oe=5FE89BEC",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/128345939_288016015963664_5745843269282962354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=L-AQWyD0ZbgAX8MjV1a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a5605c71b2a8075fbdd2ed15359b24d6&oe=5FE9E6FE",
+                "previewWidth": 498,
+                "previewHeight": 280,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/128345939_288016015963664_5745843269282962354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=L-AQWyD0ZbgAX8MjV1a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=4d6f3a0184e380c82944a87f1bc77145&oe=5FEC67FB",
+                "largePreviewWidth": 854,
+                "largePreviewHeight": 480,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/128345939_288016015963664_5745843269282962354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=L-AQWyD0ZbgAX8MjV1a&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=4d6f3a0184e380c82944a87f1bc77145&oe=5FEC67FB",
+                "width": 961,
+                "height": 540,
+                "name": "image-288016009296998"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606741087105
+    }
+}

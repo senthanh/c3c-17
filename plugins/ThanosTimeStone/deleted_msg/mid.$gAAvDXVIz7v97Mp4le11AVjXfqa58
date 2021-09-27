@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Mp4le11AVjXfqa58",
+    "senderID": "100052608830488",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "668551177134176",
+            "filename": "image-668551177134176",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/120107165_2736751999910504_468182886004255506_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=ICJE0UzSIIkAX8Zfx6H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=f4eb9dd8830860fe69b20e630dd3b1a9&oe=5FA1C93F",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120107165_2736751999910504_468182886004255506_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=ICJE0UzSIIkAX8Zfx6H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=01068969ad6f41ee0d9fbc9c120f19a8&oe=5FA41929",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120107165_2736751999910504_468182886004255506_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=ICJE0UzSIIkAX8Zfx6H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1bc0110ad3f677d7e7e62d6717286eeb&oe=5FA47830",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120107165_2736751999910504_468182886004255506_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=ICJE0UzSIIkAX8Zfx6H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1bc0110ad3f677d7e7e62d6717286eeb&oe=5FA47830",
+            "width": 720,
+            "height": 960,
+            "name": "image-668551177134176"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602045402491,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97Mp1qal1AVghcLt8o",
+        "senderID": "100032297747977",
+        "attachments": [],
+        "body": "Mặt chúng mày hãm thế thôi t ko cần nữa đâu =)))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602045354602
+    }
+}

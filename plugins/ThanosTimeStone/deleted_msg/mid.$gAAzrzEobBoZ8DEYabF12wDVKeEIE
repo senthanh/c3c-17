@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3636962369668742",
+    "messageID": "mid.$gAAzrzEobBoZ8DEYabF12wDVKeEIE",
+    "senderID": "100025402550920",
+    "attachments": [],
+    "body": "Địu mé",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1605697065580,
+    "messageReply": {
+        "threadID": "3636962369668742",
+        "messageID": "mid.$gAAzrzEobBoZ8DDTApF12u92ncw9w",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Kỷ Còii đã cố gắng xoá 1 tin nhắn. \r\nNội dung: Con gái thiệc là lươn lẹo 😅",
+        "isGroup": true,
+        "mentions": {
+            "100004768091442": "Kỷ Còii "
+        },
+        "timestamp": 1605695928484
+    }
+}

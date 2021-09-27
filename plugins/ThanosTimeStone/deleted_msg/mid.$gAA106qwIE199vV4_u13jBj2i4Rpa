@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100055502004795",
+    "body": "https://www.facebook.com/groups/262183928815744/permalink/263163902051080/?app=fbl",
+    "threadID": "3787725954618207",
+    "messageID": "mid.$gAA106qwIE199vV4_u13jBj2i4Rpa",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA106qwIE199vV4_u13jBj2i4Rpa",
+            "url": null,
+            "title": "Pakita mo ninakaw Kong op\n\nAt Kung nahawa sila sakin Tang Ina edi mabuti nahawaan sila Ng kagalingan ko\n\nGago Alam mo nalihis ka na sa topic natin\n\nAkala ko ba may ninakaw ako nasaan Ang proweba tol\n\nPAGPAPANGARAP\n\nPAGPAPANGARAP - ETO AY SALITANG NANGANGARAP NG GUSTO NYA KAHIT NA IMPOSIBLE PA\n\nHaLIMBAWA\n\nSI CIRCO AT KASAMA NYA RITO AT NANGANGARAP NA MATALO KAMI\n\nSILA XIO AY NANGANGARAP NA MAY BAHO KAMI\n\nALIPIN- ETO AY ANG MGA UTUSAN KATULAD NI XIO\n\nCIRCUS AT XIO EL BALANSE PATI SA MGA BOBO MONG KASAMAHAN\n\n-ETO KAYO BASAHIN NYO",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612963182523",
+    "isGroup": true
+}

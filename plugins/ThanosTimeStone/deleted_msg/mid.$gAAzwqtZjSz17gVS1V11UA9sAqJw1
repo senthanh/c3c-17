@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17gVS1V11UA9sAqJw1",
+    "senderID": "100038944432591",
+    "attachments": [],
+    "body": "Danh sách lệnh:\n31. *set-fail-rate <slut/crime> <percent without %>\n32. *set-fine-amount <slut/crime> <min/max> <amount>\n33. *set-payout <work/slut/crime> <min/max> <amount>\n34. *rainall <số tiền>\n35. *bal [@mentions]\n36. *balance [@metions]\n37. *eco <add/subtract/multiply/divide/set/reset> <giá trị> [@mention]\n38. *baltop [trang]\n39. *transfer <số tiền> <@mentions>\n40. *unsafetransfer <số tiền> <mã wallet>\n41. *walletcode\n42. *encoder <e.base64/d.base64/...> <tin nhắn/tin nhắn đã mã hoá>\n43. *xp [@nhắc tên]\n44. *rank\n45. *redeem <mã giftcode>\n(Trang 3/6)\nGõ `*help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603365989719,
+    "messageReply": {
+        "threadID": "3642316252465981",
+        "messageID": "mid.$gAAzwqtZjSz17gVSyWl1UA9n52pz5",
+        "senderID": "100038944432591",
+        "attachments": [],
+        "body": "*help 3",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603365988954
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"name": "RandomShibe",
+	"execFile": "index.js",
+	"scopeName": "shibe",
+	"version": "1.0.0",
+	"defineCommand": {
+		"shibe": {
+			"scope": "shibeFunc",
+			"compatibly": ["*"]
+		}
+	},
+	"npmPackageList": {
+		"node-fetch": "*",
+		"discord.js": "*"
+	}
+}

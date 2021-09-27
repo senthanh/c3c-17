@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3326381914097879",
+    "messageID": "mid.$gAAvRU6RgiNd7geWti11UKBho_l1c",
+    "senderID": "100011808452199",
+    "attachments": [],
+    "body": "Mắm lùn nhưng đáng iuu! Okk?😀",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603375490443,
+    "messageReply": {
+        "threadID": "3326381914097879",
+        "messageID": "mid.$gAAvRU6RgiNd7geUsq11UJ_fz4sNZ",
+        "senderID": "100024131404592",
+        "attachments": [],
+        "body": "Con mắm lùn này",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603375457451
+    }
+}

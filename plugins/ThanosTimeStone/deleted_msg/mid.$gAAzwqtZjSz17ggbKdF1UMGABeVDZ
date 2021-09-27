@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3642316252465981",
+    "messageID": "mid.$gAAzwqtZjSz17ggbKdF1UMGABeVDZ",
+    "senderID": "100004073136152",
+    "attachments": [],
+    "body": "Thắng thực sự là do có thích Uyên nên mới sợ :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603377660532,
+    "messageReply": {
+        "threadID": "3642316252465981",
+        "messageID": "mid.$gAAzwqtZjSz17ggZf2l1UMESWhdNH",
+        "senderID": "100022263186510",
+        "attachments": [],
+        "body": "vậy thắng nói đến chụy rồi :((",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603377633242
+    }
+}

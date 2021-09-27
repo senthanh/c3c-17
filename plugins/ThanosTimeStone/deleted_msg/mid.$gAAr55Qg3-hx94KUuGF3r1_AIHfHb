@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3089511847819804",
+    "messageID": "mid.$gAAr55Qg3-hx94KUuGF3r1_AIHfHb",
+    "senderID": "100022839800957",
+    "attachments": [],
+    "body": "Ano ba pag katapos ng 99?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613555033624,
+    "messageReply": {
+        "threadID": "3089511847819804",
+        "messageID": "mid.$gAAr55Qg3-hx94KSjJF3r19WxfULa",
+        "senderID": "100001980783844",
+        "attachments": [],
+        "body": "Oo marunong ako magbilang",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613554998052
+    }
+}

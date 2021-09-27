@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3498163523643482",
+    "messageID": "mid.$gAAxtj6oxaFp97265lV3vibZ7Mv7V",
+    "senderID": "100056071690839",
+    "attachments": [],
+    "body": "Tangina mo dami Kong alam",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613803123093,
+    "messageReply": {
+        "threadID": "3498163523643482",
+        "messageID": "mid.$gAAxtj6oxaFp9725ESV3vij7Jk6iM",
+        "senderID": "100035596613760",
+        "attachments": [],
+        "body": "Hulaan mo sino kaaway ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613803093065
+    }
+}

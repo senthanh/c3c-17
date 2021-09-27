@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100009708281975",
+    "body": "ĐỊT MẸ PASS MÔN VĂN RỒI",
+    "threadID": "2911643508925424",
+    "messageID": "mid.$gAApYH9UP4_B9A7iecV20nOG0gZzc",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "451172865898709",
+            "filename": "image-451172865898709",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/135603643_451172872565375_3704078652010398891_n.png?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=7kba61X0KiEAX84Dpiw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=cbbe9a81526043aff96da5338f31e9c7&oe=6018FF80",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/135603643_451172872565375_3704078652010398891_n.png?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=7kba61X0KiEAX84Dpiw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb66e2b19f9b4e4a66dd577c7ec215f6&oe=601B2E01",
+            "previewWidth": 1158,
+            "previewHeight": 46,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/135603643_451172872565375_3704078652010398891_n.png?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=7kba61X0KiEAX84Dpiw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb66e2b19f9b4e4a66dd577c7ec215f6&oe=601B2E01",
+            "largePreviewWidth": 1158,
+            "largePreviewHeight": 46,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/135603643_451172872565375_3704078652010398891_n.png?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=7kba61X0KiEAX84Dpiw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=eb66e2b19f9b4e4a66dd577c7ec215f6&oe=601B2E01",
+            "width": 1158,
+            "height": 46,
+            "name": "image-451172865898709"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1609848542833",
+    "isGroup": true
+}

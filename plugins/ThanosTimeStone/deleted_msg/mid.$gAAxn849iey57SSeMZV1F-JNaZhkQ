@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100014423018402",
+    "body": ".yt2mp3 https://youtu.be/3356_67a1xg",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57SSeMZV1F-JNaZhkQ",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxn849iey57SSeMZV1F-JNaZhkQ",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F3356_67a1xg&h=AT3n8NSylhFxtYdVDDQMM2XPH63gPgcaHfVkicObN80GNJ9AfnRSMEpx4vusWVt7tblfTWMh296DXxBCV3y-sAWzq5OUq0rXQE5wffI6UvIawKTPHnUvBvXdRtz4gmO9QEHZiLrt6-D8kqo&s=1",
+            "title": "Rên remix _ Ngihtcore",
+            "description": "",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQDKOJ79b6GjoPjS&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3356_67a1xg%2Fhqdefault.jpg&_nc_cb=1&_nc_hash=AQDq7WbpgYNILOpI",
+            "width": 480,
+            "height": 360,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/3356_67a1xg?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "480",
+                "height": "360"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F3356_67a1xg&h=AT3n8NSylhFxtYdVDDQMM2XPH63gPgcaHfVkicObN80GNJ9AfnRSMEpx4vusWVt7tblfTWMh296DXxBCV3y-sAWzq5OUq0rXQE5wffI6UvIawKTPHnUvBvXdRtz4gmO9QEHZiLrt6-D8kqo&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602423506021",
+    "isGroup": true
+}

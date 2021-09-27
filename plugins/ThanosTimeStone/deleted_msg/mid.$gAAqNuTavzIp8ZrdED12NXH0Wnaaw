@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2970576393063562",
+    "messageID": "mid.$gAAqNuTavzIp8ZrdED12NXH0Wnaaw",
+    "senderID": "100048234966042",
+    "attachments": [],
+    "body": "!vn2",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607214431247,
+    "messageReply": {
+        "threadID": "2970576393063562",
+        "messageID": "mid.$gAAqNuTavzIp8ZrcMTF2NXHCG-a-X",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Thanos Time Stone activated: @Hùng Hoàng tried to unsend a message. \r\nContent: Lệnh khác ròii",
+        "isGroup": true,
+        "mentions": {
+            "100048234966042": "Hùng Hoàng "
+        },
+        "timestamp": 1607214416972
+    }
+}

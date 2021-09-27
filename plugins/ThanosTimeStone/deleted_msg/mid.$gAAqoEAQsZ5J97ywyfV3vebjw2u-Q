@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J97ywyfV3vebjw2u-Q",
+    "senderID": "100053502592067",
+    "attachments": [],
+    "body": "tung nhac ten tao nua dit me may",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613798763133,
+    "messageReply": {
+        "threadID": "2999536510068626",
+        "messageID": "mid.$gAAqoEAQsZ5J97yvvj13veagVzyCG",
+        "senderID": "100034046190567",
+        "attachments": [],
+        "body": "Trúc bao giờ mới được như này",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613798745999
+    }
+}

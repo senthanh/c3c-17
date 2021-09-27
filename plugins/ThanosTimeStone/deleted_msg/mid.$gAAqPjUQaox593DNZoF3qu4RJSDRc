@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2972586662863646",
+    "messageID": "mid.$gAAqPjUQaox593DNZoF3qu4RJSDRc",
+    "senderID": "100063118776486",
+    "attachments": [],
+    "body": "Bagik day last 🤧😂",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613480464800,
+    "messageReply": {
+        "threadID": "2972586662863646",
+        "messageID": "mid.$gAAqPjUQaox593DKvAF3qu1fI447p",
+        "senderID": "100010234846036",
+        "attachments": [],
+        "body": "Ni koren ni soren kenni yuri",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613480421120
+    }
+}

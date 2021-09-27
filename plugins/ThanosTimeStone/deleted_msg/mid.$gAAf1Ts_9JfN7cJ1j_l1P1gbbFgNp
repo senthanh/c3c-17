@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2240043682702835",
+    "messageID": "mid.$gAAf1Ts_9JfN7cJ1j_l1P1gbbFgNp",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.propose`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603085540350,
+    "messageReply": {
+        "threadID": "2240043682702835",
+        "messageID": "mid.$gAAf1Ts_9JfN7cJ1ikl1P1gZmTvl5",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".proposa",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603085539986
+    }
+}

@@ -1,0 +1,12 @@
+{
+     "messages": {
+          "whenUserJoin": "Chào mừng {username} đã đến với {groupname} hiện tại box đã có {membercount} thành viên, không tương tác = Bay màu khỏi box 😊💔",
+          "whenUserLeave": "Tạm biệt {username} vừa bị QTV Đá hoặc đã rời khỏi nhóm {groupname} giờ chỉ còn {membercount} ! Hẹn em kiếp sau 😊💔",
+          "whenUserJoinDM": "Chào mừng {username} đã đến với {groupname} hiện tại box đã có {membercount} thành viên, không tương tác = Bay màu khỏi box 😊💔",
+          "whenUserLeaveDM": "Tạm biệt {username} vừa bị QTV Đá hoặc đã rời khỏi nhóm {groupname} giờ chỉ còn {membercount} ! Hẹn em kiếp sau 😊💔"
+     },
+     "help": [
+          "Leave blank the feature you want to turn off",
+          "{username}, {groupname}, {membercount}"
+     ]
+}

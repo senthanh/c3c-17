@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3534715166605984",
+    "messageID": "mid.$gAAyOzgHjQqB8bPb6nl2O7GxfZLAD",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "!thanos\r\nundefined\r\n\n<>: yêu cầu có\n[]: không yêu cầu có",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607319270046,
+    "messageReply": {
+        "threadID": "3534715166605984",
+        "messageID": "mid.$gAAyOzgHjQqB8bPa0vV2O7FiiXQoO",
+        "senderID": "100048234966042",
+        "attachments": [],
+        "body": "!help thanos",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607319252157
+    }
+}

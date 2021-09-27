@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8TgJUUV2HL0KZB2dN",
+    "senderID": "100014716171553",
+    "attachments": [],
+    "body": "Không béiu",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606799920209,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8TgAEjF2HLqvTJ0kA",
+        "senderID": "100014507767327",
+        "attachments": [],
+        "body": "Chiều đi ko Nhỏ hè",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606799768716
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3799637953429752",
+    "messageID": "mid.$gAA1_wCZ9QPh9vRoIfl3i9S_-aoSH",
+    "senderID": "100053743380179",
+    "attachments": [],
+    "body": "PUTANGINA SINO KA????",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612958711934,
+    "messageReply": {
+        "threadID": "3799637953429752",
+        "messageID": "mid.$gAA1_wCZ9QPh9vRlWPV3i9T_1SFV7",
+        "senderID": "100000190045028",
+        "attachments": [],
+        "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612958666301
+    }
+}

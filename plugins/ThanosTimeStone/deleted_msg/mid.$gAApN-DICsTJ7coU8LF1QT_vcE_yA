@@ -1,0 +1,90 @@
+{
+    "type": "message_reply",
+    "threadID": "2900478153371954",
+    "messageID": "mid.$gAApN-DICsTJ7coU8LF1QT_vcE_yA",
+    "senderID": "100025448478195",
+    "attachments": [],
+    "body": "Trừ t ga m !!",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603117511724,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 2900478153371954
+                    },
+                    "messageId": "mid.$gAApN-DICsTJ7coU8LF1QT_vcE_yA",
+                    "offlineThreadingId": "6723962186811833472",
+                    "actorFbId": 100025448478195,
+                    "timestamp": 1603117511724,
+                    "tags": [
+                        "source:chat:orca",
+                        "app_id:256002347743983",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 2900478153371954
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    }
+                },
+                "body": "Trừ t ga m !!",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 1398516,
+                "tqSeqId": 906640,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAApN-DICsTJ7coUCp11QT-6Vv1X5"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&????t8\u000e286.0.0.21.122\b\n$d7713520-01c8-4485-9200-4589e7da75309\u001b\u0004?\u0005layer\u0003www\npush_phase\u0003C3e\tbuenopathIXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/t_sm\u0007www_rev\n1002843167\u0018\u0011messenger_android\u0012\u0000"
+                },
+                "participants": [
+                    100044239219458,
+                    100039153793376,
+                    100053411122302,
+                    100016479529171,
+                    100012755370133,
+                    100028126725484,
+                    100040044465782,
+                    100021740652152,
+                    100010289416368,
+                    100028214572412,
+                    100031115493707,
+                    100013279125602,
+                    100011431913829,
+                    100015293561947,
+                    100045719536892,
+                    100025448478195,
+                    100024752118856,
+                    100036085188930,
+                    100012466000190,
+                    100034274088079,
+                    100041909341058,
+                    100027714433023,
+                    100048968390483,
+                    100045613237476,
+                    100046256382316,
+                    100037078622899,
+                    100024197566509,
+                    100049070200307,
+                    100008884452271
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

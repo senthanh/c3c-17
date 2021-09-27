@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8NDppg12AvUYliURD",
+    "senderID": "100014507767327",
+    "attachments": [],
+    "body": "K.Ngọc với L.Thư á hả",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606367388035,
+    "messageReply": {
+        "threadID": "3708866382467834",
+        "messageID": "mid.$gAA0tMb8_Evp8NDo9rV2AvT2FFsOY",
+        "senderID": "100038322465994",
+        "attachments": [],
+        "body": "Con Ngọc vs con thư",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606367376813
+    }
+}

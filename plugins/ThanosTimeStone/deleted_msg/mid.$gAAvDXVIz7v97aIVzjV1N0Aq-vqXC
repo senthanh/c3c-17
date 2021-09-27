@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97aIVzjV1N0Aq-vqXC",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "This command is disabled by admins.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602949753741,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97aIVyCF1N0An2vN1W",
+        "senderID": "100008884452271",
+        "attachments": [],
+        "body": ".kill",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602949753352
+    }
+}

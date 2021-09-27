@@ -1,0 +1,49 @@
+{
+    "type": "message_reply",
+    "threadID": "3118243618301205",
+    "messageID": "mid.$gAAsUBqsxJRV7a-HhEF1OpyWt9yYr",
+    "senderID": "100040103508915",
+    "attachments": [],
+    "body": "Gọi nc đi🤣🤣",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1603006142736,
+    "messageReply": {
+        "threadID": "3118243618301205",
+        "messageID": "mid.$gAAsUBqsxJRV7a-FMil1OpwDxf_bd",
+        "senderID": "100040179921699",
+        "attachments": [
+            {
+                "type": "sticker",
+                "ID": "420714754953144",
+                "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/69082652_879489652408983_704183746722529280_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=eGGzzGj6WEwAX90tafJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d09f904ed936f25122cc8af05c4e8b9a&oe=5FB0DA2F",
+                "packID": "420705898287363",
+                "spriteUrl": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p370x247/69102501_879489575742324_3448365612017909760_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=g5-UynVPBwAAX_9kkmq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3cea61dd0388d9ea5a62efcf3f38518f&oe=5FB00724"
+                },
+                "spriteUrl2x": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/69102501_879489575742324_3448365612017909760_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=g5-UynVPBwAAX_9kkmq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8e2630fd6bff286326474ed9d2b97a0a&oe=5FB0415C"
+                },
+                "width": 240,
+                "height": 240,
+                "caption": " character laughing with hands covering mouth",
+                "description": " character laughing with hands covering mouth",
+                "frameCount": 8,
+                "frameRate": 125,
+                "framesPerRow": 3,
+                "framesPerCol": 3,
+                "stickerID": "420714754953144",
+                "spriteURI": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/p370x247/69102501_879489575742324_3448365612017909760_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=g5-UynVPBwAAX_9kkmq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3cea61dd0388d9ea5a62efcf3f38518f&oe=5FB00724"
+                },
+                "spriteURI2x": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/69102501_879489575742324_3448365612017909760_n.png?_nc_cat=100&_nc_sid=0572db&_nc_ohc=g5-UynVPBwAAX_9kkmq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8e2630fd6bff286326474ed9d2b97a0a&oe=5FB0415C"
+                }
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603006104714
+    }
+}

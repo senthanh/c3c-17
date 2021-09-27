@@ -1,0 +1,42 @@
+{
+    "type": "message_reply",
+    "threadID": "2240043682702835",
+    "messageID": "mid.$gAAf1Ts_9JfN7ce7d2V1QKmRtfm-1",
+    "senderID": "100008884452271",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1154783518251328",
+            "filename": "image-1154783518251328",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/122144525_1154783521584661_6163947705418882997_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=iPrJZ8pjvmsAX8B3ydr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a3fde40bc68bb07dc34b881f9a27f71e&oe=5FB343D8",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/122144525_1154783521584661_6163947705418882997_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=iPrJZ8pjvmsAX8B3ydr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3a12874f111dc758da484fc266868617&oe=5FB47193",
+            "previewWidth": 396,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122144525_1154783521584661_6163947705418882997_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=iPrJZ8pjvmsAX8B3ydr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=66b47c4beccad3fd3d7f8e2da263f416&oe=5FB1265F",
+            "largePreviewWidth": 640,
+            "largePreviewHeight": 452,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/122144525_1154783521584661_6163947705418882997_n.png?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=iPrJZ8pjvmsAX8B3ydr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=66b47c4beccad3fd3d7f8e2da263f416&oe=5FB1265F",
+            "width": 640,
+            "height": 452,
+            "name": "image-1154783518251328"
+        }
+    ],
+    "body": "@Nguyễn Sơn, Đã bị giết 😈",
+    "isGroup": true,
+    "mentions": {
+        "100025069281790": "@Nguyễn Sơ"
+    },
+    "timestamp": 1603107657177,
+    "messageReply": {
+        "threadID": "2240043682702835",
+        "messageID": "mid.$gAAf1Ts_9JfN7ce7NAF1QKmF8NqFh",
+        "senderID": "100019261366640",
+        "attachments": [],
+        "body": ".kill @Nguyễn Sơn",
+        "isGroup": true,
+        "mentions": {
+            "100025069281790": "@Nguyễn Sơn"
+        },
+        "timestamp": 1603107652864
+    }
+}

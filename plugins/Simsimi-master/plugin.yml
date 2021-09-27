@@ -1,0 +1,21 @@
+name: Simsimi
+author: PTKDrake
+api: [3.0.0, 3.1.0, 3.2.0, 3.3.0, 3.4.0]
+main: Simsimi\Main
+version: 1.0.0
+permissions:
+  simsimi.command:
+    default: op
+    children:
+      simsimi.command.sim:
+        description: "Chat With Simsimi"
+        default: true
+      simsimi.command.tsim:
+        description: "Teach Simsimi"
+        default: true
+      simsimi.command.simall:
+        description: "Allow Simsimi to talk to everyone"
+        default: op
+      simsimi.command.simme:
+        description: "Enable chat with Simsimi without command"
+        default: true

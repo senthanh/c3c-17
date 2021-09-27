@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "Bot Osu HenGi, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 2!",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58GqMsDV16V3QQ4FXa",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "183921829988772",
+            "filename": "gif-183921829988772",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "previewWidth": 480,
+            "previewHeight": 480,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "width": 480,
+            "height": 480,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "name": "gif-183921829988772",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/70680024_3476057455767822_5541087808518619136_n.gif?_nc_cat=101&ccb=2&_nc_sid=041f46&_nc_ohc=t10hpEZrduAAX-UJppo&_nc_ht=cdn.fbsbx.com&oh=466a0c7bd6b0869d07a5aad017571d8f&oe=5FBA30F0"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1605938045965",
+    "isGroup": true
+}

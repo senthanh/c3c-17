@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3921745707846930",
+    "messageID": "mid.$gAA3uzpPQzRJ95bFXNF3tGwO5_dgB",
+    "senderID": "100057287001630",
+    "attachments": [],
+    "body": "Pwede add mo si Agon uato nya bumalk",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613639716660,
+    "messageReply": {
+        "threadID": "3921745707846930",
+        "messageID": "mid.$gAA3uzpPQzRJ95bDrdV3tGujE2M1F",
+        "senderID": "100063370741699",
+        "attachments": [],
+        "body": "Bat kuya?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613639689077
+    }
+}

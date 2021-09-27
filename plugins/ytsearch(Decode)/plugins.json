@@ -1,0 +1,26 @@
+{
+	"plugin_name": "Ytsearch",
+	"plugin_scope": "ytsearch",
+	"plugin_exec": "ytsearch.js",
+	"command_map": {
+		"ytsearch": {
+			"hargs": {
+				"vi_VN": "ytsearch <Tên>",
+				"en_US": "ytsearch <Name>"
+			},
+			"hdesc": {
+				"vi_VN": "Tìm kiếm video trên Youtube",
+				"en_US": "Search video on Youtube"
+			},
+			"fscope": "ytsearch",
+			"compatibly": 0
+		}
+	},
+	"author": "HerokeyVN",
+	"version": "1.0",
+	"node_depends": {
+		"ytsr": "",
+		"axios": ""
+	},
+	"complied_for": "0.5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3491995500837678",
+    "messageID": "mid.$gAAxn849iey57SN7pql1F5mhGmTcG",
+    "senderID": "100008884452271",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng .help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `.rank`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602418745770,
+    "messageReply": {
+        "threadID": "3491995500837678",
+        "messageID": "mid.$gAAxn849iey57SN7kSF1F5mlz0MOg",
+        "senderID": "100014423018402",
+        "attachments": [],
+        "body": ".rnk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602418744392
+    }
+}

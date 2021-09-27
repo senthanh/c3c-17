@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3642481419152222",
+    "messageID": "mid.$gAAzw0UsW6159xPE6vl3k6vyTNqeV",
+    "senderID": "100055834645191",
+    "attachments": [],
+    "body": ".Asim pepe ko => May bata dito",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613090255550,
+    "messageReply": {
+        "threadID": "3642481419152222",
+        "messageID": "mid.$gAAzw0UsW6159xPDM713k6uEgsV8r",
+        "senderID": "100025158428541",
+        "attachments": [],
+        "body": "Asim pepe ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613090227439
+    }
+}

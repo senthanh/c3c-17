@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3408365299281814",
+    "messageID": "mid.$gAAwb4-Ltr5Z8ajCoAl2OOtfYx1Qp",
+    "senderID": "100013534442712",
+    "attachments": [],
+    "body": "Ngủ đi ai",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607272718338,
+    "messageReply": {
+        "threadID": "3408365299281814",
+        "messageID": "mid.$gAAwb4-Ltr5Z8ajB6L12OOsuUu5x5",
+        "senderID": "100006792150763",
+        "attachments": [],
+        "body": "Kìu k muốn mình ngủ ngon r :(",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607272706607
+    }
+}

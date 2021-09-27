@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3808966952488845",
+    "messageID": "mid.$gAA2IPDoqD419wRhu7l3j9MmugSB5",
+    "senderID": "100022273931569",
+    "attachments": [],
+    "body": "So magkasabwat nga sila",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613025715950,
+    "messageReply": {
+        "threadID": "3808966952488845",
+        "messageID": "mid.$gAA2IPDoqD419wRc4W13j9Hv3BuKe",
+        "senderID": "100010660117870",
+        "attachments": [],
+        "body": "sinend nya kay agatha",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613025636443
+    }
+}

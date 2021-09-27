@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv58Sx13rl2Gdgvyja9L",
+    "senderID": "100057216024905",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "3463993506982313",
+            "filename": "image-3463993506982313",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/125216885_694554191197158_469348521830711451_n.jpg?_nc_cat=101&ccb=2&_nc_sid=ae9488&_nc_ohc=6JXbzt8YvMQAX-3uK8k&_nc_oc=AQmRaA896GQIdRasFhyBWn7D5RqAkQxDKISupUNCJj1jaV7ANiEwkRFQATvf7UCEsmU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=f599cdb5c3194f1ed58d14d7f32465e7&oe=5FEB1FF8",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/125216885_694554191197158_469348521830711451_n.jpg?_nc_cat=101&ccb=2&_nc_sid=ae9488&_nc_ohc=6JXbzt8YvMQAX-3uK8k&_nc_oc=AQmRaA896GQIdRasFhyBWn7D5RqAkQxDKISupUNCJj1jaV7ANiEwkRFQATvf7UCEsmU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=d0c1c691d10b52a144a5d02fbe421dc3&oe=5FEC9AFC",
+            "previewWidth": 280,
+            "previewHeight": 373,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125216885_694554191197158_469348521830711451_n.jpg?_nc_cat=101&ccb=2&_nc_sid=ae9488&_nc_ohc=6JXbzt8YvMQAX-3uK8k&_nc_oc=AQmRaA896GQIdRasFhyBWn7D5RqAkQxDKISupUNCJj1jaV7ANiEwkRFQATvf7UCEsmU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a5cfedf516cc16b6819033ef3f541c9e&oe=5FEC50E5",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 640,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/125216885_694554191197158_469348521830711451_n.jpg?_nc_cat=101&ccb=2&_nc_sid=ae9488&_nc_ohc=6JXbzt8YvMQAX-3uK8k&_nc_oc=AQmRaA896GQIdRasFhyBWn7D5RqAkQxDKISupUNCJj1jaV7ANiEwkRFQATvf7UCEsmU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a5cfedf516cc16b6819033ef3f541c9e&oe=5FEC50E5",
+            "width": 1248,
+            "height": 1664,
+            "name": "image-3463993506982313"
+        }
+    ],
+    "body": "Ngọc Quyên thật là biến thái 😳",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606751367086,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv58Sx1xOV2GdgwnG_X8",
+        "senderID": "100031093805210",
+        "attachments": [],
+        "body": "!sexy",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606751365433
+    }
+}

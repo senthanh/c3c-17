@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100029776670269",
+    "body": "Shouko Nishimiya Traveroux, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 2!",
+    "threadID": "3487254144692427",
+    "messageID": "mid.$gAAxjo6CJMMt9wWtcOl3kCYE3ul5l",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "1051290525392321",
+            "filename": "gif-1051290525392321",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "previewWidth": 538,
+            "previewHeight": 302,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "width": 538,
+            "height": 302,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "name": "gif-1051290525392321",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/123669514_2842242619351482_1862286771418783028_n.gif?_nc_cat=110&ccb=3&_nc_sid=041f46&_nc_ohc=6SUqsrwCqoYAX9uhnRK&_nc_ht=cdn.fbsbx.com&oh=53ac3b455e612f5c7485d968a63fdf46&oe=602664AC"
+        }
+    ],
+    "mentions": {
+        "100054290868540": "Shouko Nishimiya Traveroux"
+    },
+    "timestamp": "1613031150650",
+    "isGroup": true
+}

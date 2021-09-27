@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": ".play https://youtu.be/V8Lvp-SXf5E",
+    "threadID": "3556046131123481",
+    "messageID": "mid.$gAAyiNIJzVRl7a8O-GF1On5uGs1O7",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyiNIJzVRl7a8O-GF1On5uGs1O7",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FV8Lvp-SXf5E&h=AT2Jv0KFJOFizVNouLKivr79gy_WmVM5WC9n9up7ywZrM2kvi3glt1gsFMKygORxPutUJVNHq7Hku2bixyKGsSYMpu2KCgRKWOiFGNOitJIAB66VY6cDdzAa5USAMnG18qmiDrphNajil-Q&s=1",
+            "title": "Tuý Hồng Nhan Lời Việt",
+            "description": "Tuý Hồng Nhan Lời Việt Vó ngựa đạp ánh trăng phồn hoa Mười năm sinh tử này chóng qua Khắc tên người dưới mưa hồng đậu tiễn đưa Máu tươi lại vấy lên đàn xưa N...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQAk0ZnHx_xpSBHa&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV8Lvp-SXf5E%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQAxMxNsmUTgKKKz",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 0,
+            "playableUrl": "https://www.youtube.com/embed/V8Lvp-SXf5E?autoplay=1",
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FV8Lvp-SXf5E&h=AT2Jv0KFJOFizVNouLKivr79gy_WmVM5WC9n9up7ywZrM2kvi3glt1gsFMKygORxPutUJVNHq7Hku2bixyKGsSYMpu2KCgRKWOiFGNOitJIAB66VY6cDdzAa5USAMnG18qmiDrphNajil-Q&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1603004167704",
+    "isGroup": true
+}

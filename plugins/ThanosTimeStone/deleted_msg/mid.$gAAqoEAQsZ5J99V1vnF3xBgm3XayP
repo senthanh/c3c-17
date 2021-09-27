@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J99V1vnF3xBgm3XayP",
+    "senderID": "100052153322984",
+    "attachments": [],
+    "body": "Buồi con mẹ mày",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613902653340,
+    "messageReply": {
+        "threadID": "2999536510068626",
+        "messageID": "mid.$gAAqoEAQsZ5J99V1Bz13xBf5W_9JL",
+        "senderID": "100049746740124",
+        "attachments": [],
+        "body": "Hi buồi tâm đắc",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613902641615
+    }
+}

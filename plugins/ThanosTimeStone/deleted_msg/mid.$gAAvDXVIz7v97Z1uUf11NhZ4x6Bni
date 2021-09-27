@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Z1uUf11NhZ4x6Bni",
+    "senderID": "100044825586470",
+    "attachments": [],
+    "body": "Strongbow uống không",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602930232447,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97Z1rbLl1NhWSdt__a",
+        "senderID": "100055907296140",
+        "attachments": [],
+        "body": "tai out là các bạn chả uống rượu với mình 😞",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602930185006
+    }
+}

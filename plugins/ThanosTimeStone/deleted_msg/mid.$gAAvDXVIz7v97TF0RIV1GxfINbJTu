@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97TF0RIV1GxfINbJTu",
+    "senderID": "100056343245728",
+    "attachments": [],
+    "body": "Anh Nguyên đẹp trai như birain luôn, tên con chó con nhà em. =)",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602477345057,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97TF0PR11GxfBprxJP",
+        "senderID": "100055551666622",
+        "attachments": [],
+        "body": "!sim nay nguyên có đẹp trai hông?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602477344583
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100062915439994",
+    "body": "",
+    "threadID": "3692222084165431",
+    "messageID": "mid.$gAA0eDnHCLzd94e4zeAAYC05jR-nZ",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA0eDnHCLzd94e4zeAAYC05jR-nZ",
+            "url": null,
+            "title": "Join John's room",
+            "description": "msngr.com",
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t66.33906-6/122388904_112296560877525_3480915454470870535_n.jpg?_nc_cat=102&ccb=3&_nc_sid=7ae329&_nc_ohc=Zv6OT3zXxVoAX9pxFqQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=aaa9255aa152e0d7a4058b3c9a1b8d72&oe=6053C70D",
+            "width": 0,
+            "height": 0,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": {
+                "__typename": "MessengerCallInviteLink"
+            },
+            "styleList": [
+                "video_meetup_link",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613576596344",
+    "isGroup": true
+}

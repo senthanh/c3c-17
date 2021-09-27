@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100022547652883",
+    "body": "#cfc_vietnamese\n#cfc_general\n#cfc_general_mirai\n======================\nTool Auto Install Mirai Bot For Termux (98%).\n======================\nCách dùng:\n-Tải termux .-.\n-Dán đống lệnh này vào: \"pkg install php && pkg install wget && wget https://drive.google.com/u/0/uc?id=1kHASVorW0B11HHVbogx-5jPyKxQNin9P && mv uc?id=1kHASVorW0B11HHVbogx-5jPyKxQNin9P mirai.php && php mirai.php\" (Không copy được? Link copy bên dưới.)\n======================\nLink copy: https://drive.google.com/file/d/1yTg_vtWoh68PUMEoBX4jn_s9E6c0j89A/view?usp=drivesdk\n======================\nLưu ý: Chức năng đăng nhập bằng tài khoản và mật khẩu đã bị lỗi, vui lòng lấy fbstate.json nhé (Không cần đổi tên thành appstate âu :3)\n======================\nLink hướng dẫn lấy Fbstate trên Android: https://www.facebook.com/groups/c3cbot/permalink/383023609636048/?app=fbl\n======================\nP/s: Vì đây là bản beta nên có thể còn nhiều lỗi, mong mn lượng thứ :(((\n======================\nTool Auto Install C3C For Termux (98%): https://www.facebook.com/groups/c3cbot/permalink/340110230594053/?app=fbl\n======================\nUpdate:\n-0.1.0(Beta): Tool vừa viết xong thì",
+    "threadID": "2999536510068626",
+    "messageID": "mid.$gAAqoEAQsZ5J98AjaBV3vsOLu3jOe",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAqoEAQsZ5J98AjaBV3vsOLu3jOe",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fu%2F0%2Fuc%3Fid%3D1kHASVorW0B11HHVbogx-5jPyKxQNin9P&h=AT3EaLSivsCl6a_LUUbeHLjySgw22Ewl66qsraNX56Y-DYso4c_dDAbnT7VAiUWgpElnGQTLwLig_4ObxBERpnQCBxn_SwaB1tTyXuoq4a0ZFOjkoiFImhc2n1RdtK6jdFlvOxM7DcgdxZM&s=1",
+            "title": "doc-08-a0-docs.googleusercontent.com",
+            "description": "",
+            "source": "doc-08-a0-docs.googleusercontent.com",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fu%2F0%2Fuc%3Fid%3D1kHASVorW0B11HHVbogx-5jPyKxQNin9P&h=AT3EaLSivsCl6a_LUUbeHLjySgw22Ewl66qsraNX56Y-DYso4c_dDAbnT7VAiUWgpElnGQTLwLig_4ObxBERpnQCBxn_SwaB1tTyXuoq4a0ZFOjkoiFImhc2n1RdtK6jdFlvOxM7DcgdxZM&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1613813223941",
+    "isGroup": true
+}

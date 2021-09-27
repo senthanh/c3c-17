@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3461323560614104",
+    "messageID": "mid.$gAAxMDjFIeNh8T9sVyF2HpXGutfo1",
+    "senderID": "100045564194947",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1606830901000-2206.mp4",
+            "ID": "AT2H-ZbtA7alYs_hEFsiTb_1nsMtTZTqOFNGSZkd3jGDS9694cDdN3_yXWCbtRDlRj3b5htYitgBmBNWJlQPZecaAXI7A1VdqhaSZVr45i5t2jNHRaXgbCIEjniFt9CWUHlehegCL6FjM6TetEheqvGhQlE",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 2206,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/126521136_141803697333422_8402360667116440161_n.mp4/audioclip-1606830901000-2206.mp4?_nc_cat=109&ccb=2&_nc_sid=7272a8&_nc_ohc=BGj_EOyhudMAX-Nef1s&_nc_ht=cdn.fbsbx.com&oh=73a0c496fd61bc5d670f864e4f4014f6&oe=5FC82CE2&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1606830902728,
+    "messageReply": {
+        "threadID": "3461323560614104",
+        "messageID": "mid.$gAAxMDjFIeNh8T9mE5V2HpTu1Vf-s",
+        "senderID": "100022029167715",
+        "attachments": [],
+        "body": "Ùi box m có mấy bạn giọng hay tek",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1606830800101
+    }
+}

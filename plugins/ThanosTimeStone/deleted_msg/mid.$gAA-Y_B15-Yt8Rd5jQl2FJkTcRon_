@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100029924315517",
+    "body": "",
+    "threadID": "4390333244373387",
+    "messageID": "mid.$gAA-Y_B15-Yt8Rd5jQl2FJkTcRon_",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1458993967465713",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/16684984_1458993974132379_8795383253092532224_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=6kXs3qx-lYgAX9TETak&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a65ff7f7927d8cfd37e0d676d39a95ee&oe=5FE96E31",
+            "packID": "1440530709312039",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 240,
+            "height": 240,
+            "caption": "Sad, cat crying",
+            "description": "Sad, cat crying",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "1458993967465713",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1606663347010",
+    "isGroup": true
+}

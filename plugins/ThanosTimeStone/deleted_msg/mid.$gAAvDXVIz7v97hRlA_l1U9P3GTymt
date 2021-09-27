@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97hRlA_l1U9P3GTymt",
+    "senderID": "100053992895918",
+    "attachments": [],
+    "body": "Nak Trung @Ngo Bá Quốc Anh",
+    "isGroup": true,
+    "mentions": {
+        "100048000453744": "@Ngo Bá Quốc Anh"
+    },
+    "timestamp": 1603429202174,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97hRkdpV1U9PbP5Erw",
+        "senderID": "100048000453744",
+        "attachments": [],
+        "body": "Flo cắt moi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1603429193125
+    }
+}

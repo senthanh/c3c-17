@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "4193905233959942",
+    "messageID": "mid.$gAA7mVaexHAZ9yvJyw13ma0ewHg-c",
+    "senderID": "100040639717011",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1613190996000-5597.mp4",
+            "ID": "AT0YbrnyBwr0O58OveWwoY7X_iu9CHSBB-n6JhTlRVrLEZSDM6247BPkGfKu3kWIvIzDqlWsVzevQcBMlE4QKr6OsC-nycTmR-q6Yzab4LkScXSs46ZSDoPwoA8wn8bY1x7uJR9juKLnuiL8joWVSBc50z0",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 5597,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/148830727_428386908444594_5478686796634688359_n.mp4/audioclip-1613190996000-5597.mp4?_nc_cat=109&ccb=3&_nc_sid=7272a8&_nc_ohc=A__yviTT1jsAX9fg9Em&_nc_ht=cdn.fbsbx.com&oh=931044881d783ca3eed2ae95d15012c5&oe=6028E7ED&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1613190998723,
+    "messageReply": {
+        "threadID": "4193905233959942",
+        "messageID": "mid.$gAA7mVaexHAZ9yvIM-13mazEtaMgO",
+        "senderID": "100055276255399",
+        "attachments": [],
+        "body": ".say gwapo si way",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1613190972667
+    }
+}

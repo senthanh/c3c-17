@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4699565990085043",
+    "messageID": "mid.$gABCyOvlwAbN8YozDh12MUd27V5jZ",
+    "senderID": "100056125222361",
+    "attachments": [],
+    "body": ";sim sơn bóng chúa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607144536967,
+    "messageReply": {
+        "threadID": "4699565990085043",
+        "messageID": "mid.$gABCyOvlwAbN8YoxOMl2MUcCuRelD",
+        "senderID": "100051815653248",
+        "attachments": [],
+        "body": "Làm đệp😂",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607144506930
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "100013625022563",
+    "messageID": "mid.$cAAAB9npyEsd7tPDyEF1g6uo-wgPk",
+    "senderID": "100056747575972",
+    "attachments": [],
+    "body": "🥾 | Oh, xung quanh bạn toàn là rác êii",
+    "isGroup": false,
+    "mentions": {},
+    "timestamp": 1604231866896,
+    "messageReply": {
+        "threadID": "100013625022563",
+        "messageID": "mid.$cAAAB9npyEsd7tPDwd11g6um79JhI",
+        "senderID": "100013625022563",
+        "attachments": [],
+        "body": "!fishing",
+        "isGroup": false,
+        "mentions": {},
+        "timestamp": 1604231866487
+    }
+}

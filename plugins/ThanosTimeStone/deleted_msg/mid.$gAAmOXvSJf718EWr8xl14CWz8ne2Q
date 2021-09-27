@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100022879520093",
+    "body": "!badwordwhitelist add @Pảo Chum",
+    "threadID": "2689813271117757",
+    "messageID": "mid.$gAAmOXvSJf718EWr8xl14CWz8ne2Q",
+    "attachments": [],
+    "mentions": {
+        "100051176267446": "@Pảo Chum"
+    },
+    "timestamp": "1605783368902",
+    "isGroup": true
+}

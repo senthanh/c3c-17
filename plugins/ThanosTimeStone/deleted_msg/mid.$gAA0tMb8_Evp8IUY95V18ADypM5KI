@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100048944291189",
+    "body": "Chào mừng @Lan Phung .",
+    "threadID": "3708866382467834",
+    "messageID": "mid.$gAA0tMb8_Evp8IUY95V18ADypM5KI",
+    "attachments": [],
+    "mentions": {
+        "100014716171553": "Lan Phung "
+    },
+    "timestamp": "1606049396197",
+    "isGroup": true
+}

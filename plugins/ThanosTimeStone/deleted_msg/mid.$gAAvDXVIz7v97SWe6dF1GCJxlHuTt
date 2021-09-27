@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97SWe6dF1GCJxlHuTt",
+    "senderID": "100056343245728",
+    "attachments": [],
+    "body": "là cục cức của chị phương",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1602427712116,
+    "messageReply": {
+        "threadID": "3311030322327295",
+        "messageID": "mid.$gAAvDXVIz7v97SWe3_l1GCJvdV-kJ",
+        "senderID": "100037729787322",
+        "attachments": [],
+        "body": "!sim hỏi lại nè diệu là ai",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1602427711486
+    }
+}

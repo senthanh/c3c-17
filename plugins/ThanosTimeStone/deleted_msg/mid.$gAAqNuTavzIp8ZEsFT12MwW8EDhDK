@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2970576393063562",
+    "messageID": "mid.$gAAqNuTavzIp8ZEsFT12MwW8EDhDK",
+    "senderID": "100048944291189",
+    "attachments": [],
+    "body": "Danh sách lệnh:\n31. !dice <half (nửa)/all (toàn bộ)/số tiền> <over (trên)/under (dưới)> <số dự đoán>\n32. !roulette\n33. !baicao <half (nửa)/all (toàn bộ)/số tiền>\n34. !rps <half (nửa)/all (toàn bộ)/số tiền> [rock (búa)/paper (bao)/scissors (kéo)]\n35. !work\n36. !slut\n37. !crime\n38. !mint\n43. !rainall <số tiền>\n44. !bal [@mentions]\n45. !balance [@metions]\n(Trang 3/8)\nGõ `!help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607173782863,
+    "messageReply": {
+        "threadID": "2970576393063562",
+        "messageID": "mid.$gAAqNuTavzIp8ZEsA5F2MwW3dsIw7",
+        "senderID": "100048234966042",
+        "attachments": [],
+        "body": "!help 3",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607173781732
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "4530707686999866",
+    "messageID": "mid.$gABAYp5ZDxzp8YtaZRV2MZFN2SnsP",
+    "senderID": "100057089185591",
+    "attachments": [],
+    "body": "Tui hỏi you đó🤨",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607149375813,
+    "messageReply": {
+        "threadID": "4530707686999866",
+        "messageID": "mid.$gABAYp5ZDxzp8YtZk4l2MZEaoNf6k",
+        "senderID": "100048944291189",
+        "attachments": [],
+        "body": "Kích hoạt Thanos Time Stone: @Facebook User đã cố gắng xoá 1 tin nhắn. \r\nNội dung: Cái bà kia đâu🤣sao h thành you",
+        "isGroup": true,
+        "mentions": {
+            "100057089185591": "Facebook User "
+        },
+        "timestamp": 1607149362402
+    }
+}

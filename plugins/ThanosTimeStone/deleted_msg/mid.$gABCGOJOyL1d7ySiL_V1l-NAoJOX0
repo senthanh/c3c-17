@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4651177181589335",
+    "messageID": "mid.$gABCGOJOyL1d7ySiL_V1l-NAoJOX0",
+    "senderID": "100048422919214",
+    "attachments": [],
+    "body": "Đ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1604571055101,
+    "messageReply": {
+        "threadID": "4651177181589335",
+        "messageID": "mid.$gABCGOJOyL1d7yShsT11l-F0owvIG",
+        "senderID": "100040747478777",
+        "attachments": [],
+        "body": "Thui vậy cứ nấu thịt bò với mướp i",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1604571046991
+    }
+}

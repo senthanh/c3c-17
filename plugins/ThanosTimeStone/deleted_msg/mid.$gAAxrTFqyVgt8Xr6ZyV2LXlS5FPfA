@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3495675403851275",
+    "messageID": "mid.$gAAxrTFqyVgt8Xr6ZyV2LXlS5FPfA",
+    "senderID": "100051705991439",
+    "attachments": [],
+    "body": "bà kiêu tôi bỏ hộp quà đc mà tôi kiêu ai ko đc -,-",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1607080694217,
+    "messageReply": {
+        "threadID": "3495675403851275",
+        "messageID": "mid.$gAAxrTFqyVgt8XqW-o12LWBzWbvpf",
+        "senderID": "100038304381385",
+        "attachments": [],
+        "body": "Kì gì ???",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1607079065251
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100012823518341",
+    "body": "",
+    "threadID": "3364621426905914",
+    "messageID": "mid.$gAAv0Gvj0Uzp7L2qb6l0_iVR9zSth",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "126361974215266",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851586_126361977548599_392107290_n.png?_nc_cat=1&_nc_sid=ac3552&_nc_ohc=SW_6QRh43xcAX_lS0xz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6b1a72af8ec635933dcfc40de101adb4&oe=5FA2C293",
+            "packID": "126361870881943",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 600,
+            "height": 600,
+            "caption": "Sad, crying face",
+            "description": "Sad, crying face",
+            "frameCount": 0,
+            "frameRate": 83,
+            "framesPerRow": 0,
+            "framesPerCol": 0,
+            "stickerID": "126361974215266",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1601991693290",
+    "isGroup": true
+}

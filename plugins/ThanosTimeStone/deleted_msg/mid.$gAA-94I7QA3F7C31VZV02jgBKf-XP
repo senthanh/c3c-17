@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4430896816980849",
+    "messageID": "mid.$gAA-94I7QA3F7C31VZV02jgBKf-XP",
+    "senderID": "100022901391104",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "941275499684272",
+            "filename": "image-941275499684272",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/120348145_652311522378263_4092184875618877262_n.jpg?_nc_cat=103&_nc_sid=ae9488&_nc_ohc=TOVrQx2p9GkAX-aygDH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=8f3dc8fc78bb592c1f072295788e3b6c&oe=5F97FE30",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/120348145_652311522378263_4092184875618877262_n.jpg?_nc_cat=103&_nc_sid=ae9488&_nc_ohc=TOVrQx2p9GkAX-aygDH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=11e475d9f72d1cf1396d201261d9c71d&oe=5F9A8FBA",
+            "previewWidth": 498,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120348145_652311522378263_4092184875618877262_n.jpg?_nc_cat=103&_nc_sid=ae9488&_nc_ohc=TOVrQx2p9GkAX-aygDH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5eb2cbf7a4d1b42b4d66091b521b9219&oe=5F9A0E3F",
+            "largePreviewWidth": 853,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/120348145_652311522378263_4092184875618877262_n.jpg?_nc_cat=103&_nc_sid=ae9488&_nc_ohc=TOVrQx2p9GkAX-aygDH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=5eb2cbf7a4d1b42b4d66091b521b9219&oe=5F9A0E3F",
+            "width": 960,
+            "height": 540,
+            "name": "image-941275499684272"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1601388940645,
+    "messageReply": {
+        "threadID": "4430896816980849",
+        "messageID": "mid.$gAA-94I7QA3F7C3zxwl02jeo5P901",
+        "senderID": "100050851614332",
+        "attachments": [],
+        "body": "Cho e xin cái wall game của từng ng đc ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1601388915138
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100008884452271",
+    "body": "/adduser https://www.facebook.com/com.ship.351",
+    "threadID": "3311030322327295",
+    "messageID": "mid.$gAAvDXVIz7v97Nrp5nF1BXUveAkHj",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAvDXVIz7v97Nrp5nF1BXUveAkHj",
+            "url": "https://www.facebook.com/com.ship.351",
+            "title": "Cơm Ship",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/c294.0.960.960a/p960x960/120869479_110383277503447_47569816199054573_o.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=paQGg2SzLVEAX8qRsNw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=b0fd1bb5729dc0cd2648ef09a63b93f0&oe=5FA23AF8",
+            "width": 960,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/com.ship.351",
+            "target": {
+                "__typename": "User",
+                "id": "100055953258099",
+                "name": "Cơm Ship",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/c15.0.50.50a/p50x50/120869479_110383277503447_47569816199054573_o.jpg?_nc_cat=105&_nc_sid=7206a8&_nc_ohc=paQGg2SzLVEAX8qRsNw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=27&oh=85c0446dca24dc973fa71eb3094433da&oe=5FA3E0C6"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1602114367900",
+    "isGroup": true
+}
